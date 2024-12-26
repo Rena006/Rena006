@@ -5,9 +5,9 @@ Software Engineer | AI and Quantum Computing Enthusiast | Currently working at I
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 CHVRCHES** - *[Out Of My Head](https://www.last.fm/music/CHVRCHES/_/Out+Of+My+Head)* (Now Playing)
+- **🎵 Blood Orange** - *[You're Not Good Enough](https://www.last.fm/music/Blood+Orange/_/You%27re+Not+Good+Enough)* (Now Playing)
+- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
+- **Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)*
+- **CHVRCHES** - *[Out Of My Head](https://www.last.fm/music/CHVRCHES/_/Out+Of+My+Head)*
 - **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
 - **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
-- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
-- **L'Arc-en-Ciel** - *[Blurry Eyes](https://www.last.fm/music/L%27Arc-en-Ciel/_/Blurry+Eyes)*
