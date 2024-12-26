@@ -2,30 +2,33 @@ name: Update README with Last.fm Scrobbles
 
 on:
   schedule:
-    - cron: '0 * * * *'  
+    - cron: '0 * * * *' 
   workflow_dispatch: 
 
 jobs:
   update-readme:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 # Forzamos Ubuntu 22.04 para evitar problemas
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v3
-    - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: 3.x
-    - name: Install Requirements
-      run: pip install requests
-    - name: Update README
-      run: python update_readme.py
-    - name: Commit and Push Changes
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        git config --local user.name "github-actions[bot]"
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git add README.md
-        git commit -m "Update README with Last.fm Scrobbles" || exit 0
-        git push
-    
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.x
+
+      - name: Install Requirements
+        run: pip install requests
+
+      - name: Update README
+        run: python update_readme.py
+
+      - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with Last.fm Scrobbles" || exit 0
+          git push
