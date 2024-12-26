@@ -2,46 +2,36 @@ name: Update README with Last.fm Scrobbles
 
 on:
   schedule:
-    - cron: '0 * * * *' 
+    - cron: '0 * * * *'  
   workflow_dispatch: 
 
 jobs:
   update-readme:
-    runs-on: ubuntu-22.04 # Usar Ubuntu 22.04 para evitar problemas con Ubuntu 24.04
+    runs-on: ubuntu-22.04
     steps:
-      # Paso 1: Checkout del repositorio
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Paso 2: Configurar Python
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
           python-version: 3.x
 
-      # Paso 3: Instalar dependencias
       - name: Install Requirements
         run: pip install requests
 
-      # Paso 4: Ejecutar el script de Python
       - name: Update README
+        env:
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }} 
         run: python update_readme.py
 
-      # Paso 5: Hacer commit y push de los cambios
       - name: Commit and Push Changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # O usa PAT si es necesario
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # Configurar usuario y correo para Git
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Sincronizar con la última versión de main
           git pull origin main || true
-          
-          # Agregar y realizar commit de los cambios
           git add README.md
-          git commit -m "Update README with Last.fm Scrobbles" || exit 0
-          
-          # Empujar cambios al repositorio
+          git commit -m "Update README with Last.fm Scrobbles" || true
           git push origin main
