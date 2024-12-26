@@ -5,7 +5,6 @@ Software Engineer | AI and Quantum Computing Enthusiast | Currently working at I
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)* (Now Playing)
 - **Pet Shop Boys** - *[Always on My Mind](https://www.last.fm/music/Pet+Shop+Boys/_/Always+on+My+Mind)*
 - **Pet Shop Boys** - *[Love Comes Quickly](https://www.last.fm/music/Pet+Shop+Boys/_/Love+Comes+Quickly)*
 - **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
