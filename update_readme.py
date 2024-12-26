@@ -1,8 +1,8 @@
 import os
 import requests
 
-API_KEY = os.getenv("LASTFM_API_KEY")  
-USERNAME = "REDACTED"  
+API_KEY = os.getenv("LASTFM_API_KEY")
+USERNAME = "REDACTED"
 ENDPOINT = "http://ws.audioscrobbler.com/2.0/"
 
 def get_recent_scrobbles():
@@ -16,13 +16,13 @@ def get_recent_scrobbles():
     response = requests.get(ENDPOINT, params=params)
     data = response.json()
 
-    # Construir el contenido del README con los scrobbles reales
+    # Construir el texto del README
     scrobbles_text = "# 👋 Hi\n\n"
     scrobbles_text += "Rena Here\nSoftware Engineer | AI and Quantum Computing Enthusiast | Currently working at IBM and one of the founding members of Proto AI 🤖💪\n\n"
     scrobbles_text += "# 🎶 Last.fm Scrobbles\n\n"
     if "recenttracks" in data and "track" in data["recenttracks"]:
-        scrobbles = data["recenttracks"]["track"]
-        for track in scrobbles:
+        tracks = data["recenttracks"]["track"]
+        for track in tracks:
             artist = track["artist"]["#text"]
             song = track["name"]
             url = track["url"]
@@ -34,7 +34,8 @@ def get_recent_scrobbles():
     else:
         scrobbles_text += "No scrobbles available."
 
-    with open("README.md", "w") as file:
+    # Escribir en el README.md con codificación utf-8
+    with open("README.md", "w", encoding="utf-8") as file:
         file.write(scrobbles_text)
 
 get_recent_scrobbles()
