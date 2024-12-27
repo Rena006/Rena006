@@ -5,9 +5,8 @@ Software Engineer | AI and Quantum Computing Enthusiast | Currently working at I
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Hiroshi Sato** - *[Love Is The Answer](https://www.last.fm/music/Hiroshi+Sato/_/Love+Is+The+Answer)* (Now Playing)
+- **Brutalismus 3000** - *[Satan Was A Babyboomer](https://www.last.fm/music/Brutalismus+3000/_/Satan+Was+A+Babyboomer)*
+- **MF DOOM** - *[Go With The Flow](https://www.last.fm/music/MF+DOOM/_/Go+With+The+Flow)*
+- **Hiroshi Sato** - *[Love Is The Answer](https://www.last.fm/music/Hiroshi+Sato/_/Love+Is+The+Answer)*
 - **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
 - **Soko** - *[I Come in Peace](https://www.last.fm/music/Soko/_/I+Come+in+Peace)*
-- **Soko** - *[Sweet Sound of Ignorance](https://www.last.fm/music/Soko/_/Sweet+Sound+of+Ignorance)*
-- **Yaeji** - *[Passionfruit](https://www.last.fm/music/Yaeji/_/Passionfruit)*
-- **Baby Do Brasil** - *[Menino Do Rio](https://www.last.fm/music/Baby+Do+Brasil/_/Menino+Do+Rio)*
