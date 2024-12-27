@@ -5,9 +5,9 @@ Software Engineer | AI and Quantum Computing Enthusiast | Currently working at I
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kendrick Lamar** - *[Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)* (Now Playing)
-- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
-- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
-- **Playboi Carti** - *[Location](https://www.last.fm/music/Playboi+Carti/_/Location)*
-- **Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)*
-- **Pet Shop Boys** - *[Always on My Mind](https://www.last.fm/music/Pet+Shop+Boys/_/Always+on+My+Mind)*
+- **🎵 Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)* (Now Playing)
+- **Animal Collective** - *[Also Frightened](https://www.last.fm/music/Animal+Collective/_/Also+Frightened)*
+- **Frank Ocean** - *[Self Control](https://www.last.fm/music/Frank+Ocean/_/Self+Control)*
+- **Wild Nothing** - *[Ocean Repeating (Big-eyed Girl)](https://www.last.fm/music/Wild+Nothing/_/Ocean+Repeating+(Big-eyed+Girl))*
+- **Lou Reed** - *[Perfect Day](https://www.last.fm/music/Lou+Reed/_/Perfect+Day)*
+- **Kendrick Lamar** - *[Bitch, Don’t Kill My Vibe](https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe)*
