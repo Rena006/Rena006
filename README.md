@@ -5,8 +5,9 @@ Software Engineer | AI and Quantum Computing Enthusiast | Currently working at I
 
 # 🎶 Last.fm Scrobbles
 
-- **Brutalismus 3000** - *[Satan Was A Babyboomer](https://www.last.fm/music/Brutalismus+3000/_/Satan+Was+A+Babyboomer)*
-- **MF DOOM** - *[Go With The Flow](https://www.last.fm/music/MF+DOOM/_/Go+With+The+Flow)*
-- **Hiroshi Sato** - *[Love Is The Answer](https://www.last.fm/music/Hiroshi+Sato/_/Love+Is+The+Answer)*
-- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
-- **Soko** - *[I Come in Peace](https://www.last.fm/music/Soko/_/I+Come+in+Peace)*
+- **🎵 Weyes Blood** - *[Everyday](https://www.last.fm/music/Weyes+Blood/_/Everyday)* (Now Playing)
+- **Thundercat** - *[Them Changes](https://www.last.fm/music/Thundercat/_/Them+Changes)*
+- **Boy Harsher** - *[Motion](https://www.last.fm/music/Boy+Harsher/_/Motion)*
+- **Tame Impala** - *[The Less I Know the Better](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better)*
+- **A$AP Rocky** - *[Sundress](https://www.last.fm/music/A$AP+Rocky/_/Sundress)*
+- **Tyler, the Creator** - *[EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)*
