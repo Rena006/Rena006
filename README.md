@@ -5,8 +5,9 @@ Software Engineer | AI and Quantum Computing Enthusiast | Currently working at I
 
 # 🎶 Last.fm Scrobbles
 
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
-- **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
-- **Death Grips** - *[Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)*
-- **Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)*
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
+- **🎵 Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)* (Now Playing)
+- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
+- **Melody's Echo Chamber** - *[Some Time Alone, Alone](https://www.last.fm/music/Melody%27s+Echo+Chamber/_/Some+Time+Alone,+Alone)*
+- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)*
