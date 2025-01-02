@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Fontaines D.C.** - *[Bug](https://www.last.fm/music/Fontaines+D.C./_/Bug)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Fontaines D.C.** - *[Desire](https://www.last.fm/music/Fontaines+D.C./_/Desire)*
-- **Fontaines D.C.** - *[Here's The Thing](https://www.last.fm/music/Fontaines+D.C./_/Here%27s+The+Thing)*
-- **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
+- **🎵 MF DOOM** - *[Potholderz](https://www.last.fm/music/MF+DOOM/_/Potholderz)* (Now Playing)
+- **MF DOOM** - *[Hoe Cakes](https://www.last.fm/music/MF+DOOM/_/Hoe+Cakes)*
+- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
+- **Yaeji** - *[Passionfruit](https://www.last.fm/music/Yaeji/_/Passionfruit)*
+- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
+- **MF DOOM** - *[Beef Rapp](https://www.last.fm/music/MF+DOOM/_/Beef+Rapp)*
 
 # 📀 Top Albums
 
