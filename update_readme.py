@@ -44,7 +44,6 @@ def get_top_albums():
     response = requests.get(ENDPOINT, params=params)
     data = response.json()
 
-    # Construir el texto para Top Albums
     albums_text = "# 📀 Top Albums\n\n"
     if "topalbums" in data and "album" in data["topalbums"]:
         albums = data["topalbums"]["album"]
@@ -52,9 +51,9 @@ def get_top_albums():
             artist = album["artist"]["name"]
             album_name = album["name"]
             url = album["url"]
-            image_url = album["image"][-1]["#text"]  # URL de la carátula (tamaño "extralarge")
+            image_url = album["image"][-1]["#text"]  
 
-            # Mostrar en línea
+            
             if image_url:
                 albums_text += f"<a href='{url}'><img src='{image_url}' alt='{album_name}' title='{artist} - {album_name}' width='100' style='margin-right: 10px;'></a>"
     else:
