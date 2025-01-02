@@ -7,12 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)* (Now Playing)
+- **🎵 Boards of Canada** - *[Aquarius](https://www.last.fm/music/Boards+of+Canada/_/Aquarius)* (Now Playing)
+- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
 - **Elliott Smith** - *[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)*
 - **Tommy february6** - *[I'm in the mood for dancing](https://www.last.fm/music/Tommy+february6/_/I%27m+in+the+mood+for+dancing)*
 - **Serani Poji** - *[ぴぽぴぽ](https://www.last.fm/music/Serani+Poji/_/%E3%81%B4%E3%81%BD%E3%81%B4%E3%81%BD)*
 - **Serani Poji** - *[スマイリーを探して](https://www.last.fm/music/Serani+Poji/_/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%92%E6%8E%A2%E3%81%97%E3%81%A6)*
-- **Fontaines D.C.** - *[Romance](https://www.last.fm/music/Fontaines+D.C./_/Romance)*
 
 # 📀 Top Albums
 
