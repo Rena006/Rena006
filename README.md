@@ -5,8 +5,8 @@ Software Engineer | AI and Quantum Computing Enthusiast | Currently working at I
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **Frederic** - *[OWARASE NIGHT](https://www.last.fm/music/Frederic/_/OWARASE+NIGHT)*
-- **Kingo Hamada** - *[街のドルフィン](https://www.last.fm/music/Kingo+Hamada/_/%E8%A1%97%E3%81%AE%E3%83%89%E3%83%AB%E3%83%95%E3%82%A3%E3%83%B3)*
-- **Emerson Kitamura** - *[Rock Your Baby](https://www.last.fm/music/Emerson+Kitamura/_/Rock+Your+Baby)*
+- **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
+- **Soko** - *[I Come in Peace](https://www.last.fm/music/Soko/_/I+Come+in+Peace)*
+- **Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)*
+- **Nujabes** - *[Sea of Cloud](https://www.last.fm/music/Nujabes/_/Sea+of+Cloud)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
