@@ -52,15 +52,24 @@ def get_top_albums():
             album_name = album["name"]
             playcount = album["playcount"]
             url = album["url"]
-            albums_text += f"- **{artist}** - *[{album_name}]({url})* (Playcount: {playcount})\n"
+            image_url = album["image"][-1]["#text"]  
+            if image_url:
+                albums_text += f"<img src='{image_url}' width='100'>\n\n"
+            albums_text += f"- **{artist}** - *[{album_name}]({url})* (Playcount: {playcount})\n\n"
     else:
         albums_text += "No top albums available.\n"
 
     return albums_text
 
 def update_readme():
-    readme_content = "# 👋 Hi\n\n"
-    readme_content += "Rena Here\nSoftware Engineer | AI and Quantum Computing Enthusiast | Currently working at IBM and one of the founding members of Proto AI 🤖💪\n\n"
+    readme_content = """# 👋 Hi
+
+Rena Here  
+Software Engineer | AI and Quantum Computing Enthusiast | Currently working at IBM and one of the founding members of Proto AI 🤖💪
+
+Computer Science and Engineering passionate about Quantum Computing, Data Science, and Artificial Intelligence. Skilled in teamwork, communication, and leadership, with a focus on creating innovative, research-driven solutions in diverse, interdisciplinary teams.
+
+"""
     readme_content += get_recent_scrobbles()
     readme_content += "\n"
     readme_content += get_top_albums()
