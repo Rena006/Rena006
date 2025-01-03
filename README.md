@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 MF DOOM** - *[Angelz](https://www.last.fm/music/MF+DOOM/_/Angelz)* (Now Playing)
-- **Kendrick Lamar** - *[Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)*
-- **King Geedorah** - *[Next Levels](https://www.last.fm/music/King+Geedorah/_/Next+Levels)*
-- **JPEGMAFIA** - *[1539 N. Calvert](https://www.last.fm/music/JPEGMAFIA/_/1539+N.+Calvert)*
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
 - **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
-- **DANGERDOOM** - *[Crosshairs](https://www.last.fm/music/DANGERDOOM/_/Crosshairs)*
+- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
+- **MF DOOM** - *[Angelz](https://www.last.fm/music/MF+DOOM/_/Angelz)*
+- **Kendrick Lamar** - *[Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)*
 
 # 📀 Top Albums
 
