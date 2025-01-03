@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Japanese Breakfast** - *[Slide Tackle](https://www.last.fm/music/Japanese+Breakfast/_/Slide+Tackle)* (Now Playing)
-- **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
-- **DANGERDOOM** - *[Crosshairs](https://www.last.fm/music/DANGERDOOM/_/Crosshairs)*
-- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
+- **Elliott Smith** - *[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)*
+- **The Beach Boys** - *[Caroline, No](https://www.last.fm/music/The+Beach+Boys/_/Caroline,+No)*
+- **Oneohtrix Point Never** - *[I Don't Love Me Anymore](https://www.last.fm/music/Oneohtrix+Point+Never/_/I+Don%27t+Love+Me+Anymore)*
+- **Oneohtrix Point Never** - *[Babylon](https://www.last.fm/music/Oneohtrix+Point+Never/_/Babylon)*
+- **Frank Ocean** - *[Nights](https://www.last.fm/music/Frank+Ocean/_/Nights)*
 
 # 📀 Top Albums
 
