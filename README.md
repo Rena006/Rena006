@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)* (Now Playing)
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 - **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
 - **Nujabes** - *[Beat Laments the World](https://www.last.fm/music/Nujabes/_/Beat+Laments+the+World)*
 - **Nujabes** - *[Luv (Sic)](https://www.last.fm/music/Nujabes/_/Luv+(Sic))*
-- **Bladee** - *[Girls just want to have fun](https://www.last.fm/music/Bladee/_/Girls+just+want+to+have+fun)*
-- **Bladee** - *[Be Nice 2 Me](https://www.last.fm/music/Bladee/_/Be+Nice+2+Me)*
 
 # 📀 Top Albums
 
