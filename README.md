@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Beach House** - *[Myth](https://www.last.fm/music/Beach+House/_/Myth)* (Now Playing)
-- **Atlas Sound** - *[Te Amo](https://www.last.fm/music/Atlas+Sound/_/Te+Amo)*
-- **Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)*
-- **Ariel Pink** - *[Another Weekend](https://www.last.fm/music/Ariel+Pink/_/Another+Weekend)*
-- **Elliott Smith** - *[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)*
-- **Marineros** - *[Cae la noche](https://www.last.fm/music/Marineros/_/Cae+la+noche)*
+- **Tyler, the Creator** - *[I Killed You](https://www.last.fm/music/Tyler,+the+Creator/_/I+Killed+You)*
+- **Tyler, the Creator** - *[Hey Jane](https://www.last.fm/music/Tyler,+the+Creator/_/Hey+Jane)*
+- **Tyler, the Creator** - *[Darling, I (feat. Teezo Touchdown)](https://www.last.fm/music/Tyler,+the+Creator/_/Darling,+I+(feat.+Teezo+Touchdown))*
+- **Tyler, the Creator** - *[NOID](https://www.last.fm/music/Tyler,+the+Creator/_/NOID)*
+- **Tyler, the Creator** - *[Rah Tah Tah](https://www.last.fm/music/Tyler,+the+Creator/_/Rah+Tah+Tah)*
 
 # 📀 Top Albums
 
