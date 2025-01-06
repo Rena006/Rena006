@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Weyes Blood** - *[Andromeda](https://www.last.fm/music/Weyes+Blood/_/Andromeda)* (Now Playing)
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **Lana Del Rey** - *[Margaret (feat. Bleachers)](https://www.last.fm/music/Lana+Del+Rey/_/Margaret+(feat.+Bleachers))*
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
+- **Aphex Twin** - *[Green Calx](https://www.last.fm/music/Aphex+Twin/_/Green+Calx)*
 - **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
-- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
-- **Nujabes** - *[Beat Laments the World](https://www.last.fm/music/Nujabes/_/Beat+Laments+the+World)*
-- **Nujabes** - *[Luv (Sic)](https://www.last.fm/music/Nujabes/_/Luv+(Sic))*
 
 # 📀 Top Albums
 
