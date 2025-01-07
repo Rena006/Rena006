@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)* (Now Playing)
-- **Tyler, the Creator** - *[Judge Judy](https://www.last.fm/music/Tyler,+the+Creator/_/Judge+Judy)*
-- **Tyler, the Creator** - *[I Killed You](https://www.last.fm/music/Tyler,+the+Creator/_/I+Killed+You)*
-- **Tyler, the Creator** - *[Hey Jane](https://www.last.fm/music/Tyler,+the+Creator/_/Hey+Jane)*
-- **Tyler, the Creator** - *[Darling, I (feat. Teezo Touchdown)](https://www.last.fm/music/Tyler,+the+Creator/_/Darling,+I+(feat.+Teezo+Touchdown))*
-- **Tyler, the Creator** - *[NOID](https://www.last.fm/music/Tyler,+the+Creator/_/NOID)*
+- **CHVRCHES** - *[Out Of My Head](https://www.last.fm/music/CHVRCHES/_/Out+Of+My+Head)*
+- **Aphex Twin** - *[aisatsana [102]](https://www.last.fm/music/Aphex+Twin/_/aisatsana+%5B102%5D)*
+- **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
+- **Elliott Smith** - *[Between the Bars](https://www.last.fm/music/Elliott+Smith/_/Between+the+Bars)*
+- **Pet Shop Boys** - *[New York City Boy - 2017 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/New+York+City+Boy+-+2017+Remaster)*
 
 # 📀 Top Albums
 
