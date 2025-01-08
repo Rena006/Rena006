@@ -7,7 +7,6 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Tyler, the Creator** - *[Balloon (Feat. Doechii)](https://www.last.fm/music/Tyler,+the+Creator/_/Balloon+(Feat.+Doechii))* (Now Playing)
 - **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
 - **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
 - **Steve Lacy** - *[C U Girl](https://www.last.fm/music/Steve+Lacy/_/C+U+Girl)*
