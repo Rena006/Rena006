@@ -7,11 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
-- **Steve Lacy** - *[C U Girl](https://www.last.fm/music/Steve+Lacy/_/C+U+Girl)*
-- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
-- **my bloody valentine** - *[Sometimes](https://www.last.fm/music/my+bloody+valentine/_/Sometimes)*
+- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
+- **Prince** - *[When Doves Cry](https://www.last.fm/music/Prince/_/When+Doves+Cry)*
+- **CHVRCHES** - *[Out Of My Head](https://www.last.fm/music/CHVRCHES/_/Out+Of+My+Head)*
+- **Soko** - *[I Come in Peace](https://www.last.fm/music/Soko/_/I+Come+in+Peace)*
+- **Bladee** - *[Be Nice 2 Me](https://www.last.fm/music/Bladee/_/Be+Nice+2+Me)*
 
 # 📀 Top Albums
 
