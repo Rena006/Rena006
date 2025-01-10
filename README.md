@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 MF DOOM** - *[That's That](https://www.last.fm/music/MF+DOOM/_/That%27s+That)* (Now Playing)
+- **MF DOOM** - *[That's That](https://www.last.fm/music/MF+DOOM/_/That%27s+That)*
 - **Tyler, the Creator** - *[EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)*
 - **Tyler, the Creator** - *[I Hope You Find Your Way Home](https://www.last.fm/music/Tyler,+the+Creator/_/I+Hope+You+Find+Your+Way+Home)*
 - **Tyler, the Creator** - *[Balloon (Feat. Doechii)](https://www.last.fm/music/Tyler,+the+Creator/_/Balloon+(Feat.+Doechii))*
 - **Steve Lacy** - *[C U Girl](https://www.last.fm/music/Steve+Lacy/_/C+U+Girl)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
 
 # 📀 Top Albums
 
