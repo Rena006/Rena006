@@ -7,11 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Kendrick Lamar** - *[Bitch, Don’t Kill My Vibe](https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe)*
-- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
-- **Gorillaz** - *[Sweepstakes (Feat. Mos Def and Hypnotic Brass Ensemble)](https://www.last.fm/music/Gorillaz/_/Sweepstakes+(Feat.+Mos+Def+and+Hypnotic+Brass+Ensemble))*
-- **Gorillaz** - *[Broken](https://www.last.fm/music/Gorillaz/_/Broken)*
-- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
+- **Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)*
+- **Dorian Electra** - *[Career Boy](https://www.last.fm/music/Dorian+Electra/_/Career+Boy)*
+- **Boy Harsher** - *[Fate](https://www.last.fm/music/Boy+Harsher/_/Fate)*
+- **Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)*
+- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
 
 # 📀 Top Albums
 
