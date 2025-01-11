@@ -7,11 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
+- **Death Grips** - *[You Might Think He Loves You for Your Money But I Know What He Really Loves You for It's Your Brand New Leopard Skin Pillbox Hat](https://www.last.fm/music/Death+Grips/_/You+Might+Think+He+Loves+You+for+Your+Money+But+I+Know+What+He+Really+Loves+You+for+It%27s+Your+Brand+New+Leopard+Skin+Pillbox+Hat)*
 - **Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)*
 - **Dorian Electra** - *[Career Boy](https://www.last.fm/music/Dorian+Electra/_/Career+Boy)*
 - **Boy Harsher** - *[Fate](https://www.last.fm/music/Boy+Harsher/_/Fate)*
 - **Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)*
-- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
 
 # 📀 Top Albums
 
