@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)* (Now Playing)
+- **Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)*
 - **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
 - **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 - **Death Grips** - *[You Might Think He Loves You for Your Money But I Know What He Really Loves You for It's Your Brand New Leopard Skin Pillbox Hat](https://www.last.fm/music/Death+Grips/_/You+Might+Think+He+Loves+You+for+Your+Money+But+I+Know+What+He+Really+Loves+You+for+It%27s+Your+Brand+New+Leopard+Skin+Pillbox+Hat)*
 - **Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)*
-- **Dorian Electra** - *[Career Boy](https://www.last.fm/music/Dorian+Electra/_/Career+Boy)*
 
 # 📀 Top Albums
 
