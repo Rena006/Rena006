@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Soko** - *[Sweet Sound of Ignorance](https://www.last.fm/music/Soko/_/Sweet+Sound+of+Ignorance)*
-- **Gorillaz** - *[Superfast Jellyfish](https://www.last.fm/music/Gorillaz/_/Superfast+Jellyfish)*
-- **Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)*
-- **Tyler, the Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+the+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
-- **Mac DeMarco** - *[My Kind of Woman](https://www.last.fm/music/Mac+DeMarco/_/My+Kind+of+Woman)*
+- **🎵 Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)* (Now Playing)
+- **YUKIKA** - *[SOUL LADY](https://www.last.fm/music/YUKIKA/_/SOUL+LADY)*
+- **YUKIKA** - *[NEON](https://www.last.fm/music/YUKIKA/_/NEON)*
+- **Piper** - *[Summer Breeze](https://www.last.fm/music/Piper/_/Summer+Breeze)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **Phoebe Bridgers** - *[Scott Street](https://www.last.fm/music/Phoebe+Bridgers/_/Scott+Street)*
 
 # 📀 Top Albums
 
