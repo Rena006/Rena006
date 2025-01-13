@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Lana Del Rey** - *[Margaret (feat. Bleachers)](https://www.last.fm/music/Lana+Del+Rey/_/Margaret+(feat.+Bleachers))* (Now Playing)
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **Elliott Smith** - *[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
-- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
-- **Mac DeMarco** - *[Chamber of Reflection](https://www.last.fm/music/Mac+DeMarco/_/Chamber+of+Reflection)*
+- **Hiroshi Sato** - *[Say Goodbye](https://www.last.fm/music/Hiroshi+Sato/_/Say+Goodbye)*
+- **Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)*
+- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
+- **The Velvet Underground** - *[Pale Blue Eyes](https://www.last.fm/music/The+Velvet+Underground/_/Pale+Blue+Eyes)*
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
 
 # 📀 Top Albums
 
