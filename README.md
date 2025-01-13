@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)* (Now Playing)
+- **Soko** - *[Sweet Sound of Ignorance](https://www.last.fm/music/Soko/_/Sweet+Sound+of+Ignorance)*
+- **Gorillaz** - *[Superfast Jellyfish](https://www.last.fm/music/Gorillaz/_/Superfast+Jellyfish)*
+- **Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)*
 - **Tyler, the Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+the+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 - **Mac DeMarco** - *[My Kind of Woman](https://www.last.fm/music/Mac+DeMarco/_/My+Kind+of+Woman)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Tame Impala** - *[The Less I Know the Better](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better)*
-- **Marineros** - *[Cae la noche](https://www.last.fm/music/Marineros/_/Cae+la+noche)*
 
 # 📀 Top Albums
 
