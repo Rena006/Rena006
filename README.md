@@ -7,12 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)* (Now Playing)
-- **YUKIKA** - *[SOUL LADY](https://www.last.fm/music/YUKIKA/_/SOUL+LADY)*
-- **YUKIKA** - *[NEON](https://www.last.fm/music/YUKIKA/_/NEON)*
-- **Piper** - *[Summer Breeze](https://www.last.fm/music/Piper/_/Summer+Breeze)*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
-- **Phoebe Bridgers** - *[Scott Street](https://www.last.fm/music/Phoebe+Bridgers/_/Scott+Street)*
+- **🎵 Tyler, the Creator** - *[SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)](https://www.last.fm/music/Tyler,+the+Creator/_/SWEET+%2F+I+THOUGHT+YOU+WANTED+TO+DANCE+(feat.+Brent+Faiyaz+&+Fana+Hues))* (Now Playing)
+- **MF DOOM** - *[Hoe Cakes](https://www.last.fm/music/MF+DOOM/_/Hoe+Cakes)*
+- **MF DOOM** - *[One Beer](https://www.last.fm/music/MF+DOOM/_/One+Beer)*
+- **Tyler, the Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+the+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Tyler, the Creator** - *[Balloon (Feat. Doechii)](https://www.last.fm/music/Tyler,+the+Creator/_/Balloon+(Feat.+Doechii))*
+- **Japanese Breakfast** - *[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)*
 
 # 📀 Top Albums
 
