@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Hiroshi Sato** - *[Say Goodbye](https://www.last.fm/music/Hiroshi+Sato/_/Say+Goodbye)*
-- **Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)*
-- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
-- **The Velvet Underground** - *[Pale Blue Eyes](https://www.last.fm/music/The+Velvet+Underground/_/Pale+Blue+Eyes)*
-- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
+- **🎵 Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)* (Now Playing)
+- **Tyler, the Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+the+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
+- **Mac DeMarco** - *[My Kind of Woman](https://www.last.fm/music/Mac+DeMarco/_/My+Kind+of+Woman)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Tame Impala** - *[The Less I Know the Better](https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better)*
+- **Marineros** - *[Cae la noche](https://www.last.fm/music/Marineros/_/Cae+la+noche)*
 
 # 📀 Top Albums
 
