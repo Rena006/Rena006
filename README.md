@@ -7,13 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)* (Now Playing)
-- **Mac DeMarco** - *[Chamber of Reflection](https://www.last.fm/music/Mac+DeMarco/_/Chamber+of+Reflection)*
-- **Tyler, the Creator** - *[Balloon (Feat. Doechii)](https://www.last.fm/music/Tyler,+the+Creator/_/Balloon+(Feat.+Doechii))*
-- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
-- **Tyler, the Creator** - *[SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)](https://www.last.fm/music/Tyler,+the+Creator/_/SWEET+%2F+I+THOUGHT+YOU+WANTED+TO+DANCE+(feat.+Brent+Faiyaz+&+Fana+Hues))*
-- **MF DOOM** - *[Hoe Cakes](https://www.last.fm/music/MF+DOOM/_/Hoe+Cakes)*
+- **Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)*
+- **Beach House** - *[PPP](https://www.last.fm/music/Beach+House/_/PPP)*
+- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
+- **Soko** - *[Sweet Sound of Ignorance](https://www.last.fm/music/Soko/_/Sweet+Sound+of+Ignorance)*
+- **Mac DeMarco** - *[A Heart Like Hers](https://www.last.fm/music/Mac+DeMarco/_/A+Heart+Like+Hers)*
 
 # 📀 Top Albums
 
-<a href='https://www.last.fm/music/Fontaines+D.C./Romance'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/4f4ae1fdc6b81d93c41c0054d596ccf0.png' alt='Romance' title='Fontaines D.C. - Romance' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Tyler,+the+Creator/Chromakopia'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/8c0b389bb4cbf522bc5a2b58e15b6620.jpg' alt='Chromakopia' title='Tyler, the Creator - Chromakopia' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Japanese+Breakfast/Jubilee'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d93403fbc951b7d31fa80ff826b5180.jpg' alt='Jubilee' title='Japanese Breakfast - Jubilee' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/MF+DOOM/MM..FOOD'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/037a94e241b54965a1470f4af163883d.png' alt='MM..FOOD' title='MF DOOM - MM..FOOD' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a>
+<a href='https://www.last.fm/music/Fontaines+D.C./Romance'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/4f4ae1fdc6b81d93c41c0054d596ccf0.png' alt='Romance' title='Fontaines D.C. - Romance' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Tyler,+the+Creator/Chromakopia'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/8c0b389bb4cbf522bc5a2b58e15b6620.jpg' alt='Chromakopia' title='Tyler, the Creator - Chromakopia' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Japanese+Breakfast/Jubilee'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/5d93403fbc951b7d31fa80ff826b5180.jpg' alt='Jubilee' title='Japanese Breakfast - Jubilee' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/MF+DOOM/MM..FOOD'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/037a94e241b54965a1470f4af163883d.png' alt='MM..FOOD' title='MF DOOM - MM..FOOD' width='100' style='margin-right: 10px;'></a>
