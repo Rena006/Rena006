@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)* (Now Playing)
+- **Mac DeMarco** - *[Chamber of Reflection](https://www.last.fm/music/Mac+DeMarco/_/Chamber+of+Reflection)*
+- **Tyler, the Creator** - *[Balloon (Feat. Doechii)](https://www.last.fm/music/Tyler,+the+Creator/_/Balloon+(Feat.+Doechii))*
 - **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
 - **Tyler, the Creator** - *[SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)](https://www.last.fm/music/Tyler,+the+Creator/_/SWEET+%2F+I+THOUGHT+YOU+WANTED+TO+DANCE+(feat.+Brent+Faiyaz+&+Fana+Hues))*
 - **MF DOOM** - *[Hoe Cakes](https://www.last.fm/music/MF+DOOM/_/Hoe+Cakes)*
-- **MF DOOM** - *[One Beer](https://www.last.fm/music/MF+DOOM/_/One+Beer)*
-- **Tyler, the Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+the+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
 
 # 📀 Top Albums
 
