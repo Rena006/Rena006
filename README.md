@@ -7,11 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
-- **Dorian Electra** - *[Gentleman](https://www.last.fm/music/Dorian+Electra/_/Gentleman)*
-- **Pet Shop Boys** - *[Love Comes Quickly - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Love+Comes+Quickly+-+2018+Remaster)*
-- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
-- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
+- **New Order** - *[Age of Consent - 2015 Remaster](https://www.last.fm/music/New+Order/_/Age+of+Consent+-+2015+Remaster)*
+- **New Order** - *[True Faith](https://www.last.fm/music/New+Order/_/True+Faith)*
+- **New Order** - *[Blue Monday](https://www.last.fm/music/New+Order/_/Blue+Monday)*
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
 
 # 📀 Top Albums
 
