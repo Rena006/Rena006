@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Alice Deejay** - *[Better Off Alone](https://www.last.fm/music/Alice+Deejay/_/Better+Off+Alone)* (Now Playing)
+- **CHVRCHES** - *[Out Of My Head](https://www.last.fm/music/CHVRCHES/_/Out+Of+My+Head)*
+- **Air** - *[La femme d'argent](https://www.last.fm/music/Air/_/La+femme+d%27argent)*
+- **Justice** - *[D.A.N.C.E](https://www.last.fm/music/Justice/_/D.A.N.C.E)*
+- **Air** - *[Ce Matin-là](https://www.last.fm/music/Air/_/Ce+Matin-l%C3%A0)*
 - **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
-- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
-- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
-- **Crystal Castles** - *[Crimewave](https://www.last.fm/music/Crystal+Castles/_/Crimewave)*
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 
 # 📀 Top Albums
 
