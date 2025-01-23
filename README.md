@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)* (Now Playing)
+- **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
 - **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 - **Death Grips** - *[Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)*
 - **Tyler, the Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+the+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
 - **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
 
 # 📀 Top Albums
 
