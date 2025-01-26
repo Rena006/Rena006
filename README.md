@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
-- **CHVRCHES** - *[Out Of My Head](https://www.last.fm/music/CHVRCHES/_/Out+Of+My+Head)*
-- **BADBADNOTGOOD** - *[Time Moves Slow](https://www.last.fm/music/BADBADNOTGOOD/_/Time+Moves+Slow)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
+- **🎵 Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)* (Now Playing)
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
+- **Crystal Castles** - *[Pale Flesh](https://www.last.fm/music/Crystal+Castles/_/Pale+Flesh)*
+- **Crystal Castles** - *[Affection](https://www.last.fm/music/Crystal+Castles/_/Affection)*
+- **Crystal Castles** - *[Plague](https://www.last.fm/music/Crystal+Castles/_/Plague)*
+- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
 
 # 📀 Top Albums
 
