@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
-- **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
-- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
-- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
-- **Crystal Castles** - *[Pale Flesh](https://www.last.fm/music/Crystal+Castles/_/Pale+Flesh)*
+- **🎵 Nujabes** - *[Luv(sic.) Pt3 (feat. Shing02)](https://www.last.fm/music/Nujabes/_/Luv(sic.)+Pt3+(feat.+Shing02))* (Now Playing)
+- **Nujabes** - *[Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))*
+- **MF DOOM** - *[Beef Rapp](https://www.last.fm/music/MF+DOOM/_/Beef+Rapp)*
+- **Boy Harsher** - *[Motion](https://www.last.fm/music/Boy+Harsher/_/Motion)*
+- **Death Grips** - *[Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)*
+- **Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))*
 
 # 📀 Top Albums
 
