@@ -7,11 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Nujabes** - *[Luv(sic.) Pt3 (feat. Shing02)](https://www.last.fm/music/Nujabes/_/Luv(sic.)+Pt3+(feat.+Shing02))*
-- **Nujabes** - *[Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))*
-- **MF DOOM** - *[Beef Rapp](https://www.last.fm/music/MF+DOOM/_/Beef+Rapp)*
-- **Boy Harsher** - *[Motion](https://www.last.fm/music/Boy+Harsher/_/Motion)*
-- **Death Grips** - *[Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)*
+- **YUKIKA** - *[SOUL LADY](https://www.last.fm/music/YUKIKA/_/SOUL+LADY)*
+- **YUKIKA** - *[NEON](https://www.last.fm/music/YUKIKA/_/NEON)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
+- **Nujabes** - *[Music Is Mine](https://www.last.fm/music/Nujabes/_/Music+Is+Mine)*
 
 # 📀 Top Albums
 
