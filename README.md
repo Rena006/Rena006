@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Yeah Yeah Yeahs** - *[Heads Will Roll](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll)* (Now Playing)
-- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
-- **Crystal Waters** - *[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Basement+Boy+Strip+To+The+Bone+Mix)*
-- **Death Grips** - *[Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)*
-- **YUKIKA** - *[SOUL LADY](https://www.last.fm/music/YUKIKA/_/SOUL+LADY)*
-- **YUKIKA** - *[NEON](https://www.last.fm/music/YUKIKA/_/NEON)*
+- **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
+- **Daft Punk** - *[Short Circuit](https://www.last.fm/music/Daft+Punk/_/Short+Circuit)*
+- **The Avalanches** - *[Since I Left You](https://www.last.fm/music/The+Avalanches/_/Since+I+Left+You)*
+- **Riton** - *[Fake ID (Coke & Rum Remix)](https://www.last.fm/music/Riton/_/Fake+ID+(Coke+&+Rum+Remix))*
+- **Home** - *[Resonance](https://www.last.fm/music/Home/_/Resonance)*
 
 # 📀 Top Albums
 
