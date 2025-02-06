@@ -7,11 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
+- **KAYTRANADA** - *[10% (feat. Kali Uchis)](https://www.last.fm/music/KAYTRANADA/_/10%25+(feat.+Kali+Uchis))*
 - **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
 - **Daft Punk** - *[Short Circuit](https://www.last.fm/music/Daft+Punk/_/Short+Circuit)*
 - **The Avalanches** - *[Since I Left You](https://www.last.fm/music/The+Avalanches/_/Since+I+Left+You)*
 - **Riton** - *[Fake ID (Coke & Rum Remix)](https://www.last.fm/music/Riton/_/Fake+ID+(Coke+&+Rum+Remix))*
-- **Home** - *[Resonance](https://www.last.fm/music/Home/_/Resonance)*
 
 # 📀 Top Albums
 
