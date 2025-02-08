@@ -7,12 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)* (Now Playing)
-- **MF DOOM** - *[One Beer](https://www.last.fm/music/MF+DOOM/_/One+Beer)*
-- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
-- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
-- **Nujabes** - *[Luv(sic.) Pt3 (feat. Shing02)](https://www.last.fm/music/Nujabes/_/Luv(sic.)+Pt3+(feat.+Shing02))*
-- **KAYTRANADA** - *[10% (feat. Kali Uchis)](https://www.last.fm/music/KAYTRANADA/_/10%25+(feat.+Kali+Uchis))*
+- **🎵 DJ Jazzy Jeff & The Fresh Prince** - *[Summertime](https://www.last.fm/music/DJ+Jazzy+Jeff+&+The+Fresh+Prince/_/Summertime)* (Now Playing)
+- **Baby Do Brasil** - *[Menino Do Rio](https://www.last.fm/music/Baby+Do+Brasil/_/Menino+Do+Rio)*
+- **Oneohtrix Point Never** - *[Long Road Home](https://www.last.fm/music/Oneohtrix+Point+Never/_/Long+Road+Home)*
+- **Oliver Tree** - *[All That](https://www.last.fm/music/Oliver+Tree/_/All+That)*
+- **Kensuke Ushio** - *[In Mirrors](https://www.last.fm/music/Kensuke+Ushio/_/In+Mirrors)*
+- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
 
 # 📀 Top Albums
 
