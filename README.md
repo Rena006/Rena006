@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 DJ Jazzy Jeff & The Fresh Prince** - *[Summertime](https://www.last.fm/music/DJ+Jazzy+Jeff+&+The+Fresh+Prince/_/Summertime)* (Now Playing)
+- **Frank Ocean** - *[Super Rich Kids](https://www.last.fm/music/Frank+Ocean/_/Super+Rich+Kids)*
+- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
+- **DJ Jazzy Jeff & The Fresh Prince** - *[Summertime](https://www.last.fm/music/DJ+Jazzy+Jeff+&+The+Fresh+Prince/_/Summertime)*
 - **Baby Do Brasil** - *[Menino Do Rio](https://www.last.fm/music/Baby+Do+Brasil/_/Menino+Do+Rio)*
 - **Oneohtrix Point Never** - *[Long Road Home](https://www.last.fm/music/Oneohtrix+Point+Never/_/Long+Road+Home)*
-- **Oliver Tree** - *[All That](https://www.last.fm/music/Oliver+Tree/_/All+That)*
-- **Kensuke Ushio** - *[In Mirrors](https://www.last.fm/music/Kensuke+Ushio/_/In+Mirrors)*
-- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
 
 # 📀 Top Albums
 
