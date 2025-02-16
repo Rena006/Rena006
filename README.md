@@ -7,12 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Boy Harsher** - *[Pain](https://www.last.fm/music/Boy+Harsher/_/Pain)* (Now Playing)
-- **Jerry Paper** - *[Baby](https://www.last.fm/music/Jerry+Paper/_/Baby)*
-- **Frank Ocean** - *[Super Rich Kids](https://www.last.fm/music/Frank+Ocean/_/Super+Rich+Kids)*
-- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
-- **DJ Jazzy Jeff & The Fresh Prince** - *[Summertime](https://www.last.fm/music/DJ+Jazzy+Jeff+&+The+Fresh+Prince/_/Summertime)*
-- **Baby Do Brasil** - *[Menino Do Rio](https://www.last.fm/music/Baby+Do+Brasil/_/Menino+Do+Rio)*
+- **🎵 The Avalanches** - *[Since I Left You](https://www.last.fm/music/The+Avalanches/_/Since+I+Left+You)* (Now Playing)
+- **Home** - *[Resonance](https://www.last.fm/music/Home/_/Resonance)*
+- **Charli XCX** - *[Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+XCX/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)*
+- **Oneohtrix Point Never** - *[Long Road Home](https://www.last.fm/music/Oneohtrix+Point+Never/_/Long+Road+Home)*
+- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
+- **Daft Punk** - *[Short Circuit](https://www.last.fm/music/Daft+Punk/_/Short+Circuit)*
 
 # 📀 Top Albums
 
