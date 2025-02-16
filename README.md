@@ -7,12 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Avalanches** - *[Since I Left You](https://www.last.fm/music/The+Avalanches/_/Since+I+Left+You)* (Now Playing)
-- **Home** - *[Resonance](https://www.last.fm/music/Home/_/Resonance)*
-- **Charli XCX** - *[Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+XCX/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)*
-- **Oneohtrix Point Never** - *[Long Road Home](https://www.last.fm/music/Oneohtrix+Point+Never/_/Long+Road+Home)*
-- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
-- **Daft Punk** - *[Short Circuit](https://www.last.fm/music/Daft+Punk/_/Short+Circuit)*
+- **🎵 Vantage** - *[50//50](https://www.last.fm/music/Vantage/_/50%2F%2F50)* (Now Playing)
+- **Aphex Twin** - *[Alberto Balsalm](https://www.last.fm/music/Aphex+Twin/_/Alberto+Balsalm)*
+- **Charli xcx** - *[365](https://www.last.fm/music/Charli+xcx/_/365)*
+- **Crystal Castles** - *[Pap Smear](https://www.last.fm/music/Crystal+Castles/_/Pap+Smear)*
+- **Daft Punk** - *[Nightvision](https://www.last.fm/music/Daft+Punk/_/Nightvision)*
+- **Yeah Yeah Yeahs** - *[Heads Will Roll (A-Trak Remix)](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll+(A-Trak+Remix))*
 
 # 📀 Top Albums
 
