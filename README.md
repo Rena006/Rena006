@@ -7,11 +7,12 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Boy Harsher** - *[Pain](https://www.last.fm/music/Boy+Harsher/_/Pain)* (Now Playing)
+- **Jerry Paper** - *[Baby](https://www.last.fm/music/Jerry+Paper/_/Baby)*
 - **Frank Ocean** - *[Super Rich Kids](https://www.last.fm/music/Frank+Ocean/_/Super+Rich+Kids)*
 - **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
 - **DJ Jazzy Jeff & The Fresh Prince** - *[Summertime](https://www.last.fm/music/DJ+Jazzy+Jeff+&+The+Fresh+Prince/_/Summertime)*
 - **Baby Do Brasil** - *[Menino Do Rio](https://www.last.fm/music/Baby+Do+Brasil/_/Menino+Do+Rio)*
-- **Oneohtrix Point Never** - *[Long Road Home](https://www.last.fm/music/Oneohtrix+Point+Never/_/Long+Road+Home)*
 
 # 📀 Top Albums
 
