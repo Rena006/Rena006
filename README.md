@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Analogue Bubblebath](https://www.last.fm/music/Aphex+Twin/_/Analogue+Bubblebath)* (Now Playing)
+- **Aphex Twin** - *[Analogue Bubblebath](https://www.last.fm/music/Aphex+Twin/_/Analogue+Bubblebath)*
 - **18 Carat Affair** - *[Microinequities](https://www.last.fm/music/18+Carat+Affair/_/Microinequities)*
 - **Casino Versus Japan** - *[Moonlupe](https://www.last.fm/music/Casino+Versus+Japan/_/Moonlupe)*
 - **Oneohtrix Point Never** - *[Andro](https://www.last.fm/music/Oneohtrix+Point+Never/_/Andro)*
 - **Boards of Canada** - *[Olson](https://www.last.fm/music/Boards+of+Canada/_/Olson)*
-- **Machine Girl** - *[Ginger Claps](https://www.last.fm/music/Machine+Girl/_/Ginger+Claps)*
 
 # 📀 Top Albums
 
