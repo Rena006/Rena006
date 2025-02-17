@@ -7,13 +7,13 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Vantage** - *[50//50](https://www.last.fm/music/Vantage/_/50%2F%2F50)* (Now Playing)
-- **Aphex Twin** - *[Alberto Balsalm](https://www.last.fm/music/Aphex+Twin/_/Alberto+Balsalm)*
-- **Charli xcx** - *[365](https://www.last.fm/music/Charli+xcx/_/365)*
-- **Crystal Castles** - *[Pap Smear](https://www.last.fm/music/Crystal+Castles/_/Pap+Smear)*
-- **Daft Punk** - *[Nightvision](https://www.last.fm/music/Daft+Punk/_/Nightvision)*
-- **Yeah Yeah Yeahs** - *[Heads Will Roll (A-Trak Remix)](https://www.last.fm/music/Yeah+Yeah+Yeahs/_/Heads+Will+Roll+(A-Trak+Remix))*
+- **🎵 Aphex Twin** - *[Hedphelym](https://www.last.fm/music/Aphex+Twin/_/Hedphelym)* (Now Playing)
+- **Aphex Twin** - *[Ptolemy](https://www.last.fm/music/Aphex+Twin/_/Ptolemy)*
+- **Aphex Twin** - *[Schottkey 7th Path](https://www.last.fm/music/Aphex+Twin/_/Schottkey+7th+Path)*
+- **Aphex Twin** - *[We Are the Music Makers](https://www.last.fm/music/Aphex+Twin/_/We+Are+the+Music+Makers)*
+- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
+- **Aphex Twin** - *[Green Calx](https://www.last.fm/music/Aphex+Twin/_/Green+Calx)*
 
 # 📀 Top Albums
 
-<a href='https://www.last.fm/music/Tyler,+the+Creator/Chromakopia'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/8c0b389bb4cbf522bc5a2b58e15b6620.jpg' alt='Chromakopia' title='Tyler, the Creator - Chromakopia' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/6f199a67803148cfb2cf2238b8fda0fb.jpg' alt='Selected Ambient Works 85-92' title='Aphex Twin - Selected Ambient Works 85-92' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/MF+DOOM/MM..FOOD'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/037a94e241b54965a1470f4af163883d.png' alt='MM..FOOD' title='MF DOOM - MM..FOOD' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Fontaines+D.C./Romance'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/4f4ae1fdc6b81d93c41c0054d596ccf0.png' alt='Romance' title='Fontaines D.C. - Romance' width='100' style='margin-right: 10px;'></a>
+<a href='https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/6f199a67803148cfb2cf2238b8fda0fb.jpg' alt='Selected Ambient Works 85-92' title='Aphex Twin - Selected Ambient Works 85-92' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Tyler,+the+Creator/Chromakopia'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/8c0b389bb4cbf522bc5a2b58e15b6620.jpg' alt='Chromakopia' title='Tyler, the Creator - Chromakopia' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/MF+DOOM/MM..FOOD'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/037a94e241b54965a1470f4af163883d.png' alt='MM..FOOD' title='MF DOOM - MM..FOOD' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Fontaines+D.C./Romance'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/4f4ae1fdc6b81d93c41c0054d596ccf0.png' alt='Romance' title='Fontaines D.C. - Romance' width='100' style='margin-right: 10px;'></a>
