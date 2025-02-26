@@ -7,11 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
+- **Nujabes** - *[World's End Rhapsody](https://www.last.fm/music/Nujabes/_/World%27s+End+Rhapsody)*
 - **Nujabes** - *[Luv(sic.) Pt3 (feat. Shing02)](https://www.last.fm/music/Nujabes/_/Luv(sic.)+Pt3+(feat.+Shing02))*
 - **Nujabes** - *[Reflection Eternal](https://www.last.fm/music/Nujabes/_/Reflection+Eternal)*
 - **Nujabes** - *[Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))*
 - **Aphex Twin** - *[Ptolemy](https://www.last.fm/music/Aphex+Twin/_/Ptolemy)*
-- **Aphex Twin** - *[Schottkey 7th Path](https://www.last.fm/music/Aphex+Twin/_/Schottkey+7th+Path)*
 
 # 📀 Top Albums
 
