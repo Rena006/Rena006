@@ -7,12 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Serani Poji** - *[ぴぽぴぽ](https://www.last.fm/music/Serani+Poji/_/%E3%81%B4%E3%81%BD%E3%81%B4%E3%81%BD)* (Now Playing)
-- **Serani Poji** - *[スマイリーを探して](https://www.last.fm/music/Serani+Poji/_/%E3%82%B9%E3%83%9E%E3%82%A4%E3%83%AA%E3%83%BC%E3%82%92%E6%8E%A2%E3%81%97%E3%81%A6)*
-- **Boy Harsher** - *[Pain](https://www.last.fm/music/Boy+Harsher/_/Pain)*
-- **Fontaines D.C.** - *[Favourite](https://www.last.fm/music/Fontaines+D.C./_/Favourite)*
-- **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
-- **Piper** - *[Gentle Shower](https://www.last.fm/music/Piper/_/Gentle+Shower)*
+- **Jazz Liberatorz** - *[Blue Avenue](https://www.last.fm/music/Jazz+Liberatorz/_/Blue+Avenue)*
+- **Cortex** - *[Go Round](https://www.last.fm/music/Cortex/_/Go+Round)*
+- **Witness** - *[Letters to Jun(e)](https://www.last.fm/music/Witness/_/Letters+to+Jun(e))*
+- **Force of Nature** - *[Just Forget](https://www.last.fm/music/Force+of+Nature/_/Just+Forget)*
+- **Nujabes** - *[The Final View](https://www.last.fm/music/Nujabes/_/The+Final+View)*
 
 # 📀 Top Albums
 
