@@ -7,11 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
+- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
+- **Boy Harsher** - *[Motion](https://www.last.fm/music/Boy+Harsher/_/Motion)*
 - **Jazz Liberatorz** - *[Blue Avenue](https://www.last.fm/music/Jazz+Liberatorz/_/Blue+Avenue)*
 - **Cortex** - *[Go Round](https://www.last.fm/music/Cortex/_/Go+Round)*
 - **Witness** - *[Letters to Jun(e)](https://www.last.fm/music/Witness/_/Letters+to+Jun(e))*
-- **Force of Nature** - *[Just Forget](https://www.last.fm/music/Force+of+Nature/_/Just+Forget)*
-- **Nujabes** - *[The Final View](https://www.last.fm/music/Nujabes/_/The+Final+View)*
 
 # 📀 Top Albums
 
