@@ -7,11 +7,11 @@ Currently working at IBM and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
-- **Boy Harsher** - *[Motion](https://www.last.fm/music/Boy+Harsher/_/Motion)*
-- **Jazz Liberatorz** - *[Blue Avenue](https://www.last.fm/music/Jazz+Liberatorz/_/Blue+Avenue)*
-- **Cortex** - *[Go Round](https://www.last.fm/music/Cortex/_/Go+Round)*
-- **Witness** - *[Letters to Jun(e)](https://www.last.fm/music/Witness/_/Letters+to+Jun(e))*
+- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
+- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
+- **Tyler, the Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+the+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 
 # 📀 Top Albums
 
