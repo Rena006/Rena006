@@ -67,7 +67,7 @@ def update_readme():
 Rena Here 👩‍💻⚛️
 
 Computer Science and Engineering passionate about Quantum Computing, Data Science, and Artificial Intelligence. Skilled in teamwork, communication, and leadership, with a focus on creating innovative, research-driven solutions in diverse, interdisciplinary teams.
-Currently working at IBM and one of the founding members of Proto AI 🤖💪
+Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 """
     readme_content += get_recent_scrobbles()
