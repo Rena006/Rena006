@@ -7,11 +7,11 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
-- **Vantage** - *[50//50](https://www.last.fm/music/Vantage/_/50%2F%2F50)*
-- **Charli xcx** - *[365](https://www.last.fm/music/Charli+xcx/_/365)*
-- **Yaeji** - *[Passionfruit](https://www.last.fm/music/Yaeji/_/Passionfruit)*
-- **Lou Reed** - *[Perfect Day](https://www.last.fm/music/Lou+Reed/_/Perfect+Day)*
+- **Tyler, the Creator** - *[See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+(feat.+Kali+Uchis))*
+- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
+- **Tyler, the Creator** - *[EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)*
+- **PinkPantheress** - *[Pain](https://www.last.fm/music/PinkPantheress/_/Pain)*
+- **Tyler, the Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+the+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 
 # 📀 Top Albums
 
