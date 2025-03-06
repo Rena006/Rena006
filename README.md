@@ -7,11 +7,11 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Steve Lacy** - *[Some](https://www.last.fm/music/Steve+Lacy/_/Some)*
-- **Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))*
-- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
 - **Tyler, the Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+the+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
-- **Kendrick Lamar** - *[Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)*
+- **Tyler, the Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+the+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
+- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
+- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
+- **Tyler, the Creator** - *[SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)](https://www.last.fm/music/Tyler,+the+Creator/_/SWEET+%2F+I+THOUGHT+YOU+WANTED+TO+DANCE+(feat.+Brent+Faiyaz+&+Fana+Hues))*
 
 # 📀 Top Albums
 
