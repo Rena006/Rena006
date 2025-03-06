@@ -7,7 +7,6 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Tyler, the Creator** - *[SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)](https://www.last.fm/music/Tyler,+the+Creator/_/SWEET+%2F+I+THOUGHT+YOU+WANTED+TO+DANCE+(feat.+Brent+Faiyaz+&+Fana+Hues))* (Now Playing)
 - **Steve Lacy** - *[Some](https://www.last.fm/music/Steve+Lacy/_/Some)*
 - **Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))*
 - **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
