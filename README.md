@@ -7,11 +7,11 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Yaeji** - *[Passionfruit](https://www.last.fm/music/Yaeji/_/Passionfruit)*
-- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
-- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
-- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
+- **The Cure** - *[Friday I'm in Love](https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love)*
+- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **The Cure** - *[Lovesong](https://www.last.fm/music/The+Cure/_/Lovesong)*
+- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
+- **Morrissey** - *[Suedehead - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Suedehead+-+2011+Remaster)*
 
 # 📀 Top Albums
 
