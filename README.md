@@ -7,12 +7,12 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)* (Now Playing)
-- **Charli XCX** - *[Von dutch](https://www.last.fm/music/Charli+XCX/_/Von+dutch)*
+- **🎵 Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)* (Now Playing)
+- **Aphex Twin** - *[Hedphelym](https://www.last.fm/music/Aphex+Twin/_/Hedphelym)*
+- **Aphex Twin** - *[Ptolemy](https://www.last.fm/music/Aphex+Twin/_/Ptolemy)*
 - **Aphex Twin** - *[Schottkey 7th Path](https://www.last.fm/music/Aphex+Twin/_/Schottkey+7th+Path)*
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
-- **クラムボン** - *[Imaginary Folklore](https://www.last.fm/music/%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%9C%E3%83%B3/_/Imaginary+Folklore)*
+- **Aphex Twin** - *[We Are the Music Makers](https://www.last.fm/music/Aphex+Twin/_/We+Are+the+Music+Makers)*
+- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
 
 # 📀 Top Albums
 
