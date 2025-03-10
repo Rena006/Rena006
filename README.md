@@ -7,11 +7,12 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Playboi Carti** - *[Flex](https://www.last.fm/music/Playboi+Carti/_/Flex)*
-- **Frank Ocean** - *[Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
-- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
-- **Morrissey** - *[Everyday Is Like Sunday - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Everyday+Is+Like+Sunday+-+2011+Remaster)*
+- **🎵 Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)* (Now Playing)
+- **Charli XCX** - *[Von dutch](https://www.last.fm/music/Charli+XCX/_/Von+dutch)*
+- **Aphex Twin** - *[Schottkey 7th Path](https://www.last.fm/music/Aphex+Twin/_/Schottkey+7th+Path)*
+- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
+- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
+- **クラムボン** - *[Imaginary Folklore](https://www.last.fm/music/%E3%82%AF%E3%83%A9%E3%83%A0%E3%83%9C%E3%83%B3/_/Imaginary+Folklore)*
 
 # 📀 Top Albums
 
