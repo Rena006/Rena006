@@ -7,12 +7,11 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)* (Now Playing)
+- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
+- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
+- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 - **Aphex Twin** - *[Hedphelym](https://www.last.fm/music/Aphex+Twin/_/Hedphelym)*
 - **Aphex Twin** - *[Ptolemy](https://www.last.fm/music/Aphex+Twin/_/Ptolemy)*
-- **Aphex Twin** - *[Schottkey 7th Path](https://www.last.fm/music/Aphex+Twin/_/Schottkey+7th+Path)*
-- **Aphex Twin** - *[We Are the Music Makers](https://www.last.fm/music/Aphex+Twin/_/We+Are+the+Music+Makers)*
-- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
 
 # 📀 Top Albums
 
