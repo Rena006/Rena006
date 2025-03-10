@@ -7,12 +7,11 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Playboi Carti** - *[Flex](https://www.last.fm/music/Playboi+Carti/_/Flex)* (Now Playing)
+- **Playboi Carti** - *[Flex](https://www.last.fm/music/Playboi+Carti/_/Flex)*
 - **Frank Ocean** - *[Chanel](https://www.last.fm/music/Frank+Ocean/_/Chanel)*
 - **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
 - **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
 - **Morrissey** - *[Everyday Is Like Sunday - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Everyday+Is+Like+Sunday+-+2011+Remaster)*
-- **The Cure** - *[Friday I'm in Love](https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love)*
 
 # 📀 Top Albums
 
