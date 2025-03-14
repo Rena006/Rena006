@@ -7,12 +7,11 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Frank Ocean** - *[Nikes](https://www.last.fm/music/Frank+Ocean/_/Nikes)* (Now Playing)
+- **Frank Ocean** - *[Nikes](https://www.last.fm/music/Frank+Ocean/_/Nikes)*
 - **Blood Orange** - *[Orlando](https://www.last.fm/music/Blood+Orange/_/Orlando)*
 - **Frank Ocean** - *[Pink + White](https://www.last.fm/music/Frank+Ocean/_/Pink+%252B+White)*
 - **Michael Jackson** - *[Rock With You - Single Version](https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version)*
 - **Frank Ocean** - *[Monks](https://www.last.fm/music/Frank+Ocean/_/Monks)*
-- **Steve Lacy** - *[atomic vomit](https://www.last.fm/music/Steve+Lacy/_/atomic+vomit)*
 
 # 📀 Top Albums
 
