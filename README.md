@@ -7,11 +7,11 @@ Currently working at Axmos and one of the founding members of Proto AI 🤖💪
 
 # 🎶 Last.fm Scrobbles
 
-- **Frank Ocean** - *[Nikes](https://www.last.fm/music/Frank+Ocean/_/Nikes)*
-- **Blood Orange** - *[Orlando](https://www.last.fm/music/Blood+Orange/_/Orlando)*
-- **Frank Ocean** - *[Pink + White](https://www.last.fm/music/Frank+Ocean/_/Pink+%252B+White)*
-- **Michael Jackson** - *[Rock With You - Single Version](https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version)*
-- **Frank Ocean** - *[Monks](https://www.last.fm/music/Frank+Ocean/_/Monks)*
+- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
+- **Tyler, the Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+the+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
+- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
+- **L'Arc-en-Ciel** - *[Blurry Eyes](https://www.last.fm/music/L%27Arc-en-Ciel/_/Blurry+Eyes)*
 
 # 📀 Top Albums
 
