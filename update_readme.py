@@ -62,12 +62,12 @@ def get_top_albums():
     return albums_text
 
 def update_readme():
-    readme_content = """# 👋 Hi
+    readme_content = """# ☺︎ Hi
 
-Rena Here 👩‍💻⚛️
 
-Computer Science and Engineering passionate about Quantum Computing, Data Science, and Artificial Intelligence. Skilled in teamwork, communication, and leadership, with a focus on creating innovative, research-driven solutions in diverse, interdisciplinary teams.
-Currently working at Axmos and one of the founding members of Proto AI 🤖💪
+
+Quantum Computing & AI enthusiast. I code sometimes (╥﹏╥)
+please call me rena. 
 
 """
     readme_content += get_recent_scrobbles()
