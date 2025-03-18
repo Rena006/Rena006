@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)* (Now Playing)
+- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
+- **Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)*
+- **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
 - **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
 - **The Smashing Pumpkins** - *[1979 - Remastered 2012](https://www.last.fm/music/The+Smashing+Pumpkins/_/1979+-+Remastered+2012)*
-- **L'Arc-en-Ciel** - *[Blurry Eyes](https://www.last.fm/music/L%27Arc-en-Ciel/_/Blurry+Eyes)*
-- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
-- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
 
 # 📀 Top Albums
 
