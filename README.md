@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)* (Now Playing)
-- **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
-- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
-- **Machine Girl** - *[Crystalline Chute](https://www.last.fm/music/Machine+Girl/_/Crystalline+Chute)*
+- **🎵 Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)* (Now Playing)
+- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
+- **Kensuke Ushio** - *[In Mirrors](https://www.last.fm/music/Kensuke+Ushio/_/In+Mirrors)*
 - **LOONA/yyxy** - *[love4eva (feat. Grimes)](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+(feat.+Grimes))*
-- **Salvia Palth** - *[Girl](https://www.last.fm/music/Salvia+Palth/_/Girl)*
+- **Oliver Tree** - *[All That](https://www.last.fm/music/Oliver+Tree/_/All+That)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 
 # 📀 Top Albums
 
