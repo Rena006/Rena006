@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
-- **Ginji Ito** - *[こぬか雨](https://www.last.fm/music/Ginji+Ito/_/%E3%81%93%E3%81%AC%E3%81%8B%E9%9B%A8)*
-- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
-- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
+- **Kendrick Lamar** - *[Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)*
+- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
+- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 
 # 📀 Top Albums
 
