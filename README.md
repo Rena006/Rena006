@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 - **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
 - **Tyler, the Creator** - *[EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)*
-- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
-- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
 
 # 📀 Top Albums
 
