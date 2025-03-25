@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Los Encargados** - *[Trátame Suavemente](https://www.last.fm/music/Los+Encargados/_/Tr%C3%A1tame+Suavemente)*
+- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
 - **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
 - **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
 - **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
-- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
-- **Tyler, the Creator** - *[EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)*
 
 # 📀 Top Albums
 
