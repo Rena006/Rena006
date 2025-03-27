@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
+- **Michael Gray** - *[The Weekend - Radio Edit](https://www.last.fm/music/Michael+Gray/_/The+Weekend+-+Radio+Edit)*
+- **The Cure** - *[Friday I'm in Love](https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love)*
+- **Ice Cube** - *[You Know How We Do It](https://www.last.fm/music/Ice+Cube/_/You+Know+How+We+Do+It)*
 - **Playboi Carti** - *[Sky](https://www.last.fm/music/Playboi+Carti/_/Sky)*
-- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
-- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **2Pac** - *[Hit 'Em Up - Single Version](https://www.last.fm/music/2Pac/_/Hit+%27Em+Up+-+Single+Version)*
-- **Tyler, the Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+the+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 
 # 📀 Top Albums
 
