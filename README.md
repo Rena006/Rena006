@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 2Pac** - *[Hit 'Em Up - Single Version](https://www.last.fm/music/2Pac/_/Hit+%27Em+Up+-+Single+Version)* (Now Playing)
+- **Playboi Carti** - *[Sky](https://www.last.fm/music/Playboi+Carti/_/Sky)*
+- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
+- **2Pac** - *[Hit 'Em Up - Single Version](https://www.last.fm/music/2Pac/_/Hit+%27Em+Up+-+Single+Version)*
 - **Tyler, the Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+the+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
-- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
-- **The Smashing Pumpkins** - *[Luna - 2011 Remaster](https://www.last.fm/music/The+Smashing+Pumpkins/_/Luna+-+2011+Remaster)*
-- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
-- **Moby** - *[Why Does My Heart Feel So Bad?](https://www.last.fm/music/Moby/_/Why+Does+My+Heart+Feel+So+Bad%3F)*
 
 # 📀 Top Albums
 
