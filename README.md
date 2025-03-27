@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Playboi Carti** - *[MOJO JOJO](https://www.last.fm/music/Playboi+Carti/_/MOJO+JOJO)*
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
-- **LOONA/yyxy** - *[love4eva (feat. Grimes)](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+(feat.+Grimes))*
-- **Tyler, the Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+the+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Miles Davis** - *[Blue in Green (feat. John Coltrane & Bill Evans)](https://www.last.fm/music/Miles+Davis/_/Blue+in+Green+(feat.+John+Coltrane+&+Bill+Evans))*
+- **Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)*
+- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars) - Single Version](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars)+-+Single+Version)*
+- **Stan Getz** - *[Saudade Vem Correndo](https://www.last.fm/music/Stan+Getz/_/Saudade+Vem+Correndo)*
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 
 # 📀 Top Albums
 
