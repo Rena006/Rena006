@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
+- **Michael Jackson** - *[Rock With You - Single Version](https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version)*
 - **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
 - **Michael Gray** - *[The Weekend - Radio Edit](https://www.last.fm/music/Michael+Gray/_/The+Weekend+-+Radio+Edit)*
-- **The Cure** - *[Friday I'm in Love](https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love)*
-- **Ice Cube** - *[You Know How We Do It](https://www.last.fm/music/Ice+Cube/_/You+Know+How+We+Do+It)*
-- **Playboi Carti** - *[Sky](https://www.last.fm/music/Playboi+Carti/_/Sky)*
 
 # 📀 Top Albums
 
