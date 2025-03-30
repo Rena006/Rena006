@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
-- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
-- **Michael Jackson** - *[Rock With You - Single Version](https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version)*
-- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
-- **Michael Gray** - *[The Weekend - Radio Edit](https://www.last.fm/music/Michael+Gray/_/The+Weekend+-+Radio+Edit)*
+- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Tyler, the Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+the+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
+- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
 
 # 📀 Top Albums
 
