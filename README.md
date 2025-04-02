@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)* (Now Playing)
+- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
+- **Aphex Twin** - *[Schottkey 7th Path](https://www.last.fm/music/Aphex+Twin/_/Schottkey+7th+Path)*
+- **Kid Loco** - *[A Grand Love Theme](https://www.last.fm/music/Kid+Loco/_/A+Grand+Love+Theme)*
 - **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 - **Massive Attack** - *[Unfinished Sympathy](https://www.last.fm/music/Massive+Attack/_/Unfinished+Sympathy)*
-- **Massive Attack** - *[(Exchange)](https://www.last.fm/music/Massive+Attack/_/(Exchange))*
-- **Massive Attack** - *[Group Four](https://www.last.fm/music/Massive+Attack/_/Group+Four)*
-- **Massive Attack** - *[Mezzanine](https://www.last.fm/music/Massive+Attack/_/Mezzanine)*
 
 # 📀 Top Albums
 
