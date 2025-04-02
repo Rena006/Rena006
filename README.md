@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)* (Now Playing)
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 - **Massive Attack** - *[Unfinished Sympathy](https://www.last.fm/music/Massive+Attack/_/Unfinished+Sympathy)*
 - **Massive Attack** - *[(Exchange)](https://www.last.fm/music/Massive+Attack/_/(Exchange))*
 - **Massive Attack** - *[Group Four](https://www.last.fm/music/Massive+Attack/_/Group+Four)*
 - **Massive Attack** - *[Mezzanine](https://www.last.fm/music/Massive+Attack/_/Mezzanine)*
-- **Massive Attack** - *[Black Milk](https://www.last.fm/music/Massive+Attack/_/Black+Milk)*
 
 # 📀 Top Albums
 
