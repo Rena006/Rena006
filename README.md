@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **my bloody valentine** - *[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)*
 - **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
 - **Slowdive** - *[Crazy for You](https://www.last.fm/music/Slowdive/_/Crazy+for+You)*
 - **Pet Shop Boys** - *[Being Boring - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Being+Boring+-+2018+Remaster)*
-- **Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)*
-- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
 
 # 📀 Top Albums
 
