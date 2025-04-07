@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Massive Attack** - *[Teardrop](https://www.last.fm/music/Massive+Attack/_/Teardrop)* (Now Playing)
+- **Michael Jackson** - *[Rock With You - Single Version](https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version)*
+- **Aphex Twin** - *[#3](https://www.last.fm/music/Aphex+Twin/_/%233)*
+- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 - **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
 - **my bloody valentine** - *[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)*
-- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
-- **Slowdive** - *[Crazy for You](https://www.last.fm/music/Slowdive/_/Crazy+for+You)*
-- **Pet Shop Boys** - *[Being Boring - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Being+Boring+-+2018+Remaster)*
 
 # 📀 Top Albums
 
