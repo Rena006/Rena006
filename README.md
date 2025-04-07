@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Massive Attack** - *[Teardrop](https://www.last.fm/music/Massive+Attack/_/Teardrop)* (Now Playing)
-- **Michael Jackson** - *[Rock With You - Single Version](https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version)*
-- **Aphex Twin** - *[#3](https://www.last.fm/music/Aphex+Twin/_/%233)*
-- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
-- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
-- **my bloody valentine** - *[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)*
+- **Tyler, the Creator** - *[See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+(feat.+Kali+Uchis))*
+- **Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))*
+- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
+- **Tyler, the Creator** - *[EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)*
+- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
 
 # 📀 Top Albums
 
