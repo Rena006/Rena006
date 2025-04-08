@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)* (Now Playing)
-- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
-- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
-- **LOONA/yyxy** - *[love4eva (feat. Grimes)](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+(feat.+Grimes))*
-- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Unknown Mortal Orchestra** - *[Multi-Love](https://www.last.fm/music/Unknown+Mortal+Orchestra/_/Multi-Love)*
+- **Wham!** - *[Everything She Wants](https://www.last.fm/music/Wham!/_/Everything+She+Wants)*
+- **Jamiroquai** - *[Virtual Insanity - Remastered 2006](https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+-+Remastered+2006)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **Playboi Carti** - *[MOJO JOJO](https://www.last.fm/music/Playboi+Carti/_/MOJO+JOJO)*
 
 # 📀 Top Albums
 
