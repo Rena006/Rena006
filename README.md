@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Tyler, the Creator** - *[See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+the+Creator/_/See+You+Again+(feat.+Kali+Uchis))*
-- **Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))*
-- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
-- **Tyler, the Creator** - *[EARFQUAKE](https://www.last.fm/music/Tyler,+the+Creator/_/EARFQUAKE)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
+- **🎵 Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)* (Now Playing)
+- **Tyler, the Creator** - *[Like Him (feat. Lola Young)](https://www.last.fm/music/Tyler,+the+Creator/_/Like+Him+(feat.+Lola+Young))*
+- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
+- **LOONA/yyxy** - *[love4eva (feat. Grimes)](https://www.last.fm/music/LOONA%2Fyyxy/_/love4eva+(feat.+Grimes))*
+- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 
 # 📀 Top Albums
 
