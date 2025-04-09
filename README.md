@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Patrice Rushen** - *[Forget Me Nots - Remastered](https://www.last.fm/music/Patrice+Rushen/_/Forget+Me+Nots+-+Remastered)*
+- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
+- **Michael Jackson** - *[Rock With You - Single Version](https://www.last.fm/music/Michael+Jackson/_/Rock+With+You+-+Single+Version)*
+- **Metronomy** - *[The Look](https://www.last.fm/music/Metronomy/_/The+Look)*
 - **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
-- **Air** - *[Bossa 96 - Demo](https://www.last.fm/music/Air/_/Bossa+96+-+Demo)*
-- **Jamiroquai** - *[Cosmic Girl - Remastered 2013](https://www.last.fm/music/Jamiroquai/_/Cosmic+Girl+-+Remastered+2013)*
-- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
-- **Massive Attack** - *[Angel](https://www.last.fm/music/Massive+Attack/_/Angel)*
 
 # 📀 Top Albums
 
