@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Elliott Smith** - *[Stupidity Tries](https://www.last.fm/music/Elliott+Smith/_/Stupidity+Tries)* (Now Playing)
-- **Elliott Smith** - *[In the Lost and Found (Honky Bach)/The Roost](https://www.last.fm/music/Elliott+Smith/_/In+the+Lost+and+Found+(Honky+Bach)%2FThe+Roost)*
-- **Elliott Smith** - *[L.A.](https://www.last.fm/music/Elliott+Smith/_/L.A.)*
-- **Elliott Smith** - *[Everything Means Nothing to Me](https://www.last.fm/music/Elliott+Smith/_/Everything+Means+Nothing+to+Me)*
-- **Elliott Smith** - *[Everything Reminds Me of Her](https://www.last.fm/music/Elliott+Smith/_/Everything+Reminds+Me+of+Her)*
-- **Elliott Smith** - *[Junk Bond Trader](https://www.last.fm/music/Elliott+Smith/_/Junk+Bond+Trader)*
+- **Metronomy** - *[The Look](https://www.last.fm/music/Metronomy/_/The+Look)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Fontaines D.C.** - *[Romance](https://www.last.fm/music/Fontaines+D.C./_/Romance)*
+- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
+- **Elliott Smith** - *[Clementine](https://www.last.fm/music/Elliott+Smith/_/Clementine)*
 
 # 📀 Top Albums
 
