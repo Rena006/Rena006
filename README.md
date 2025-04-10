@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
-- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
+- **🎵 Elliott Smith** - *[Stupidity Tries](https://www.last.fm/music/Elliott+Smith/_/Stupidity+Tries)* (Now Playing)
+- **Elliott Smith** - *[In the Lost and Found (Honky Bach)/The Roost](https://www.last.fm/music/Elliott+Smith/_/In+the+Lost+and+Found+(Honky+Bach)%2FThe+Roost)*
+- **Elliott Smith** - *[L.A.](https://www.last.fm/music/Elliott+Smith/_/L.A.)*
+- **Elliott Smith** - *[Everything Means Nothing to Me](https://www.last.fm/music/Elliott+Smith/_/Everything+Means+Nothing+to+Me)*
+- **Elliott Smith** - *[Everything Reminds Me of Her](https://www.last.fm/music/Elliott+Smith/_/Everything+Reminds+Me+of+Her)*
+- **Elliott Smith** - *[Junk Bond Trader](https://www.last.fm/music/Elliott+Smith/_/Junk+Bond+Trader)*
 
 # 📀 Top Albums
 
