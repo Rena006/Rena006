@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Metronomy** - *[The Look](https://www.last.fm/music/Metronomy/_/The+Look)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Fontaines D.C.** - *[Romance](https://www.last.fm/music/Fontaines+D.C./_/Romance)*
-- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
-- **Elliott Smith** - *[Clementine](https://www.last.fm/music/Elliott+Smith/_/Clementine)*
+- **🎵 Blood Orange** - *[You're Not Good Enough](https://www.last.fm/music/Blood+Orange/_/You%27re+Not+Good+Enough)* (Now Playing)
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **Elliott Smith** - *[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)*
+- **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
+- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
+- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
 
 # 📀 Top Albums
 
