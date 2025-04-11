@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Blood Orange** - *[You're Not Good Enough](https://www.last.fm/music/Blood+Orange/_/You%27re+Not+Good+Enough)* (Now Playing)
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
-- **Elliott Smith** - *[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)*
-- **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
+- **🎵 Orange Juice** - *[I Guess I'm Just a Little Too Sensitive](https://www.last.fm/music/Orange+Juice/_/I+Guess+I%27m+Just+a+Little+Too+Sensitive)* (Now Playing)
+- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
+- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
+- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
+- **Tame Impala** - *[Why Won't You Make Up Your Mind?](https://www.last.fm/music/Tame+Impala/_/Why+Won%27t+You+Make+Up+Your+Mind%3F)*
+- **The Smiths** - *[How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)*
 
 # 📀 Top Albums
 
