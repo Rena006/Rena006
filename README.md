@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Orange Juice** - *[I Guess I'm Just a Little Too Sensitive](https://www.last.fm/music/Orange+Juice/_/I+Guess+I%27m+Just+a+Little+Too+Sensitive)* (Now Playing)
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **New Order** - *[Dreams Never End - 2015 Remaster](https://www.last.fm/music/New+Order/_/Dreams+Never+End+-+2015+Remaster)*
+- **Orange Juice** - *[I Guess I'm Just a Little Too Sensitive](https://www.last.fm/music/Orange+Juice/_/I+Guess+I%27m+Just+a+Little+Too+Sensitive)*
 - **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 - **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Tame Impala** - *[Why Won't You Make Up Your Mind?](https://www.last.fm/music/Tame+Impala/_/Why+Won%27t+You+Make+Up+Your+Mind%3F)*
-- **The Smiths** - *[How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)*
 
 # 📀 Top Albums
 
