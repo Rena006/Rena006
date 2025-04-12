@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)* (Now Playing)
+- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
+- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
 - **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
 - **New Order** - *[Dreams Never End - 2015 Remaster](https://www.last.fm/music/New+Order/_/Dreams+Never+End+-+2015+Remaster)*
 - **Orange Juice** - *[I Guess I'm Just a Little Too Sensitive](https://www.last.fm/music/Orange+Juice/_/I+Guess+I%27m+Just+a+Little+Too+Sensitive)*
-- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
-- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
 
 # 📀 Top Albums
 
