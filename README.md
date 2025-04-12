@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Good Morning](https://www.last.fm/music/Kanye+West/_/Good+Morning)*
-- **Massive Attack** - *[Black Milk](https://www.last.fm/music/Massive+Attack/_/Black+Milk)*
-- **Tyler, the Creator** - *[Hey Jane](https://www.last.fm/music/Tyler,+the+Creator/_/Hey+Jane)*
-- **Frank Ocean** - *[Self Control](https://www.last.fm/music/Frank+Ocean/_/Self+Control)*
-- **Kendrick Lamar** - *[Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)*
+- **🎵 Massive Attack** - *[Exchange](https://www.last.fm/music/Massive+Attack/_/Exchange)* (Now Playing)
+- **Aphex Twin** - *[Flim](https://www.last.fm/music/Aphex+Twin/_/Flim)*
+- **Boards of Canada** - *[Olson](https://www.last.fm/music/Boards+of+Canada/_/Olson)*
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
+- **Boards of Canada** - *[Roygbiv](https://www.last.fm/music/Boards+of+Canada/_/Roygbiv)*
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
 
 # 📀 Top Albums
 
