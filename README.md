@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))* (Now Playing)
-- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
-- **Tyler, the Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+the+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
-- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
-- **Tyler, the Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+the+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
+- **🎵 A$AP Rocky** - *[Fashion Killa](https://www.last.fm/music/A$AP+Rocky/_/Fashion+Killa)* (Now Playing)
+- **Yung Lean** - *[Kyoto](https://www.last.fm/music/Yung+Lean/_/Kyoto)*
+- **Yung Lean** - *[Ginseng Strip 2002](https://www.last.fm/music/Yung+Lean/_/Ginseng+Strip+2002)*
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
+- **2Pac** - *[Hit 'Em Up - Single Version](https://www.last.fm/music/2Pac/_/Hit+%27Em+Up+-+Single+Version)*
+- **Kendrick Lamar** - *[King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)*
 
 # 📀 Top Albums
 
