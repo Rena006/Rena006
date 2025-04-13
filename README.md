@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 A$AP Rocky** - *[Fashion Killa](https://www.last.fm/music/A$AP+Rocky/_/Fashion+Killa)* (Now Playing)
-- **Yung Lean** - *[Kyoto](https://www.last.fm/music/Yung+Lean/_/Kyoto)*
-- **Yung Lean** - *[Ginseng Strip 2002](https://www.last.fm/music/Yung+Lean/_/Ginseng+Strip+2002)*
-- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **2Pac** - *[Hit 'Em Up - Single Version](https://www.last.fm/music/2Pac/_/Hit+%27Em+Up+-+Single+Version)*
-- **Kendrick Lamar** - *[King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)*
+- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
+- **Patrice Rushen** - *[Forget Me Nots - Remastered](https://www.last.fm/music/Patrice+Rushen/_/Forget+Me+Nots+-+Remastered)*
+- **Machine Girl** - *[Krystle - URL Cyber Palace Mix](https://www.last.fm/music/Machine+Girl/_/Krystle+-+URL+Cyber+Palace+Mix)*
+- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
+- **Aphex Twin** - *[Green Calx](https://www.last.fm/music/Aphex+Twin/_/Green+Calx)*
 
 # 📀 Top Albums
 
