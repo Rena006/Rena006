@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)* (Now Playing)
+- **Kendrick Lamar** - *[Bitch, Don’t Kill My Vibe](https://www.last.fm/music/Kendrick+Lamar/_/Bitch,+Don%E2%80%99t+Kill+My+Vibe)*
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
 - **Kendrick Lamar** - *[Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)*
 - **Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)*
 - **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
-- **CHVRCHES** - *[Out Of My Head](https://www.last.fm/music/CHVRCHES/_/Out+Of+My+Head)*
-- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
 
 # 📀 Top Albums
 
