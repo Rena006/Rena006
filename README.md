@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 PinkPantheress** - *[Just for me](https://www.last.fm/music/PinkPantheress/_/Just+for+me)* (Now Playing)
+- **Caroline Polachek** - *[Sunset](https://www.last.fm/music/Caroline+Polachek/_/Sunset)*
+- **Gorillaz** - *[New Gold (feat. Tame Impala and Bootie Brown)](https://www.last.fm/music/Gorillaz/_/New+Gold+(feat.+Tame+Impala+and+Bootie+Brown))*
+- **PinkPantheress** - *[Just for me](https://www.last.fm/music/PinkPantheress/_/Just+for+me)*
 - **Troye Sivan** - *[Rush](https://www.last.fm/music/Troye+Sivan/_/Rush)*
 - **Jamiroquai** - *[You Give Me Something](https://www.last.fm/music/Jamiroquai/_/You+Give+Me+Something)*
-- **Prince** - *[When Doves Cry](https://www.last.fm/music/Prince/_/When+Doves+Cry)*
-- **Wham!** - *[Everything She Wants](https://www.last.fm/music/Wham!/_/Everything+She+Wants)*
-- **Charli XCX** - *[Girl, so confusing](https://www.last.fm/music/Charli+XCX/_/Girl,+so+confusing)*
 
 # 📀 Top Albums
 
