@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[Last Call](https://www.last.fm/music/Kanye+West/_/Last+Call)* (Now Playing)
 - **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
 - **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
 - **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
