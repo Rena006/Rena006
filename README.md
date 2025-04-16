@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **YUKIKA** - *[SOUL LADY](https://www.last.fm/music/YUKIKA/_/SOUL+LADY)*
-- **Caroline Polachek** - *[Sunset](https://www.last.fm/music/Caroline+Polachek/_/Sunset)*
-- **Gorillaz** - *[New Gold (feat. Tame Impala and Bootie Brown)](https://www.last.fm/music/Gorillaz/_/New+Gold+(feat.+Tame+Impala+and+Bootie+Brown))*
-- **PinkPantheress** - *[Just for me](https://www.last.fm/music/PinkPantheress/_/Just+for+me)*
-- **Troye Sivan** - *[Rush](https://www.last.fm/music/Troye+Sivan/_/Rush)*
+- **🎵 Kanye West** - *[Last Call](https://www.last.fm/music/Kanye+West/_/Last+Call)* (Now Playing)
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
+- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
+- **Troye Sivan** - *[Got Me Started](https://www.last.fm/music/Troye+Sivan/_/Got+Me+Started)*
+- **CHVRCHES** - *[Out Of My Head](https://www.last.fm/music/CHVRCHES/_/Out+Of+My+Head)*
 
 # 📀 Top Albums
 
