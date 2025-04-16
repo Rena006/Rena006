@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **YUKIKA** - *[SOUL LADY](https://www.last.fm/music/YUKIKA/_/SOUL+LADY)*
 - **Caroline Polachek** - *[Sunset](https://www.last.fm/music/Caroline+Polachek/_/Sunset)*
 - **Gorillaz** - *[New Gold (feat. Tame Impala and Bootie Brown)](https://www.last.fm/music/Gorillaz/_/New+Gold+(feat.+Tame+Impala+and+Bootie+Brown))*
 - **PinkPantheress** - *[Just for me](https://www.last.fm/music/PinkPantheress/_/Just+for+me)*
 - **Troye Sivan** - *[Rush](https://www.last.fm/music/Troye+Sivan/_/Rush)*
-- **Jamiroquai** - *[You Give Me Something](https://www.last.fm/music/Jamiroquai/_/You+Give+Me+Something)*
 
 # 📀 Top Albums
 
