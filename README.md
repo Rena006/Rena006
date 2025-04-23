@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Kanye West** - *[Blame Game](https://www.last.fm/music/Kanye+West/_/Blame+Game)*
 - **Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)*
 - **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
 - **Troye Sivan** - *[Rush](https://www.last.fm/music/Troye+Sivan/_/Rush)*
 - **Charli XCX** - *[Girl, so confusing](https://www.last.fm/music/Charli+XCX/_/Girl,+so+confusing)*
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
 
 # 📀 Top Albums
 
