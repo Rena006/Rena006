@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
 - **Tyler, the Creator** - *[SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues)](https://www.last.fm/music/Tyler,+the+Creator/_/SWEET+%2F+I+THOUGHT+YOU+WANTED+TO+DANCE+(feat.+Brent+Faiyaz+&+Fana+Hues))*
 - **Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))*
 - **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
 - **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
 
 # 📀 Top Albums
 
