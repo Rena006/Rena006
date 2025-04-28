@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Antônio Carlos Jobim** - *[Wave](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Wave)* (Now Playing)
+- **Marcos Valle** - *[Nova Bossa Nova](https://www.last.fm/music/Marcos+Valle/_/Nova+Bossa+Nova)*
+- **Antônio Carlos Jobim** - *[Wave](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Wave)*
 - **João Gilberto** - *[Tin Tin Por Tin Tin](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Tin+Tin+Por+Tin+Tin)*
 - **Pet Shop Boys** - *[Love Comes Quickly - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Love+Comes+Quickly+-+2018+Remaster)*
 - **Dorian Electra** - *[Career Boy](https://www.last.fm/music/Dorian+Electra/_/Career+Boy)*
-- **Tommy february6** - *[I ONLY WANT TO BE WITH YOU](https://www.last.fm/music/Tommy+february6/_/I+ONLY+WANT+TO+BE+WITH+YOU)*
-- **Pet Shop Boys** - *[New York City Boy - 2017 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/New+York+City+Boy+-+2017+Remaster)*
 
 # 📀 Top Albums
 
