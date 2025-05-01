@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Otha** - *[One of the Girls](https://www.last.fm/music/Otha/_/One+of+the+Girls)*
-- **Vegyn** - *[Debold](https://www.last.fm/music/Vegyn/_/Debold)*
-- **Yaeji** - *[One More](https://www.last.fm/music/Yaeji/_/One+More)*
-- **⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ** - *[ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧✧✧✧✧✧ළඕั࿃ूੂ࿃ूੂ](https://www.last.fm/music/%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B)%E0%BE%80%E2%97%9E+%E0%BC%8E%E0%BA%B6+%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96+%EA%89%BA%E1%83%9A/_/%CA%85%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1(%C6%9F%D3%A8)%CA%83%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1+%EA%90%91(%E0%BD%80+%E0%B6%8A%E0%BA%B9+%E0%B0%A0%E0%B1%80%E0%A9%82%E0%B3%A7%E0%BA%B9%E0%BF%83%E0%A5%82%E0%A9%82%E2%9C%A7%E2%9C%A7%E2%9C%A7%E2%9C%A7%E2%9C%A7%E2%9C%A7%E0%B7%85%E0%B6%95%E0%B8%B1%E0%BF%83%E0%A5%82%E0%A9%82%E0%BF%83%E0%A5%82%E0%A9%82)*
-- **박혜진 Park Hye Jin** - *[Let’s Sing Let’s Dance](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Let%E2%80%99s+Sing+Let%E2%80%99s+Dance)*
+- **🎵 박혜진 Park Hye Jin** - *[I DON'T CARE](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/I+DON%27T+CARE)* (Now Playing)
+- **Daphni** - *[Carry On](https://www.last.fm/music/Daphni/_/Carry+On)*
+- **Off The Meds** - *[Karlaplan](https://www.last.fm/music/Off+The+Meds/_/Karlaplan)*
+- **박혜진 Park Hye Jin** - *[Can you](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Can+you)*
+- **Soichi Terada** - *[Saturday Love Sunday](https://www.last.fm/music/Soichi+Terada/_/Saturday+Love+Sunday)*
+- **Vegyn** - *[Olbass All Bass 004 (140 Bpm)](https://www.last.fm/music/Vegyn/_/Olbass+All+Bass+004+(140+Bpm))*
 
 # 📀 Top Albums
 
