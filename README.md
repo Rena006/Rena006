@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Shinichiro Yokota** - *[Kagemusha](https://www.last.fm/music/Shinichiro+Yokota/_/Kagemusha)* (Now Playing)
-- **Elkka** - *[I Just Want To Love You](https://www.last.fm/music/Elkka/_/I+Just+Want+To+Love+You)*
-- **Vegyn** - *[Sometimes I Feel Like I’m Ruining Songs](https://www.last.fm/music/Vegyn/_/Sometimes+I+Feel+Like+I%E2%80%99m+Ruining+Songs)*
-- **박혜진 Park Hye Jin** - *[I Need You](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/I+Need+You)*
-- **Aleksandır** - *[Threshed](https://www.last.fm/music/Aleksand%C4%B1r/_/Threshed)*
-- **Upper Class** - *[morning groove](https://www.last.fm/music/Upper+Class/_/morning+groove)*
+- **박혜진 Park Hye Jin** - *[Like this](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Like+this)*
+- **Galcher Lustwerk** - *[Another Story](https://www.last.fm/music/Galcher+Lustwerk/_/Another+Story)*
+- **Daphni** - *[Carry On](https://www.last.fm/music/Daphni/_/Carry+On)*
+- **Vegyn** - *[Olbass All Bass 004 (140 Bpm)](https://www.last.fm/music/Vegyn/_/Olbass+All+Bass+004+(140+Bpm))*
+- **Kedr Livanskiy** - *[Your Need (не должен) - Deep Mix](https://www.last.fm/music/Kedr+Livanskiy/_/Your+Need+(%D0%BD%D0%B5+%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD)+-+Deep+Mix)*
 
 # 📀 Top Albums
 
