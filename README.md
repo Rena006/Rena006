@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 박혜진 Park Hye Jin** - *[I DON'T CARE](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/I+DON%27T+CARE)* (Now Playing)
-- **Daphni** - *[Carry On](https://www.last.fm/music/Daphni/_/Carry+On)*
-- **Off The Meds** - *[Karlaplan](https://www.last.fm/music/Off+The+Meds/_/Karlaplan)*
-- **박혜진 Park Hye Jin** - *[Can you](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Can+you)*
-- **Soichi Terada** - *[Saturday Love Sunday](https://www.last.fm/music/Soichi+Terada/_/Saturday+Love+Sunday)*
-- **Vegyn** - *[Olbass All Bass 004 (140 Bpm)](https://www.last.fm/music/Vegyn/_/Olbass+All+Bass+004+(140+Bpm))*
+- **Yaeji** - *[New York 93 (Baba Stiltz Remix)](https://www.last.fm/music/Yaeji/_/New+York+93+(Baba+Stiltz+Remix))*
+- **박혜진 Park Hye Jin** - *[IF U WANT IT](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/IF+U+WANT+IT)*
+- **Shinichiro Yokota** - *[Night Drive](https://www.last.fm/music/Shinichiro+Yokota/_/Night+Drive)*
+- **Soichi Terada** - *[Diving into Minds](https://www.last.fm/music/Soichi+Terada/_/Diving+into+Minds)*
+- **Yatoba Lia** - *[Moi aussi Marianne](https://www.last.fm/music/Yatoba+Lia/_/Moi+aussi+Marianne)*
 
 # 📀 Top Albums
 
