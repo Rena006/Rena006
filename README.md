@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Yellow Magic Orchestra** - *[シムーン](https://www.last.fm/music/Yellow+Magic+Orchestra/_/%E3%82%B7%E3%83%A0%E3%83%BC%E3%83%B3)*
+- **Yellow Magic Orchestra** - *[ファイアークラッカー](https://www.last.fm/music/Yellow+Magic+Orchestra/_/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC)*
 - **Marcos Valle** - *[Nova Bossa Nova](https://www.last.fm/music/Marcos+Valle/_/Nova+Bossa+Nova)*
 - **Antônio Carlos Jobim** - *[Wave](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Wave)*
 - **João Gilberto** - *[Tin Tin Por Tin Tin](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Tin+Tin+Por+Tin+Tin)*
-- **Pet Shop Boys** - *[Love Comes Quickly - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Love+Comes+Quickly+-+2018+Remaster)*
-- **Dorian Electra** - *[Career Boy](https://www.last.fm/music/Dorian+Electra/_/Career+Boy)*
 
 # 📀 Top Albums
 
