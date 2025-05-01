@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Yaeji** - *[New York 93 (Baba Stiltz Remix)](https://www.last.fm/music/Yaeji/_/New+York+93+(Baba+Stiltz+Remix))*
-- **박혜진 Park Hye Jin** - *[IF U WANT IT](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/IF+U+WANT+IT)*
-- **Shinichiro Yokota** - *[Night Drive](https://www.last.fm/music/Shinichiro+Yokota/_/Night+Drive)*
-- **Soichi Terada** - *[Diving into Minds](https://www.last.fm/music/Soichi+Terada/_/Diving+into+Minds)*
-- **Yatoba Lia** - *[Moi aussi Marianne](https://www.last.fm/music/Yatoba+Lia/_/Moi+aussi+Marianne)*
+- **🎵 Shinichiro Yokota** - *[Kagemusha](https://www.last.fm/music/Shinichiro+Yokota/_/Kagemusha)* (Now Playing)
+- **Elkka** - *[I Just Want To Love You](https://www.last.fm/music/Elkka/_/I+Just+Want+To+Love+You)*
+- **Vegyn** - *[Sometimes I Feel Like I’m Ruining Songs](https://www.last.fm/music/Vegyn/_/Sometimes+I+Feel+Like+I%E2%80%99m+Ruining+Songs)*
+- **박혜진 Park Hye Jin** - *[I Need You](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/I+Need+You)*
+- **Aleksandır** - *[Threshed](https://www.last.fm/music/Aleksand%C4%B1r/_/Threshed)*
+- **Upper Class** - *[morning groove](https://www.last.fm/music/Upper+Class/_/morning+groove)*
 
 # 📀 Top Albums
 
