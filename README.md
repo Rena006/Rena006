@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kedr Livanskiy** - *[Sky Kisses (На Танцполе)](https://www.last.fm/music/Kedr+Livanskiy/_/Sky+Kisses+(%D0%9D%D0%B0+%D0%A2%D0%B0%D0%BD%D1%86%D0%BF%D0%BE%D0%BB%D0%B5))*
-- **박혜진 Park Hye Jin** - *[Like this](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Like+this)*
-- **Rina Sawayama** - *[Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))*
-- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
+- **Otha** - *[One of the Girls](https://www.last.fm/music/Otha/_/One+of+the+Girls)*
+- **Vegyn** - *[Debold](https://www.last.fm/music/Vegyn/_/Debold)*
+- **Yaeji** - *[One More](https://www.last.fm/music/Yaeji/_/One+More)*
+- **⣎⡇ꉺლ༽இ•̛)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ** - *[ʅ͡͡͡͡͡͡͡͡͡͡͡(ƟӨ)ʃ͡͡͡͡͡͡͡͡͡͡ ꐑ(ཀ ඊູ ఠీੂ೧ູ࿃ूੂ✧✧✧✧✧✧ළඕั࿃ूੂ࿃ूੂ](https://www.last.fm/music/%E2%A3%8E%E2%A1%87%EA%89%BA%E1%83%9A%E0%BC%BD%E0%AE%87%E2%80%A2%CC%9B)%E0%BE%80%E2%97%9E+%E0%BC%8E%E0%BA%B6+%E0%BC%BD%E0%A7%A3%E0%A7%A2%D8%9E%E0%A7%A2%D8%9E%D8%96+%EA%89%BA%E1%83%9A/_/%CA%85%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1(%C6%9F%D3%A8)%CA%83%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1%CD%A1+%EA%90%91(%E0%BD%80+%E0%B6%8A%E0%BA%B9+%E0%B0%A0%E0%B1%80%E0%A9%82%E0%B3%A7%E0%BA%B9%E0%BF%83%E0%A5%82%E0%A9%82%E2%9C%A7%E2%9C%A7%E2%9C%A7%E2%9C%A7%E2%9C%A7%E2%9C%A7%E0%B7%85%E0%B6%95%E0%B8%B1%E0%BF%83%E0%A5%82%E0%A9%82%E0%BF%83%E0%A5%82%E0%A9%82)*
+- **박혜진 Park Hye Jin** - *[Let’s Sing Let’s Dance](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Let%E2%80%99s+Sing+Let%E2%80%99s+Dance)*
 
 # 📀 Top Albums
 
