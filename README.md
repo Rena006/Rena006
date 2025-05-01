@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Yellow Magic Orchestra** - *[シムーン](https://www.last.fm/music/Yellow+Magic+Orchestra/_/%E3%82%B7%E3%83%A0%E3%83%BC%E3%83%B3)*
-- **Yellow Magic Orchestra** - *[ファイアークラッカー](https://www.last.fm/music/Yellow+Magic+Orchestra/_/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC)*
-- **Marcos Valle** - *[Nova Bossa Nova](https://www.last.fm/music/Marcos+Valle/_/Nova+Bossa+Nova)*
-- **Antônio Carlos Jobim** - *[Wave](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Wave)*
-- **João Gilberto** - *[Tin Tin Por Tin Tin](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Tin+Tin+Por+Tin+Tin)*
+- **Kedr Livanskiy** - *[Sky Kisses (На Танцполе)](https://www.last.fm/music/Kedr+Livanskiy/_/Sky+Kisses+(%D0%9D%D0%B0+%D0%A2%D0%B0%D0%BD%D1%86%D0%BF%D0%BE%D0%BB%D0%B5))*
+- **박혜진 Park Hye Jin** - *[Like this](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Like+this)*
+- **Rina Sawayama** - *[Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))*
+- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
+- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
 
 # 📀 Top Albums
 
