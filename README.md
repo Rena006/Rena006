@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Yaeji** - *[Feel It Out](https://www.last.fm/music/Yaeji/_/Feel+It+Out)* (Now Playing)
-- **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
-- **Pet Shop Boys** - *[Love Comes Quickly - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Love+Comes+Quickly+-+2018+Remaster)*
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
-- **Yaeji** - *[For Granted](https://www.last.fm/music/Yaeji/_/For+Granted)*
-- **Yaeji** - *[Passionfruit](https://www.last.fm/music/Yaeji/_/Passionfruit)*
+- **🎵 Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)* (Now Playing)
+- **박혜진 Park Hye Jin** - *[ABC](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/ABC)*
+- **Yaeji** - *[SPELL 주문](https://www.last.fm/music/Yaeji/_/SPELL+%EC%A3%BC%EB%AC%B8)*
+- **Yaeji** - *[Done (Let's Get It)](https://www.last.fm/music/Yaeji/_/Done+(Let%27s+Get+It))*
+- **Yaeji** - *[Do You See Me](https://www.last.fm/music/Yaeji/_/Do+You+See+Me)*
+- **Yaeji** - *[New York 93 (Baba Stiltz Remix)](https://www.last.fm/music/Yaeji/_/New+York+93+(Baba+Stiltz+Remix))*
 
 # 📀 Top Albums
 
