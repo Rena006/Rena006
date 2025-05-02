@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)* (Now Playing)
-- **박혜진 Park Hye Jin** - *[ABC](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/ABC)*
-- **Yaeji** - *[SPELL 주문](https://www.last.fm/music/Yaeji/_/SPELL+%EC%A3%BC%EB%AC%B8)*
-- **Yaeji** - *[Done (Let's Get It)](https://www.last.fm/music/Yaeji/_/Done+(Let%27s+Get+It))*
-- **Yaeji** - *[Do You See Me](https://www.last.fm/music/Yaeji/_/Do+You+See+Me)*
-- **Yaeji** - *[New York 93 (Baba Stiltz Remix)](https://www.last.fm/music/Yaeji/_/New+York+93+(Baba+Stiltz+Remix))*
+- **박혜진 Park Hye Jin** - *[Let’s Sing Let’s Dance](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Let%E2%80%99s+Sing+Let%E2%80%99s+Dance)*
+- **Vegyn** - *[Debold](https://www.last.fm/music/Vegyn/_/Debold)*
+- **1tbsp** - *[Calico](https://www.last.fm/music/1tbsp/_/Calico)*
+- **Aleksandır** - *[I Used to Dream](https://www.last.fm/music/Aleksand%C4%B1r/_/I+Used+to+Dream)*
+- **Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)*
 
 # 📀 Top Albums
 
