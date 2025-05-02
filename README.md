@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **박혜진 Park Hye Jin** - *[Let’s Sing Let’s Dance](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Let%E2%80%99s+Sing+Let%E2%80%99s+Dance)*
-- **Vegyn** - *[Debold](https://www.last.fm/music/Vegyn/_/Debold)*
-- **1tbsp** - *[Calico](https://www.last.fm/music/1tbsp/_/Calico)*
-- **Aleksandır** - *[I Used to Dream](https://www.last.fm/music/Aleksand%C4%B1r/_/I+Used+to+Dream)*
-- **Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)*
+- **🎵 Miúcha** - *[Pela Luz Dos Olhos Teus - Bonus Track](https://www.last.fm/music/Mi%C3%BAcha/_/Pela+Luz+Dos+Olhos+Teus+-+Bonus+Track)* (Now Playing)
+- **Antônio Carlos Jobim** - *[Wave](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Wave)*
+- **João Gilberto** - *[Bim Bom](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Bim+Bom)*
+- **Stan Getz** - *[Saudade Vem Correndo](https://www.last.fm/music/Stan+Getz/_/Saudade+Vem+Correndo)*
+- **Sergio Mendes & Brasil '66** - *[Mas Que Nada](https://www.last.fm/music/Sergio+Mendes+&+Brasil+%2766/_/Mas+Que+Nada)*
+- **Elis Regina** - *[Águas De Março](https://www.last.fm/music/Elis+Regina/_/%C3%81guas+De+Mar%C3%A7o)*
 
 # 📀 Top Albums
 
