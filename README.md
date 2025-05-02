@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Nara Leão** - *[Diz Que Fui Por Ai](https://www.last.fm/music/Nara+Le%C3%A3o/_/Diz+Que+Fui+Por+Ai)*
-- **Maysa** - *[Meu Mundo Caiu](https://www.last.fm/music/Maysa/_/Meu+Mundo+Caiu)*
-- **João Donato** - *[A Rã](https://www.last.fm/music/Jo%C3%A3o+Donato/_/A+R%C3%A3)*
-- **Toquinho** - *[Tristeza](https://www.last.fm/music/Toquinho/_/Tristeza)*
-- **Antônio Carlos Jobim** - *[The Red Blouse](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/The+Red+Blouse)*
+- **🎵 坂本龍一** - *[Merry Christmas Mr. Lawrence](https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Merry+Christmas+Mr.+Lawrence)* (Now Playing)
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 
 # 📀 Top Albums
 
