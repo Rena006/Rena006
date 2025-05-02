@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 坂本龍一** - *[Merry Christmas Mr. Lawrence](https://www.last.fm/music/%E5%9D%82%E6%9C%AC%E9%BE%8D%E4%B8%80/_/Merry+Christmas+Mr.+Lawrence)* (Now Playing)
-- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
-- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
-- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
-- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
+- **🎵 Yaeji** - *[Feel It Out](https://www.last.fm/music/Yaeji/_/Feel+It+Out)* (Now Playing)
+- **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
+- **Pet Shop Boys** - *[Love Comes Quickly - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Love+Comes+Quickly+-+2018+Remaster)*
+- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
+- **Yaeji** - *[For Granted](https://www.last.fm/music/Yaeji/_/For+Granted)*
+- **Yaeji** - *[Passionfruit](https://www.last.fm/music/Yaeji/_/Passionfruit)*
 
 # 📀 Top Albums
 
