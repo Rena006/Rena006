@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Miúcha** - *[Pela Luz Dos Olhos Teus - Bonus Track](https://www.last.fm/music/Mi%C3%BAcha/_/Pela+Luz+Dos+Olhos+Teus+-+Bonus+Track)* (Now Playing)
+- **Future** - *[Like That](https://www.last.fm/music/Future/_/Like+That)*
+- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
+- **Miúcha** - *[Pela Luz Dos Olhos Teus - Bonus Track](https://www.last.fm/music/Mi%C3%BAcha/_/Pela+Luz+Dos+Olhos+Teus+-+Bonus+Track)*
 - **Antônio Carlos Jobim** - *[Wave](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Wave)*
 - **João Gilberto** - *[Bim Bom](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Bim+Bom)*
-- **Stan Getz** - *[Saudade Vem Correndo](https://www.last.fm/music/Stan+Getz/_/Saudade+Vem+Correndo)*
-- **Sergio Mendes & Brasil '66** - *[Mas Que Nada](https://www.last.fm/music/Sergio+Mendes+&+Brasil+%2766/_/Mas+Que+Nada)*
-- **Elis Regina** - *[Águas De Março](https://www.last.fm/music/Elis+Regina/_/%C3%81guas+De+Mar%C3%A7o)*
 
 # 📀 Top Albums
 
