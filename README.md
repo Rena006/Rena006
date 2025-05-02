@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **박혜진 Park Hye Jin** - *[Like this](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Like+this)*
-- **Galcher Lustwerk** - *[Another Story](https://www.last.fm/music/Galcher+Lustwerk/_/Another+Story)*
-- **Daphni** - *[Carry On](https://www.last.fm/music/Daphni/_/Carry+On)*
-- **Vegyn** - *[Olbass All Bass 004 (140 Bpm)](https://www.last.fm/music/Vegyn/_/Olbass+All+Bass+004+(140+Bpm))*
-- **Kedr Livanskiy** - *[Your Need (не должен) - Deep Mix](https://www.last.fm/music/Kedr+Livanskiy/_/Your+Need+(%D0%BD%D0%B5+%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD)+-+Deep+Mix)*
+- **🎵 Stan Getz** - *[O Grande Amor](https://www.last.fm/music/Stan+Getz/_/O+Grande+Amor)* (Now Playing)
+- **João Gilberto** - *[Tin Tin Por Tin Tin](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Tin+Tin+Por+Tin+Tin)*
+- **Elis Regina** - *[Fotografia](https://www.last.fm/music/Elis+Regina/_/Fotografia)*
+- **Paula Sergio** - *[Garota de Ipanema](https://www.last.fm/music/Paula+Sergio/_/Garota+de+Ipanema)*
+- **Elizeth Cardoso** - *[Outra Vez](https://www.last.fm/music/Elizeth+Cardoso/_/Outra+Vez)*
+- **Vinícius de Moraes** - *[Samba Da Benção](https://www.last.fm/music/Vin%C3%ADcius+de+Moraes/_/Samba+Da+Ben%C3%A7%C3%A3o)*
 
 # 📀 Top Albums
 
