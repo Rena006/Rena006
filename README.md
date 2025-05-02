@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Stan Getz** - *[O Grande Amor](https://www.last.fm/music/Stan+Getz/_/O+Grande+Amor)* (Now Playing)
-- **João Gilberto** - *[Tin Tin Por Tin Tin](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Tin+Tin+Por+Tin+Tin)*
-- **Elis Regina** - *[Fotografia](https://www.last.fm/music/Elis+Regina/_/Fotografia)*
-- **Paula Sergio** - *[Garota de Ipanema](https://www.last.fm/music/Paula+Sergio/_/Garota+de+Ipanema)*
-- **Elizeth Cardoso** - *[Outra Vez](https://www.last.fm/music/Elizeth+Cardoso/_/Outra+Vez)*
-- **Vinícius de Moraes** - *[Samba Da Benção](https://www.last.fm/music/Vin%C3%ADcius+de+Moraes/_/Samba+Da+Ben%C3%A7%C3%A3o)*
+- **Nara Leão** - *[Diz Que Fui Por Ai](https://www.last.fm/music/Nara+Le%C3%A3o/_/Diz+Que+Fui+Por+Ai)*
+- **Maysa** - *[Meu Mundo Caiu](https://www.last.fm/music/Maysa/_/Meu+Mundo+Caiu)*
+- **João Donato** - *[A Rã](https://www.last.fm/music/Jo%C3%A3o+Donato/_/A+R%C3%A3)*
+- **Toquinho** - *[Tristeza](https://www.last.fm/music/Toquinho/_/Tristeza)*
+- **Antônio Carlos Jobim** - *[The Red Blouse](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/The+Red+Blouse)*
 
 # 📀 Top Albums
 
