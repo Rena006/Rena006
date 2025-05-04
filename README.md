@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 &on&on** - *[Don't Say a Word - Mixed](https://www.last.fm/music/&on&on/_/Don%27t+Say+a+Word+-+Mixed)* (Now Playing)
+- **Tell** - *[I Lost 200€ In A Club](https://www.last.fm/music/Tell/_/I+Lost+200%E2%82%AC+In+A+Club)*
+- **Vegyn** - *[I See You Sometimes](https://www.last.fm/music/Vegyn/_/I+See+You+Sometimes)*
+- **&on&on** - *[Don't Say a Word - Mixed](https://www.last.fm/music/&on&on/_/Don%27t+Say+a+Word+-+Mixed)*
 - **박혜진 Park Hye Jin** - *[Back in London(Somuchhavefun)](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Back+in+London(Somuchhavefun))*
 - **Yaeji** - *[Feel It Out](https://www.last.fm/music/Yaeji/_/Feel+It+Out)*
-- **JID** - *[Dance Now (feat. Kenny Mason)](https://www.last.fm/music/JID/_/Dance+Now+(feat.+Kenny+Mason))*
-- **Future** - *[Like That](https://www.last.fm/music/Future/_/Like+That)*
-- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
 
 # 📀 Top Albums
 
