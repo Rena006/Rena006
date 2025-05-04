@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 &on&on** - *[Don't Say a Word - Mixed](https://www.last.fm/music/&on&on/_/Don%27t+Say+a+Word+-+Mixed)* (Now Playing)
+- **박혜진 Park Hye Jin** - *[Back in London(Somuchhavefun)](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Back+in+London(Somuchhavefun))*
+- **Yaeji** - *[Feel It Out](https://www.last.fm/music/Yaeji/_/Feel+It+Out)*
+- **JID** - *[Dance Now (feat. Kenny Mason)](https://www.last.fm/music/JID/_/Dance+Now+(feat.+Kenny+Mason))*
 - **Future** - *[Like That](https://www.last.fm/music/Future/_/Like+That)*
 - **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
-- **Miúcha** - *[Pela Luz Dos Olhos Teus - Bonus Track](https://www.last.fm/music/Mi%C3%BAcha/_/Pela+Luz+Dos+Olhos+Teus+-+Bonus+Track)*
-- **Antônio Carlos Jobim** - *[Wave](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Wave)*
-- **João Gilberto** - *[Bim Bom](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Bim+Bom)*
 
 # 📀 Top Albums
 
