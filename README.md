@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Soichi Terada** - *[Saturday Love Sunday](https://www.last.fm/music/Soichi+Terada/_/Saturday+Love+Sunday)*
 - **Tell** - *[I Lost 200€ In A Club](https://www.last.fm/music/Tell/_/I+Lost+200%E2%82%AC+In+A+Club)*
 - **Vegyn** - *[I See You Sometimes](https://www.last.fm/music/Vegyn/_/I+See+You+Sometimes)*
 - **&on&on** - *[Don't Say a Word - Mixed](https://www.last.fm/music/&on&on/_/Don%27t+Say+a+Word+-+Mixed)*
 - **박혜진 Park Hye Jin** - *[Back in London(Somuchhavefun)](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Back+in+London(Somuchhavefun))*
-- **Yaeji** - *[Feel It Out](https://www.last.fm/music/Yaeji/_/Feel+It+Out)*
 
 # 📀 Top Albums
 
