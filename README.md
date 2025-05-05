@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Ryuichi Sakamoto** - *[A Flower Is Not A Flower](https://www.last.fm/music/Ryuichi+Sakamoto/_/A+Flower+Is+Not+A+Flower)*
+- **Ryuichi Sakamoto** - *[Merry Christmas Mr. Lawrence](https://www.last.fm/music/Ryuichi+Sakamoto/_/Merry+Christmas+Mr.+Lawrence)*
+- **Ryuichi Sakamoto** - *[Amore](https://www.last.fm/music/Ryuichi+Sakamoto/_/Amore)*
+- **1 9 0 5** - *[Soft Thang](https://www.last.fm/music/1+9+0+5/_/Soft+Thang)*
 - **Vegyn** - *[Olbass All Bass 004 (140 Bpm)](https://www.last.fm/music/Vegyn/_/Olbass+All+Bass+004+(140+Bpm))*
-- **Kedr Livanskiy** - *[Your Need (не должен) - Deep Mix](https://www.last.fm/music/Kedr+Livanskiy/_/Your+Need+(%D0%BD%D0%B5+%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD)+-+Deep+Mix)*
-- **박혜진 Park Hye Jin** - *[Can you](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Can+you)*
-- **Blue Hawaii** - *[I Felt Love](https://www.last.fm/music/Blue+Hawaii/_/I+Felt+Love)*
-- **Zula** - *[Come Back](https://www.last.fm/music/Zula/_/Come+Back)*
 
 # 📀 Top Albums
 
