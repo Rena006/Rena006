@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Crystal Castles** - *[Plague](https://www.last.fm/music/Crystal+Castles/_/Plague)*
+- **Pet Shop Boys** - *[Love Comes Quickly - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Love+Comes+Quickly+-+2018+Remaster)*
+- **Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)*
+- **Dorian Electra** - *[Gentleman](https://www.last.fm/music/Dorian+Electra/_/Gentleman)*
 - **Ryuichi Sakamoto** - *[A Flower Is Not A Flower](https://www.last.fm/music/Ryuichi+Sakamoto/_/A+Flower+Is+Not+A+Flower)*
-- **Ryuichi Sakamoto** - *[Merry Christmas Mr. Lawrence](https://www.last.fm/music/Ryuichi+Sakamoto/_/Merry+Christmas+Mr.+Lawrence)*
-- **Ryuichi Sakamoto** - *[Amore](https://www.last.fm/music/Ryuichi+Sakamoto/_/Amore)*
-- **1 9 0 5** - *[Soft Thang](https://www.last.fm/music/1+9+0+5/_/Soft+Thang)*
-- **Vegyn** - *[Olbass All Bass 004 (140 Bpm)](https://www.last.fm/music/Vegyn/_/Olbass+All+Bass+004+(140+Bpm))*
 
 # 📀 Top Albums
 
