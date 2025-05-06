@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Stan Getz** - *[Saudade Vem Correndo](https://www.last.fm/music/Stan+Getz/_/Saudade+Vem+Correndo)* (Now Playing)
-- **Elis Regina** - *[Águas De Março](https://www.last.fm/music/Elis+Regina/_/%C3%81guas+De+Mar%C3%A7o)*
-- **Astrud Gilberto** - *[Água de Beber](https://www.last.fm/music/Astrud+Gilberto/_/%C3%81gua+de+Beber)*
-- **Air** - *[Bossa 96 - Demo](https://www.last.fm/music/Air/_/Bossa+96+-+Demo)*
-- **Crystal Castles** - *[Plague](https://www.last.fm/music/Crystal+Castles/_/Plague)*
-- **Pet Shop Boys** - *[Love Comes Quickly - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Love+Comes+Quickly+-+2018+Remaster)*
+- **Antônio Carlos Jobim** - *[The Girl from Ipanema](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/The+Girl+from+Ipanema)*
+- **Miúcha** - *[Pela Luz Dos Olhos Teus - Bonus Track](https://www.last.fm/music/Mi%C3%BAcha/_/Pela+Luz+Dos+Olhos+Teus+-+Bonus+Track)*
+- **Elis Regina** - *[Só Tinha De Ser Com Você](https://www.last.fm/music/Elis+Regina/_/S%C3%B3+Tinha+De+Ser+Com+Voc%C3%AA)*
+- **Astrud Gilberto** - *[Fly Me To The Moon](https://www.last.fm/music/Astrud+Gilberto/_/Fly+Me+To+The+Moon)*
+- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars) - Single Version](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars)+-+Single+Version)*
 
 # 📀 Top Albums
 
