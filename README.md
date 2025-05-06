@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 M.I.A.** - *[Paper Planes](https://www.last.fm/music/M.I.A./_/Paper+Planes)* (Now Playing)
+- **Marcos Valle** - *[Nova Bossa Nova](https://www.last.fm/music/Marcos+Valle/_/Nova+Bossa+Nova)*
 - **Antônio Carlos Jobim** - *[The Girl from Ipanema](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/The+Girl+from+Ipanema)*
 - **Miúcha** - *[Pela Luz Dos Olhos Teus - Bonus Track](https://www.last.fm/music/Mi%C3%BAcha/_/Pela+Luz+Dos+Olhos+Teus+-+Bonus+Track)*
 - **Elis Regina** - *[Só Tinha De Ser Com Você](https://www.last.fm/music/Elis+Regina/_/S%C3%B3+Tinha+De+Ser+Com+Voc%C3%AA)*
 - **Astrud Gilberto** - *[Fly Me To The Moon](https://www.last.fm/music/Astrud+Gilberto/_/Fly+Me+To+The+Moon)*
-- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars) - Single Version](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars)+-+Single+Version)*
 
 # 📀 Top Albums
 
