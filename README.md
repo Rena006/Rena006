@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Stan Getz** - *[Saudade Vem Correndo](https://www.last.fm/music/Stan+Getz/_/Saudade+Vem+Correndo)* (Now Playing)
+- **Elis Regina** - *[Águas De Março](https://www.last.fm/music/Elis+Regina/_/%C3%81guas+De+Mar%C3%A7o)*
+- **Astrud Gilberto** - *[Água de Beber](https://www.last.fm/music/Astrud+Gilberto/_/%C3%81gua+de+Beber)*
+- **Air** - *[Bossa 96 - Demo](https://www.last.fm/music/Air/_/Bossa+96+-+Demo)*
 - **Crystal Castles** - *[Plague](https://www.last.fm/music/Crystal+Castles/_/Plague)*
 - **Pet Shop Boys** - *[Love Comes Quickly - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Love+Comes+Quickly+-+2018+Remaster)*
-- **Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)*
-- **Dorian Electra** - *[Gentleman](https://www.last.fm/music/Dorian+Electra/_/Gentleman)*
-- **Ryuichi Sakamoto** - *[A Flower Is Not A Flower](https://www.last.fm/music/Ryuichi+Sakamoto/_/A+Flower+Is+Not+A+Flower)*
 
 # 📀 Top Albums
 
