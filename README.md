@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Air** - *[Bossa 96 - Demo](https://www.last.fm/music/Air/_/Bossa+96+-+Demo)*
 - **DragonForce** - *[Soldiers of the Wasteland](https://www.last.fm/music/DragonForce/_/Soldiers+of+the+Wasteland)*
 - **DragonForce** - *[Fury of the Storm](https://www.last.fm/music/DragonForce/_/Fury+of+the+Storm)*
 - **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
 - **Rina Sawayama** - *[Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))*
-- **Dorian Electra** - *[Gentleman](https://www.last.fm/music/Dorian+Electra/_/Gentleman)*
 
 # 📀 Top Albums
 
