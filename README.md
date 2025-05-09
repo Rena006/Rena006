@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Rina Sawayama** - *[Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))*
-- **Yaeji** - *[For Granted](https://www.last.fm/music/Yaeji/_/For+Granted)*
-- **박혜진 Park Hye Jin** - *[CLOUDS](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/CLOUDS)*
-- **Prince Innocence** - *[Noches](https://www.last.fm/music/Prince+Innocence/_/Noches)*
-- **Yaeji** - *[SPELL 주문](https://www.last.fm/music/Yaeji/_/SPELL+%EC%A3%BC%EB%AC%B8)*
+- **L'Arc-en-Ciel** - *[Blurry Eyes](https://www.last.fm/music/L%27Arc-en-Ciel/_/Blurry+Eyes)*
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
+- **Nas** - *[The World Is Yours](https://www.last.fm/music/Nas/_/The+World+Is+Yours)*
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
+- **The Smashing Pumpkins** - *[1979 - Remastered 2012](https://www.last.fm/music/The+Smashing+Pumpkins/_/1979+-+Remastered+2012)*
 
 # 📀 Top Albums
 
