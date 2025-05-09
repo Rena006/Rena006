@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Yaeji** - *[For Granted](https://www.last.fm/music/Yaeji/_/For+Granted)* (Now Playing)
+- **Rina Sawayama** - *[Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))*
+- **Yaeji** - *[For Granted](https://www.last.fm/music/Yaeji/_/For+Granted)*
 - **박혜진 Park Hye Jin** - *[CLOUDS](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/CLOUDS)*
 - **Prince Innocence** - *[Noches](https://www.last.fm/music/Prince+Innocence/_/Noches)*
 - **Yaeji** - *[SPELL 주문](https://www.last.fm/music/Yaeji/_/SPELL+%EC%A3%BC%EB%AC%B8)*
-- **Vegyn** - *[Blue Verb](https://www.last.fm/music/Vegyn/_/Blue+Verb)*
-- **박혜진 Park Hye Jin** - *[I DON'T CARE](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/I+DON%27T+CARE)*
 
 # 📀 Top Albums
 
