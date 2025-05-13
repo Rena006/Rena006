@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Nas** - *[It Ain't Hard to Tell](https://www.last.fm/music/Nas/_/It+Ain%27t+Hard+to+Tell)*
+- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
 - **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
-- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
-- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
+- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
+- **Mary J. Blige** - *[Mary Jane (All Night Long)](https://www.last.fm/music/Mary+J.+Blige/_/Mary+Jane+(All+Night+Long))*
+- **Nas** - *[It Ain't Hard to Tell](https://www.last.fm/music/Nas/_/It+Ain%27t+Hard+to+Tell)*
 
 # 📀 Top Albums
 
