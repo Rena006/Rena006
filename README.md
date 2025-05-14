@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Justice** - *[D.A.N.C.E](https://www.last.fm/music/Justice/_/D.A.N.C.E)*
 - **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
 - **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
 - **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
 - **Mary J. Blige** - *[Mary Jane (All Night Long)](https://www.last.fm/music/Mary+J.+Blige/_/Mary+Jane+(All+Night+Long))*
-- **Nas** - *[It Ain't Hard to Tell](https://www.last.fm/music/Nas/_/It+Ain%27t+Hard+to+Tell)*
 
 # 📀 Top Albums
 
