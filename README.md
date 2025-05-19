@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)* (Now Playing)
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
 - **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
 - **New Order** - *[Blue Monday](https://www.last.fm/music/New+Order/_/Blue+Monday)*
 - **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
 
 # 📀 Top Albums
 
