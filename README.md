@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
-- **Weyes Blood** - *[Andromeda](https://www.last.fm/music/Weyes+Blood/_/Andromeda)*
-- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
-- **Blur** - *[Girls & Boys](https://www.last.fm/music/Blur/_/Girls+&+Boys)*
+- **🎵 Charles Daisey & Friends** - *[What’s It About?](https://www.last.fm/music/Charles+Daisey+&+Friends/_/What%E2%80%99s+It+About%3F)* (Now Playing)
+- **The Sweetgreens** - *[The Still Sea](https://www.last.fm/music/The+Sweetgreens/_/The+Still+Sea)*
+- **Glass Trio** - *[Breathe the Air](https://www.last.fm/music/Glass+Trio/_/Breathe+the+Air)*
+- **The Super Smart Trio** - *[Ease Up](https://www.last.fm/music/The+Super+Smart+Trio/_/Ease+Up)*
+- **Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)*
+- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 
 # 📀 Top Albums
 
