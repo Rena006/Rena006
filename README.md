@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Charles Daisey & Friends** - *[What’s It About?](https://www.last.fm/music/Charles+Daisey+&+Friends/_/What%E2%80%99s+It+About%3F)* (Now Playing)
+- **Mike Coen** - *[Spring Can Really Hang You Up The Most](https://www.last.fm/music/Mike+Coen/_/Spring+Can+Really+Hang+You+Up+The+Most)*
+- **Carla Anderson** - *[Raya's Riddle](https://www.last.fm/music/Carla+Anderson/_/Raya%27s+Riddle)*
+- **Eric Merlino** - *[Madeleine](https://www.last.fm/music/Eric+Merlino/_/Madeleine)*
+- **Charles Daisey & Friends** - *[What’s It About?](https://www.last.fm/music/Charles+Daisey+&+Friends/_/What%E2%80%99s+It+About%3F)*
 - **The Sweetgreens** - *[The Still Sea](https://www.last.fm/music/The+Sweetgreens/_/The+Still+Sea)*
-- **Glass Trio** - *[Breathe the Air](https://www.last.fm/music/Glass+Trio/_/Breathe+the+Air)*
-- **The Super Smart Trio** - *[Ease Up](https://www.last.fm/music/The+Super+Smart+Trio/_/Ease+Up)*
-- **Shinichiro Yokota** - *[Do It Again](https://www.last.fm/music/Shinichiro+Yokota/_/Do+It+Again)*
-- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 
 # 📀 Top Albums
 
