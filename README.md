@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Elliott Smith** - *[Stupidity Tries](https://www.last.fm/music/Elliott+Smith/_/Stupidity+Tries)*
 - **Tate Jackson Trio** - *[Bright Sun](https://www.last.fm/music/Tate+Jackson+Trio/_/Bright+Sun)*
 - **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 - **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
 - **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
 
 # 📀 Top Albums
 
