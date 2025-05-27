@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **BADBADNOTGOOD** - *[Time Moves Slow](https://www.last.fm/music/BADBADNOTGOOD/_/Time+Moves+Slow)*
+- **Tame Impala** - *[Feels Like We Only Go Backwards](https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards)*
 - **Tame Impala** - *[Feels Like We Only Go Backwards](https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards)*
 - **Gorillaz** - *[Stylo (Feat. Mos Def And Bobby Womack)](https://www.last.fm/music/Gorillaz/_/Stylo+(Feat.+Mos+Def+And+Bobby+Womack))*
 - **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
-- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
-- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
 
 # 📀 Top Albums
 
