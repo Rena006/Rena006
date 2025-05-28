@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)* (Now Playing)
 - **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
 - **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
 - **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
