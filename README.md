@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
 - **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
 - **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
 - **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
 - **Tyler, the Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+the+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
 
 # 📀 Top Albums
 
