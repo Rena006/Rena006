@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
-- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Tame Impala** - *[Feels Like We Only Go Backwards](https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards)*
-- **Rina Sawayama** - *[Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))*
+- **🎵 Lush** - *[Desire Lines](https://www.last.fm/music/Lush/_/Desire+Lines)* (Now Playing)
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
+- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
+- **Cocteau Twins** - *[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)*
+- **my bloody valentine** - *[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)*
+- **Slowdive** - *[When the Sun Hits](https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits)*
 
 # 📀 Top Albums
 
