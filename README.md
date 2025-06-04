@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)* (Now Playing)
 - **Lush** - *[Nothing Natural](https://www.last.fm/music/Lush/_/Nothing+Natural)*
 - **Slowdive** - *[Crazy for You](https://www.last.fm/music/Slowdive/_/Crazy+for+You)*
 - **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
