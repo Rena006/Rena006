@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **my bloody valentine** - *[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)*
+- **Slowdive** - *[When the Sun Hits](https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits)*
+- **Cocteau Twins** - *[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)*
 - **Lush** - *[Nothing Natural](https://www.last.fm/music/Lush/_/Nothing+Natural)*
 - **Slowdive** - *[Crazy for You](https://www.last.fm/music/Slowdive/_/Crazy+for+You)*
-- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
-- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
-- **Cocteau Twins** - *[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)*
 
 # 📀 Top Albums
 
