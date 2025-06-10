@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **my bloody valentine** - *[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)*
-- **Slowdive** - *[When the Sun Hits](https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits)*
-- **Cocteau Twins** - *[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)*
-- **Lush** - *[Nothing Natural](https://www.last.fm/music/Lush/_/Nothing+Natural)*
-- **Slowdive** - *[Crazy for You](https://www.last.fm/music/Slowdive/_/Crazy+for+You)*
+- **Fontaines D.C.** - *[I Love You](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You)*
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **Morrissey** - *[Everyday Is Like Sunday - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Everyday+Is+Like+Sunday+-+2011+Remaster)*
+- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
+- **Tame Impala** - *[Feels Like We Only Go Backwards](https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards)*
 
 # 📀 Top Albums
 
