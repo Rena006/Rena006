@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)* (Now Playing)
-- **Björk** - *[Venus as a Boy](https://www.last.fm/music/Bj%C3%B6rk/_/Venus+as+a+Boy)*
-- **Cocteau Twins** - *[Pitch the Baby](https://www.last.fm/music/Cocteau+Twins/_/Pitch+the+Baby)*
-- **my bloody valentine** - *[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)*
-- **Weyes Blood** - *[Andromeda](https://www.last.fm/music/Weyes+Blood/_/Andromeda)*
-- **Mazzy Star** - *[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)*
+- **Mazzy Star** - *[Be My Angel](https://www.last.fm/music/Mazzy+Star/_/Be+My+Angel)*
+- **Cocteau Twins** - *[Serpentskirt](https://www.last.fm/music/Cocteau+Twins/_/Serpentskirt)*
+- **Slowdive** - *[Celia's Dream](https://www.last.fm/music/Slowdive/_/Celia%27s+Dream)*
+- **Björk** - *[Human Behaviour](https://www.last.fm/music/Bj%C3%B6rk/_/Human+Behaviour)*
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
 
 # 📀 Top Albums
 
