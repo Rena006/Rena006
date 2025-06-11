@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Cocteau Twins** - *[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)* (Now Playing)
-- **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
-- **Mazzy Star** - *[Halah](https://www.last.fm/music/Mazzy+Star/_/Halah)*
-- **Billy Idol** - *[Eyes Without a Face](https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face)*
-- **Fontaines D.C.** - *[I Love You](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You)*
-- **Slowdive** - *[When the Sun Hits](https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits)*
+- **🎵 Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)* (Now Playing)
+- **Björk** - *[Venus as a Boy](https://www.last.fm/music/Bj%C3%B6rk/_/Venus+as+a+Boy)*
+- **Cocteau Twins** - *[Pitch the Baby](https://www.last.fm/music/Cocteau+Twins/_/Pitch+the+Baby)*
+- **my bloody valentine** - *[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)*
+- **Weyes Blood** - *[Andromeda](https://www.last.fm/music/Weyes+Blood/_/Andromeda)*
+- **Mazzy Star** - *[In the Kingdom](https://www.last.fm/music/Mazzy+Star/_/In+the+Kingdom)*
 
 # 📀 Top Albums
 
