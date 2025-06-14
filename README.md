@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Primal Scream** - *[Come Together](https://www.last.fm/music/Primal+Scream/_/Come+Together)* (Now Playing)
-- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
-- **Blur** - *[Girls & Boys](https://www.last.fm/music/Blur/_/Girls+&+Boys)*
-- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
-- **my bloody valentine** - *[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)*
-- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
+- **JID** - *[Dance Now (feat. Kenny Mason)](https://www.last.fm/music/JID/_/Dance+Now+(feat.+Kenny+Mason))*
+- **Yaeji** - *[For Granted](https://www.last.fm/music/Yaeji/_/For+Granted)*
+- **Bladee** - *[Girls just want to have fun](https://www.last.fm/music/Bladee/_/Girls+just+want+to+have+fun)*
+- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
+- **Fontaines D.C.** - *[I Love You](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You)*
 
 # 📀 Top Albums
 
