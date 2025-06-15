@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **JID** - *[Dance Now (feat. Kenny Mason)](https://www.last.fm/music/JID/_/Dance+Now+(feat.+Kenny+Mason))*
-- **Yaeji** - *[For Granted](https://www.last.fm/music/Yaeji/_/For+Granted)*
-- **Bladee** - *[Girls just want to have fun](https://www.last.fm/music/Bladee/_/Girls+just+want+to+have+fun)*
-- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
-- **Fontaines D.C.** - *[I Love You](https://www.last.fm/music/Fontaines+D.C./_/I+Love+You)*
+- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
+- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
+- **Blur** - *[Girls & Boys](https://www.last.fm/music/Blur/_/Girls+&+Boys)*
+- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
+- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
 
 # 📀 Top Albums
 
