@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)* (Now Playing)
-- **Morrissey** - *[Everyday Is Like Sunday - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Everyday+Is+Like+Sunday+-+2011+Remaster)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
-- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
-- **Blur** - *[Girls & Boys](https://www.last.fm/music/Blur/_/Girls+&+Boys)*
+- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
+- **Radiohead** - *[Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)*
+- **The Strokes** - *[Someday](https://www.last.fm/music/The+Strokes/_/Someday)*
+- **Gorillaz** - *[Rhinestone Eyes](https://www.last.fm/music/Gorillaz/_/Rhinestone+Eyes)*
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
 
 # 📀 Top Albums
 
