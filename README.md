@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Beach Boys** - *[Caroline, No](https://www.last.fm/music/The+Beach+Boys/_/Caroline,+No)* (Now Playing)
 - **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
 - **Radiohead** - *[Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)*
 - **The Strokes** - *[Someday](https://www.last.fm/music/The+Strokes/_/Someday)*
