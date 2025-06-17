@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
-- **Radiohead** - *[Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)*
-- **The Strokes** - *[Someday](https://www.last.fm/music/The+Strokes/_/Someday)*
-- **Gorillaz** - *[Rhinestone Eyes](https://www.last.fm/music/Gorillaz/_/Rhinestone+Eyes)*
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
+- **my bloody valentine** - *[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)*
+- **Tame Impala** - *[Nangs](https://www.last.fm/music/Tame+Impala/_/Nangs)*
+- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
+- **The Sundays** - *[You're Not the Only One I Know](https://www.last.fm/music/The+Sundays/_/You%27re+Not+the+Only+One+I+Know)*
 
 # 📀 Top Albums
 
