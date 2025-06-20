@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Charli xcx** - *[365 featuring shygirl](https://www.last.fm/music/Charli+xcx/_/365+featuring+shygirl)* (Now Playing)
+- **Machine Girl** - *[Krystle - URL Cyber Palace Mix](https://www.last.fm/music/Machine+Girl/_/Krystle+-+URL+Cyber+Palace+Mix)*
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **Massive Attack** - *[Dissolved Girl](https://www.last.fm/music/Massive+Attack/_/Dissolved+Girl)*
+- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
 - **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
-- **my bloody valentine** - *[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)*
-- **Tame Impala** - *[Nangs](https://www.last.fm/music/Tame+Impala/_/Nangs)*
-- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
-- **The Sundays** - *[You're Not the Only One I Know](https://www.last.fm/music/The+Sundays/_/You%27re+Not+the+Only+One+I+Know)*
 
 # 📀 Top Albums
 
