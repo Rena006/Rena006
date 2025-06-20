@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Daft Punk** - *[Nightvision](https://www.last.fm/music/Daft+Punk/_/Nightvision)*
-- **Basement Jaxx** - *[Where's Your Head At](https://www.last.fm/music/Basement+Jaxx/_/Where%27s+Your+Head+At)*
-- **Moby** - *[Porcelain](https://www.last.fm/music/Moby/_/Porcelain)*
-- **Yaeji** - *[SPELL 주문](https://www.last.fm/music/Yaeji/_/SPELL+%EC%A3%BC%EB%AC%B8)*
-- **Charli XCX** - *[Club classics](https://www.last.fm/music/Charli+XCX/_/Club+classics)*
+- **🎵 Snoop Dogg** - *[Beautiful](https://www.last.fm/music/Snoop+Dogg/_/Beautiful)* (Now Playing)
+- **Tyler, the Creator** - *[BEST INTEREST](https://www.last.fm/music/Tyler,+the+Creator/_/BEST+INTEREST)*
+- **Ice Cube** - *[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)*
+- **OutKast** - *[Hey Ya!](https://www.last.fm/music/OutKast/_/Hey+Ya!)*
+- **The Notorious B.I.G.** - *[Hypnotize - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Hypnotize+-+2014+Remaster)*
+- **Tyler, the Creator** - *[911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy)](https://www.last.fm/music/Tyler,+the+Creator/_/911+%2F+Mr.+Lonely+(feat.+Frank+Ocean+&+Steve+Lacy))*
 
 # 📀 Top Albums
 
