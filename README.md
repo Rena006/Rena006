@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Snoop Dogg** - *[Beautiful](https://www.last.fm/music/Snoop+Dogg/_/Beautiful)* (Now Playing)
 - **Tyler, the Creator** - *[BEST INTEREST](https://www.last.fm/music/Tyler,+the+Creator/_/BEST+INTEREST)*
 - **Ice Cube** - *[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)*
 - **OutKast** - *[Hey Ya!](https://www.last.fm/music/OutKast/_/Hey+Ya!)*
