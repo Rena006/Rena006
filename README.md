@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)* (Now Playing)
+- **Blonde Redhead** - *[Misery Is a Butterfly](https://www.last.fm/music/Blonde+Redhead/_/Misery+Is+a+Butterfly)*
 - **Slowdive** - *[Crazy for You](https://www.last.fm/music/Slowdive/_/Crazy+for+You)*
 - **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 - **Yaeji** - *[Guap](https://www.last.fm/music/Yaeji/_/Guap)*
 - **Yaeji** - *[Feel It Out](https://www.last.fm/music/Yaeji/_/Feel+It+Out)*
-- **Yaeji** - *[Passionfruit](https://www.last.fm/music/Yaeji/_/Passionfruit)*
 
 # 📀 Top Albums
 
