@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Massive Attack** - *[Dissolved Girl](https://www.last.fm/music/Massive+Attack/_/Dissolved+Girl)* (Now Playing)
+- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
+- **Elliott Smith** - *[Happiness/The Gondola Man](https://www.last.fm/music/Elliott+Smith/_/Happiness%2FThe+Gondola+Man)*
 - **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
 - **Stereolab** - *[Aerial Troubles](https://www.last.fm/music/Stereolab/_/Aerial+Troubles)*
 - **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
-- **Morrissey** - *[Everyday Is Like Sunday - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Everyday+Is+Like+Sunday+-+2011+Remaster)*
-- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
 
 # 📀 Top Albums
 
