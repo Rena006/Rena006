@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Massive Attack** - *[Dissolved Girl](https://www.last.fm/music/Massive+Attack/_/Dissolved+Girl)* (Now Playing)
-- **Yaeji** - *[WAKING UP DOWN](https://www.last.fm/music/Yaeji/_/WAKING+UP+DOWN)*
-- **Elliott Smith** - *[Happiness/The Gondola Man](https://www.last.fm/music/Elliott+Smith/_/Happiness%2FThe+Gondola+Man)*
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
-- **Stereolab** - *[Aerial Troubles](https://www.last.fm/music/Stereolab/_/Aerial+Troubles)*
-- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
+- **Moby** - *[Porcelain](https://www.last.fm/music/Moby/_/Porcelain)*
+- **Yaeji** - *[SPELL 주문](https://www.last.fm/music/Yaeji/_/SPELL+%EC%A3%BC%EB%AC%B8)*
+- **Charli XCX** - *[Club classics](https://www.last.fm/music/Charli+XCX/_/Club+classics)*
+- **M.I.A.** - *[Paper Planes](https://www.last.fm/music/M.I.A./_/Paper+Planes)*
+- **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
 
 # 📀 Top Albums
 
