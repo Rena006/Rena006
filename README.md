@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
-- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
-- **Kendrick Lamar** - *[Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)*
-- **Slowdive** - *[40 Days](https://www.last.fm/music/Slowdive/_/40+Days)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
+- **Clairo** - *[4EVER](https://www.last.fm/music/Clairo/_/4EVER)*
+- **Massive Attack** - *[Paradise Circus](https://www.last.fm/music/Massive+Attack/_/Paradise+Circus)*
+- **The Velvet Underground** - *[Sunday Morning](https://www.last.fm/music/The+Velvet+Underground/_/Sunday+Morning)*
+- **BADBADNOTGOOD** - *[In Your Eyes](https://www.last.fm/music/BADBADNOTGOOD/_/In+Your+Eyes)*
 
 # 📀 Top Albums
 
