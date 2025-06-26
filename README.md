@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
-- **Clairo** - *[4EVER](https://www.last.fm/music/Clairo/_/4EVER)*
-- **Massive Attack** - *[Paradise Circus](https://www.last.fm/music/Massive+Attack/_/Paradise+Circus)*
-- **The Velvet Underground** - *[Sunday Morning](https://www.last.fm/music/The+Velvet+Underground/_/Sunday+Morning)*
-- **BADBADNOTGOOD** - *[In Your Eyes](https://www.last.fm/music/BADBADNOTGOOD/_/In+Your+Eyes)*
+- **Kendrick Lamar** - *[Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)*
+- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
+- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
+- **Björk** - *[Venus as a Boy](https://www.last.fm/music/Bj%C3%B6rk/_/Venus+as+a+Boy)*
+- **Air** - *[Cherry Blossom Girl](https://www.last.fm/music/Air/_/Cherry+Blossom+Girl)*
 
 # 📀 Top Albums
 
