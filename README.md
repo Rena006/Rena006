@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kendrick Lamar** - *[Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)*
-- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
-- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
-- **Björk** - *[Venus as a Boy](https://www.last.fm/music/Bj%C3%B6rk/_/Venus+as+a+Boy)*
-- **Air** - *[Cherry Blossom Girl](https://www.last.fm/music/Air/_/Cherry+Blossom+Girl)*
+- **Mogwai** - *[San Pedro](https://www.last.fm/music/Mogwai/_/San+Pedro)*
+- **Mogwai** - *[Death Rays](https://www.last.fm/music/Mogwai/_/Death+Rays)*
+- **Mogwai** - *[Rano Pano](https://www.last.fm/music/Mogwai/_/Rano+Pano)*
+- **Mogwai** - *[Mexican Grand Prix](https://www.last.fm/music/Mogwai/_/Mexican+Grand+Prix)*
+- **Mogwai** - *[White Noise](https://www.last.fm/music/Mogwai/_/White+Noise)*
 
 # 📀 Top Albums
 
