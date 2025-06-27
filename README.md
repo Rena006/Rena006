@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
+- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **Mogwai** - *[Letters to the Metro](https://www.last.fm/music/Mogwai/_/Letters+to+the+Metro)*
 - **Mogwai** - *[San Pedro](https://www.last.fm/music/Mogwai/_/San+Pedro)*
-- **Mogwai** - *[Death Rays](https://www.last.fm/music/Mogwai/_/Death+Rays)*
-- **Mogwai** - *[Rano Pano](https://www.last.fm/music/Mogwai/_/Rano+Pano)*
-- **Mogwai** - *[Mexican Grand Prix](https://www.last.fm/music/Mogwai/_/Mexican+Grand+Prix)*
-- **Mogwai** - *[White Noise](https://www.last.fm/music/Mogwai/_/White+Noise)*
 
 # 📀 Top Albums
 
