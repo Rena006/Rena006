@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
-- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
+- **🎵 Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))* (Now Playing)
 - **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **Mogwai** - *[Letters to the Metro](https://www.last.fm/music/Mogwai/_/Letters+to+the+Metro)*
-- **Mogwai** - *[San Pedro](https://www.last.fm/music/Mogwai/_/San+Pedro)*
+- **Frank Ocean** - *[Super Rich Kids](https://www.last.fm/music/Frank+Ocean/_/Super+Rich+Kids)*
+- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
+- **Ariel Pink** - *[Feels Like Heaven](https://www.last.fm/music/Ariel+Pink/_/Feels+Like+Heaven)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 
 # 📀 Top Albums
 
