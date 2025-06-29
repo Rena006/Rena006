@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Beach House** - *[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)* (Now Playing)
-- **Gorillaz** - *[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))*
-- **Crystal Castles** - *[Crimewave](https://www.last.fm/music/Crystal+Castles/_/Crimewave)*
-- **The Smashing Pumpkins** - *[1979 - Remastered 2012](https://www.last.fm/music/The+Smashing+Pumpkins/_/1979+-+Remastered+2012)*
-- **The Cure** - *[Just Like Heaven](https://www.last.fm/music/The+Cure/_/Just+Like+Heaven)*
-- **Daft Punk** - *[Lose Yourself to Dance (feat. Pharrell Williams)](https://www.last.fm/music/Daft+Punk/_/Lose+Yourself+to+Dance+(feat.+Pharrell+Williams))*
+- **Weezer** - *[Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)*
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **Slowdive** - *[40 Days](https://www.last.fm/music/Slowdive/_/40+Days)*
+- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
+- **Morrissey** - *[Everyday Is Like Sunday - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Everyday+Is+Like+Sunday+-+2011+Remaster)*
 
 # 📀 Top Albums
 
