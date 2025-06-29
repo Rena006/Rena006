@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))* (Now Playing)
-- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **Frank Ocean** - *[Super Rich Kids](https://www.last.fm/music/Frank+Ocean/_/Super+Rich+Kids)*
-- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
-- **Ariel Pink** - *[Feels Like Heaven](https://www.last.fm/music/Ariel+Pink/_/Feels+Like+Heaven)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **🎵 Beach House** - *[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)* (Now Playing)
+- **Gorillaz** - *[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))*
+- **Crystal Castles** - *[Crimewave](https://www.last.fm/music/Crystal+Castles/_/Crimewave)*
+- **The Smashing Pumpkins** - *[1979 - Remastered 2012](https://www.last.fm/music/The+Smashing+Pumpkins/_/1979+-+Remastered+2012)*
+- **The Cure** - *[Just Like Heaven](https://www.last.fm/music/The+Cure/_/Just+Like+Heaven)*
+- **Daft Punk** - *[Lose Yourself to Dance (feat. Pharrell Williams)](https://www.last.fm/music/Daft+Punk/_/Lose+Yourself+to+Dance+(feat.+Pharrell+Williams))*
 
 # 📀 Top Albums
 
