@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Modjo** - *[Lady (Hear Me Tonight)](https://www.last.fm/music/Modjo/_/Lady+(Hear+Me+Tonight))* (Now Playing)
+- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
 - **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
-- **Weezer** - *[Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)*
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
-- **Slowdive** - *[40 Days](https://www.last.fm/music/Slowdive/_/40+Days)*
-- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
+- **my bloody valentine** - *[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)*
+- **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
+- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
 
 # 📀 Top Albums
 
