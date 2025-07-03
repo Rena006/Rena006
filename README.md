@@ -7,7 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-No scrobbles available.
+- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **Weezer** - *[Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)*
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **Slowdive** - *[40 Days](https://www.last.fm/music/Slowdive/_/40+Days)*
+- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
 
 # 📀 Top Albums
 
