@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kendrick Lamar** - *[Worldwide Steppers](https://www.last.fm/music/Kendrick+Lamar/_/Worldwide+Steppers)*
+- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
+- **Weezer** - *[Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)*
+- **Lou Reed** - *[Perfect Day](https://www.last.fm/music/Lou+Reed/_/Perfect+Day)*
 - **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
 - **Kendrick Lamar** - *[United in Grief](https://www.last.fm/music/Kendrick+Lamar/_/United+in+Grief)*
-- **Gorillaz** - *[Clint Eastwood](https://www.last.fm/music/Gorillaz/_/Clint+Eastwood)*
-- **The Strokes** - *[You Only Live Once](https://www.last.fm/music/The+Strokes/_/You+Only+Live+Once)*
 
 # 📀 Top Albums
 
