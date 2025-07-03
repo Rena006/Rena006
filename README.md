@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Modjo** - *[Lady (Hear Me Tonight)](https://www.last.fm/music/Modjo/_/Lady+(Hear+Me+Tonight))* (Now Playing)
-- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
-- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
-- **my bloody valentine** - *[When You Sleep](https://www.last.fm/music/my+bloody+valentine/_/When+You+Sleep)*
-- **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
-- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **Kendrick Lamar** - *[Worldwide Steppers](https://www.last.fm/music/Kendrick+Lamar/_/Worldwide+Steppers)*
+- **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
+- **Kendrick Lamar** - *[United in Grief](https://www.last.fm/music/Kendrick+Lamar/_/United+in+Grief)*
+- **Gorillaz** - *[Clint Eastwood](https://www.last.fm/music/Gorillaz/_/Clint+Eastwood)*
+- **The Strokes** - *[You Only Live Once](https://www.last.fm/music/The+Strokes/_/You+Only+Live+Once)*
 
 # 📀 Top Albums
 
