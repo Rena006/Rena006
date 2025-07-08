@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
-- **Weezer** - *[Island in the Sun](https://www.last.fm/music/Weezer/_/Island+in+the+Sun)*
+- **Weezer** - *[The World Has Turned and Left Me Here](https://www.last.fm/music/Weezer/_/The+World+Has+Turned+and+Left+Me+Here)*
+- **Pet Shop Boys** - *[Being Boring - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Being+Boring+-+2018+Remaster)*
+- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
+- **Playboi Carti** - *[Place](https://www.last.fm/music/Playboi+Carti/_/Place)*
+- **Kendrick Lamar** - *[Die Hard](https://www.last.fm/music/Kendrick+Lamar/_/Die+Hard)*
 
 # 📀 Top Albums
 
