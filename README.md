@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)* (Now Playing)
+- **The Cure** - *[Friday I'm in Love](https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love)*
+- **Frank Ocean** - *[Ivy](https://www.last.fm/music/Frank+Ocean/_/Ivy)*
 - **Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)*
 - **Frank Ocean** - *[Nikes](https://www.last.fm/music/Frank+Ocean/_/Nikes)*
 - **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
-- **Fontaines D.C.** - *[Horseness Is The Whatness](https://www.last.fm/music/Fontaines+D.C./_/Horseness+Is+The+Whatness)*
-- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
 
 # 📀 Top Albums
 
