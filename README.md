@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)* (Now Playing)
-- **Kendrick Lamar** - *[wacced out murals](https://www.last.fm/music/Kendrick+Lamar/_/wacced+out+murals)*
-- **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
-- **Kendrick Lamar** - *[United in Grief](https://www.last.fm/music/Kendrick+Lamar/_/United+in+Grief)*
-- **Massive Attack** - *[Angel](https://www.last.fm/music/Massive+Attack/_/Angel)*
-- **Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)*
+- **🎵 Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)* (Now Playing)
+- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
+- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
+- **Death Grips** - *[Get Got](https://www.last.fm/music/Death+Grips/_/Get+Got)*
 
 # 📀 Top Albums
 
