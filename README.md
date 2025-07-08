@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))* (Now Playing)
+- **Frank Ocean** - *[Nikes](https://www.last.fm/music/Frank+Ocean/_/Nikes)*
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
+- **Fontaines D.C.** - *[Horseness Is The Whatness](https://www.last.fm/music/Fontaines+D.C./_/Horseness+Is+The+Whatness)*
+- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
 - **Elliott Smith** - *[Cupid's Trick](https://www.last.fm/music/Elliott+Smith/_/Cupid%27s+Trick)*
-- **Elliott Smith** - *[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)*
-- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
 
 # 📀 Top Albums
 
