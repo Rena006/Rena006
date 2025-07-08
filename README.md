@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)*
 - **Frank Ocean** - *[Nikes](https://www.last.fm/music/Frank+Ocean/_/Nikes)*
 - **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
 - **Fontaines D.C.** - *[Horseness Is The Whatness](https://www.last.fm/music/Fontaines+D.C./_/Horseness+Is+The+Whatness)*
 - **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
-- **Elliott Smith** - *[Cupid's Trick](https://www.last.fm/music/Elliott+Smith/_/Cupid%27s+Trick)*
 
 # 📀 Top Albums
 
