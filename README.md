@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)* (Now Playing)
-- **The Cure** - *[Friday I'm in Love](https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love)*
-- **Frank Ocean** - *[Ivy](https://www.last.fm/music/Frank+Ocean/_/Ivy)*
-- **Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)*
-- **Frank Ocean** - *[Nikes](https://www.last.fm/music/Frank+Ocean/_/Nikes)*
-- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
+- **🎵 Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)* (Now Playing)
+- **Kendrick Lamar** - *[wacced out murals](https://www.last.fm/music/Kendrick+Lamar/_/wacced+out+murals)*
+- **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
+- **Kendrick Lamar** - *[United in Grief](https://www.last.fm/music/Kendrick+Lamar/_/United+in+Grief)*
+- **Massive Attack** - *[Angel](https://www.last.fm/music/Massive+Attack/_/Angel)*
+- **Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)*
 
 # 📀 Top Albums
 
