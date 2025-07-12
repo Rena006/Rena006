@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Wu-Tang Clan** - *[C.R.E.A.M. (Cash Rules Everything Around Me)](https://www.last.fm/music/Wu-Tang+Clan/_/C.R.E.A.M.+(Cash+Rules+Everything+Around+Me))*
-- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
-- **Kendrick Lamar** - *[Die Hard](https://www.last.fm/music/Kendrick+Lamar/_/Die+Hard)*
-- **OutKast** - *[Hey Ya!](https://www.last.fm/music/OutKast/_/Hey+Ya!)*
-- **Snoop Dogg** - *[Beautiful](https://www.last.fm/music/Snoop+Dogg/_/Beautiful)*
+- **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
+- **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **Soko** - *[Sweet Sound of Ignorance](https://www.last.fm/music/Soko/_/Sweet+Sound+of+Ignorance)*
+- **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
 
 # 📀 Top Albums
 
