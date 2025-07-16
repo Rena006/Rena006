@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Clipse** - *[The Birds Don't Sing](https://www.last.fm/music/Clipse/_/The+Birds+Don%27t+Sing)* (Now Playing)
+- **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
 - **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
 - **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
 - **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
 - **Soko** - *[Sweet Sound of Ignorance](https://www.last.fm/music/Soko/_/Sweet+Sound+of+Ignorance)*
-- **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
 
 # 📀 Top Albums
 
