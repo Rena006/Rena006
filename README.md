@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Casiopea** - *[ティアーズ・オブ・ザ・スター - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)* (Now Playing)
+- **Casiopea** - *[ドミノ・ライン - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%89%E3%83%9F%E3%83%8E%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
+- **Casiopea** - *[タイム・リミット - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%9F%E3%83%83%E3%83%88+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
+- **Casiopea** - *[ミッドナイト・ランデブー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
 - **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
 - **Casiopea** - *[テイク・ミー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[ブラック・ジョーク](https://www.last.fm/music/Casiopea/_/%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%AF)*
-- **Casiopea** - *[ドリーム・ヒル](https://www.last.fm/music/Casiopea/_/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%92%E3%83%AB)*
-- **Casiopea** - *[スワロー](https://www.last.fm/music/Casiopea/_/%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC)*
 
 # 📀 Top Albums
 
