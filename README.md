@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Casiopea** - *[ファー・アウェイ](https://www.last.fm/music/Casiopea/_/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4)*
+- **Kanye West** - *[All Falls Down](https://www.last.fm/music/Kanye+West/_/All+Falls+Down)*
 - **Kendrick Lamar** - *[Die Hard](https://www.last.fm/music/Kendrick+Lamar/_/Die+Hard)*
 - **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
 - **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **CHVRCHES** - *[Out Of My Head](https://www.last.fm/music/CHVRCHES/_/Out+Of+My+Head)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
 
 # 📀 Top Albums
 
