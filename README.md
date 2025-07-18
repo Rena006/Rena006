@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Casiopea** - *[ドミノ・ライン - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%89%E3%83%9F%E3%83%8E%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[タイム・リミット - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%9F%E3%83%83%E3%83%88+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[ミッドナイト・ランデブー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[テイク・ミー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
+- **Beach House** - *[Space Song](https://www.last.fm/music/Beach+House/_/Space+Song)*
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
+- **Slowdive** - *[Alison](https://www.last.fm/music/Slowdive/_/Alison)*
+- **my bloody valentine** - *[Only Shallow](https://www.last.fm/music/my+bloody+valentine/_/Only+Shallow)*
+- **Cocteau Twins** - *[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)*
 
 # 📀 Top Albums
 
