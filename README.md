@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Tyler, The Creator** - *[SUGAR ON MY TONGUE](https://www.last.fm/music/Tyler,+The+Creator/_/SUGAR+ON+MY+TONGUE)*
-- **Tyler, The Creator** - *[Don't Tap That Glass / Tweakin'](https://www.last.fm/music/Tyler,+The+Creator/_/Don%27t+Tap+That+Glass+%2F+Tweakin%27)*
-- **Tyler, The Creator** - *[Ring Ring Ring](https://www.last.fm/music/Tyler,+The+Creator/_/Ring+Ring+Ring)*
-- **Tyler, The Creator** - *[Stop Playing With Me](https://www.last.fm/music/Tyler,+The+Creator/_/Stop+Playing+With+Me)*
-- **Tyler, The Creator** - *[Mommanem](https://www.last.fm/music/Tyler,+The+Creator/_/Mommanem)*
+- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
+- **PinkPantheress** - *[Illegal](https://www.last.fm/music/PinkPantheress/_/Illegal)*
+- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
+- **Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))*
+- **Clipse** - *[P.O.V.](https://www.last.fm/music/Clipse/_/P.O.V.)*
 
 # 📀 Top Albums
 
