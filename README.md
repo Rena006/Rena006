@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Tyler, The Creator** - *[Sucka Free](https://www.last.fm/music/Tyler,+The+Creator/_/Sucka+Free)* (Now Playing)
 - **Tyler, The Creator** - *[SUGAR ON MY TONGUE](https://www.last.fm/music/Tyler,+The+Creator/_/SUGAR+ON+MY+TONGUE)*
 - **Tyler, The Creator** - *[Don't Tap That Glass / Tweakin'](https://www.last.fm/music/Tyler,+The+Creator/_/Don%27t+Tap+That+Glass+%2F+Tweakin%27)*
 - **Tyler, The Creator** - *[Ring Ring Ring](https://www.last.fm/music/Tyler,+The+Creator/_/Ring+Ring+Ring)*
