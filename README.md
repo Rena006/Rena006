@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Travis Scott** - *[CHAMPAIN & VACAY](https://www.last.fm/music/Travis+Scott/_/CHAMPAIN+&+VACAY)*
 - **Clipse** - *[So Be It](https://www.last.fm/music/Clipse/_/So+Be+It)*
 - **Clipse** - *[P.O.V.](https://www.last.fm/music/Clipse/_/P.O.V.)*
 - **Clipse** - *[Chains & Whips](https://www.last.fm/music/Clipse/_/Chains+&+Whips)*
 - **Clipse** - *[The Birds Don't Sing](https://www.last.fm/music/Clipse/_/The+Birds+Don%27t+Sing)*
-- **Drop Nineteens** - *[Kick The Tragedy](https://www.last.fm/music/Drop+Nineteens/_/Kick+The+Tragedy)*
 
 # 📀 Top Albums
 
