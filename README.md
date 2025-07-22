@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Casiopea** - *[テイク・ミー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)* (Now Playing)
+- **PinkPantheress** - *[Break It Off - Bonus](https://www.last.fm/music/PinkPantheress/_/Break+It+Off+-+Bonus)*
+- **Jay Rock** - *[King's Dead (with Kendrick Lamar, Future & James Blake)](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+(with+Kendrick+Lamar,+Future+&+James+Blake))*
 - **Travis Scott** - *[CHAMPAIN & VACAY](https://www.last.fm/music/Travis+Scott/_/CHAMPAIN+&+VACAY)*
+- **Clipse** - *[Ace Trumpets](https://www.last.fm/music/Clipse/_/Ace+Trumpets)*
 - **Clipse** - *[So Be It](https://www.last.fm/music/Clipse/_/So+Be+It)*
-- **Clipse** - *[P.O.V.](https://www.last.fm/music/Clipse/_/P.O.V.)*
-- **Clipse** - *[Chains & Whips](https://www.last.fm/music/Clipse/_/Chains+&+Whips)*
-- **Clipse** - *[The Birds Don't Sing](https://www.last.fm/music/Clipse/_/The+Birds+Don%27t+Sing)*
 
 # 📀 Top Albums
 
