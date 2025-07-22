@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
-- **PinkPantheress** - *[Illegal](https://www.last.fm/music/PinkPantheress/_/Illegal)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
-- **Kali Uchis** - *[After the Storm (feat. Tyler, the Creator & Bootsy Collins)](https://www.last.fm/music/Kali+Uchis/_/After+the+Storm+(feat.+Tyler,+the+Creator+&+Bootsy+Collins))*
+- **Clipse** - *[So Be It](https://www.last.fm/music/Clipse/_/So+Be+It)*
 - **Clipse** - *[P.O.V.](https://www.last.fm/music/Clipse/_/P.O.V.)*
+- **Clipse** - *[Chains & Whips](https://www.last.fm/music/Clipse/_/Chains+&+Whips)*
+- **Clipse** - *[The Birds Don't Sing](https://www.last.fm/music/Clipse/_/The+Birds+Don%27t+Sing)*
+- **Drop Nineteens** - *[Kick The Tragedy](https://www.last.fm/music/Drop+Nineteens/_/Kick+The+Tragedy)*
 
 # 📀 Top Albums
 
