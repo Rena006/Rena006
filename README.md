@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)* (Now Playing)
+- **Metro Boomin** - *[Trance (with Travis Scott & Young Thug)](https://www.last.fm/music/Metro+Boomin/_/Trance+(with+Travis+Scott+&+Young+Thug))*
+- **Metro Boomin** - *[Too Many Nights (feat. Don Toliver & with Future)](https://www.last.fm/music/Metro+Boomin/_/Too+Many+Nights+(feat.+Don+Toliver+&+with+Future))*
+- **菊池ひみこ** - *[Fluffy](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Fluffy)*
 - **菊池ひみこ** - *[A Seagull & Clouds](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/A+Seagull+&+Clouds)*
 - **菊池ひみこ** - *[Look Your Back!](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Look+Your+Back!)*
-- **Buddy Rich Big Band** - *[Time Check](https://www.last.fm/music/Buddy+Rich+Big+Band/_/Time+Check)*
-- **Masaki Matsubara** - *[Busted](https://www.last.fm/music/Masaki+Matsubara/_/Busted)*
-- **Casiopea** - *[スペース・ロード](https://www.last.fm/music/Casiopea/_/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89)*
 
 # 📀 Top Albums
 
