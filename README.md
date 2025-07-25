@@ -7,6 +7,7 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 菊池ひみこ** - *[Flying Beagle](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Flying+Beagle)* (Now Playing)
 - **菊池ひみこ** - *[Baby Talk](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Baby+Talk)*
 - **菊池ひみこ** - *[Fluffy](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Fluffy)*
 - **菊池ひみこ** - *[Fluffy](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Fluffy)*
