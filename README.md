@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 菊池ひみこ** - *[Flying Beagle](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Flying+Beagle)* (Now Playing)
-- **菊池ひみこ** - *[Baby Talk](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Baby+Talk)*
-- **菊池ひみこ** - *[Fluffy](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Fluffy)*
-- **菊池ひみこ** - *[Fluffy](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Fluffy)*
-- **Massive Attack** - *[Teardrop](https://www.last.fm/music/Massive+Attack/_/Teardrop)*
-- **Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)*
+- **Casiopea** - *[テイク・ミー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
+- **菊池ひみこ** - *[SEGUIDILLA - from Carmen](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/SEGUIDILLA+-+from+Carmen)*
+- **菊池ひみこ** - *[GYPSY SONG - from Carmen](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/GYPSY+SONG+-+from+Carmen)*
+- **菊池ひみこ** - *[PRIMAVELA](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/PRIMAVELA)*
+- **菊池ひみこ** - *[Mambo Is Magic(マンボ・イズ・マジック)](https://www.last.fm/music/%E8%8F%8A%E6%B1%A0%E3%81%B2%E3%81%BF%E3%81%93/_/Mambo+Is+Magic(%E3%83%9E%E3%83%B3%E3%83%9C%E3%83%BB%E3%82%A4%E3%82%BA%E3%83%BB%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF))*
 
 # 📀 Top Albums
 
