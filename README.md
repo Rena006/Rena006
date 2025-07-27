@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
 - **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
 - **Elliott Smith** - *[Between the Bars](https://www.last.fm/music/Elliott+Smith/_/Between+the+Bars)*
 - **Talking Heads** - *[This Must Be the Place (Naive Melody) - 2005 Remaster](https://www.last.fm/music/Talking+Heads/_/This+Must+Be+the+Place+(Naive+Melody)+-+2005+Remaster)*
 - **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 
 # 📀 Top Albums
 
