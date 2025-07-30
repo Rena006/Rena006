@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Massive Attack** - *[Be Thankful for What You've Got - 2012 Mix/Master](https://www.last.fm/music/Massive+Attack/_/Be+Thankful+for+What+You%27ve+Got+-+2012+Mix%2FMaster)*
+- **Pet Shop Boys** - *[Being Boring - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Being+Boring+-+2018+Remaster)*
+- **The Cure** - *[Just Like Heaven](https://www.last.fm/music/The+Cure/_/Just+Like+Heaven)*
 - **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
 - **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
-- **Elliott Smith** - *[Between the Bars](https://www.last.fm/music/Elliott+Smith/_/Between+the+Bars)*
-- **Talking Heads** - *[This Must Be the Place (Naive Melody) - 2005 Remaster](https://www.last.fm/music/Talking+Heads/_/This+Must+Be+the+Place+(Naive+Melody)+-+2005+Remaster)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
 
 # 📀 Top Albums
 
