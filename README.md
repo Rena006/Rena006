@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Massive Attack** - *[Be Thankful for What You've Got - 2012 Mix/Master](https://www.last.fm/music/Massive+Attack/_/Be+Thankful+for+What+You%27ve+Got+-+2012+Mix%2FMaster)*
-- **Pet Shop Boys** - *[Being Boring - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Being+Boring+-+2018+Remaster)*
-- **The Cure** - *[Just Like Heaven](https://www.last.fm/music/The+Cure/_/Just+Like+Heaven)*
-- **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **🎵 Fontaines D.C.** - *[Bug](https://www.last.fm/music/Fontaines+D.C./_/Bug)* (Now Playing)
+- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
+- **Fontaines D.C.** - *[Desire](https://www.last.fm/music/Fontaines+D.C./_/Desire)*
+- **Fontaines D.C.** - *[Here's The Thing](https://www.last.fm/music/Fontaines+D.C./_/Here%27s+The+Thing)*
+- **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
+- **Fontaines D.C.** - *[Romance](https://www.last.fm/music/Fontaines+D.C./_/Romance)*
 
 # 📀 Top Albums
 
