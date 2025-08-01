@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Clipse** - *[The Birds Don't Sing](https://www.last.fm/music/Clipse/_/The+Birds+Don%27t+Sing)*
 - **Fontaines D.C.** - *[Favourite](https://www.last.fm/music/Fontaines+D.C./_/Favourite)*
 - **Fontaines D.C.** - *[Death Kink](https://www.last.fm/music/Fontaines+D.C./_/Death+Kink)*
 - **Fontaines D.C.** - *[Horseness Is The Whatness](https://www.last.fm/music/Fontaines+D.C./_/Horseness+Is+The+Whatness)*
 - **Fontaines D.C.** - *[Sundowner](https://www.last.fm/music/Fontaines+D.C./_/Sundowner)*
-- **Fontaines D.C.** - *[Motorcycle Boy](https://www.last.fm/music/Fontaines+D.C./_/Motorcycle+Boy)*
 
 # 📀 Top Albums
 
