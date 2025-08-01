@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Fontaines D.C.** - *[Sundowner](https://www.last.fm/music/Fontaines+D.C./_/Sundowner)* (Now Playing)
+- **Fontaines D.C.** - *[Motorcycle Boy](https://www.last.fm/music/Fontaines+D.C./_/Motorcycle+Boy)*
 - **Fontaines D.C.** - *[Bug](https://www.last.fm/music/Fontaines+D.C./_/Bug)*
 - **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Fontaines D.C.** - *[Desire](https://www.last.fm/music/Fontaines+D.C./_/Desire)*
-- **Fontaines D.C.** - *[Here's The Thing](https://www.last.fm/music/Fontaines+D.C./_/Here%27s+The+Thing)*
-- **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
+- **Fontaines D.C.** - *[Motorcycle Boy](https://www.last.fm/music/Fontaines+D.C./_/Motorcycle+Boy)*
+- **Fontaines D.C.** - *[Bug](https://www.last.fm/music/Fontaines+D.C./_/Bug)*
 
 # 📀 Top Albums
 
