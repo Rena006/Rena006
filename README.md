@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Clipse** - *[The Birds Don't Sing](https://www.last.fm/music/Clipse/_/The+Birds+Don%27t+Sing)*
-- **Fontaines D.C.** - *[Favourite](https://www.last.fm/music/Fontaines+D.C./_/Favourite)*
-- **Fontaines D.C.** - *[Death Kink](https://www.last.fm/music/Fontaines+D.C./_/Death+Kink)*
-- **Fontaines D.C.** - *[Horseness Is The Whatness](https://www.last.fm/music/Fontaines+D.C./_/Horseness+Is+The+Whatness)*
-- **Fontaines D.C.** - *[Sundowner](https://www.last.fm/music/Fontaines+D.C./_/Sundowner)*
+- **🎵 Shigeru Suzuki** - *[コーラル・リーフ](https://www.last.fm/music/Shigeru+Suzuki/_/%E3%82%B3%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%95)* (Now Playing)
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
+- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **Tyler, The Creator** - *[I'll Take Care of You (feat. Yebba)](https://www.last.fm/music/Tyler,+The+Creator/_/I%27ll+Take+Care+of+You+(feat.+Yebba))*
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
 
 # 📀 Top Albums
 
