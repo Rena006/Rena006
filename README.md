@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Shigeru Suzuki** - *[コーラル・リーフ](https://www.last.fm/music/Shigeru+Suzuki/_/%E3%82%B3%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%95)* (Now Playing)
 - **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 - **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
 - **Tyler, The Creator** - *[I'll Take Care of You (feat. Yebba)](https://www.last.fm/music/Tyler,+The+Creator/_/I%27ll+Take+Care+of+You+(feat.+Yebba))*
