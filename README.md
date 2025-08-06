@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)* (Now Playing)
+- **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
 - **Casiopea** - *[テイク・ミー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
 - **Clipse** - *[Chains & Whips](https://www.last.fm/music/Clipse/_/Chains+&+Whips)*
 - **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 - **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
-- **Tyler, The Creator** - *[I'll Take Care of You (feat. Yebba)](https://www.last.fm/music/Tyler,+The+Creator/_/I%27ll+Take+Care+of+You+(feat.+Yebba))*
 
 # 📀 Top Albums
 
