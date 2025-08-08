@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 高中正義** - *[RAINBOW](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/RAINBOW)* (Now Playing)
+- **Masayoshi Takanaka** - *[RAINBOW](https://www.last.fm/music/Masayoshi+Takanaka/_/RAINBOW)*
 - **Masayoshi Takanaka** - *[SAMBA PATI](https://www.last.fm/music/Masayoshi+Takanaka/_/SAMBA+PATI)*
 - **Masayoshi Takanaka** - *[Mambo Jambo](https://www.last.fm/music/Masayoshi+Takanaka/_/Mambo+Jambo)*
 - **Masayoshi Takanaka** - *[Just The Way You Are](https://www.last.fm/music/Masayoshi+Takanaka/_/Just+The+Way+You+Are)*
 - **Masayoshi Takanaka** - *[Blue Curacao](https://www.last.fm/music/Masayoshi+Takanaka/_/Blue+Curacao)*
-- **Masayoshi Takanaka** - *[Breezin'](https://www.last.fm/music/Masayoshi+Takanaka/_/Breezin%27)*
 
 # 📀 Top Albums
 
