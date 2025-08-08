@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Cure** - *[Just Like Heaven](https://www.last.fm/music/The+Cure/_/Just+Like+Heaven)*
-- **Oasis** - *[Don't Look Back In Anger - Remastered](https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+-+Remastered)*
-- **Fontaines D.C.** - *[Bug](https://www.last.fm/music/Fontaines+D.C./_/Bug)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Fontaines D.C.** - *[Desire](https://www.last.fm/music/Fontaines+D.C./_/Desire)*
+- **🎵 高中正義** - *[RAINBOW](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/RAINBOW)* (Now Playing)
+- **Masayoshi Takanaka** - *[SAMBA PATI](https://www.last.fm/music/Masayoshi+Takanaka/_/SAMBA+PATI)*
+- **Masayoshi Takanaka** - *[Mambo Jambo](https://www.last.fm/music/Masayoshi+Takanaka/_/Mambo+Jambo)*
+- **Masayoshi Takanaka** - *[Just The Way You Are](https://www.last.fm/music/Masayoshi+Takanaka/_/Just+The+Way+You+Are)*
+- **Masayoshi Takanaka** - *[Blue Curacao](https://www.last.fm/music/Masayoshi+Takanaka/_/Blue+Curacao)*
+- **Masayoshi Takanaka** - *[Breezin'](https://www.last.fm/music/Masayoshi+Takanaka/_/Breezin%27)*
 
 # 📀 Top Albums
 
