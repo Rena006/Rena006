@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Beach House** - *[Myth](https://www.last.fm/music/Beach+House/_/Myth)* (Now Playing)
+- **Elliott Smith** - *[Say Yes](https://www.last.fm/music/Elliott+Smith/_/Say+Yes)*
+- **Daft Punk** - *[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas))*
+- **Beach House** - *[Myth](https://www.last.fm/music/Beach+House/_/Myth)*
 - **Gorillaz** - *[Empire Ants](https://www.last.fm/music/Gorillaz/_/Empire+Ants)*
 - **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Casiopea** - *[ドミノ・ライン - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%89%E3%83%9F%E3%83%8E%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[タイム・リミット - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%9F%E3%83%83%E3%83%88+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[ミッドナイト・ランデブー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
 
 # 📀 Top Albums
 
