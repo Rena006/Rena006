@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Elliott Smith** - *[Say Yes](https://www.last.fm/music/Elliott+Smith/_/Say+Yes)*
-- **Daft Punk** - *[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas))*
-- **Beach House** - *[Myth](https://www.last.fm/music/Beach+House/_/Myth)*
-- **Gorillaz** - *[Empire Ants](https://www.last.fm/music/Gorillaz/_/Empire+Ants)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **🎵 박혜진 Park Hye Jin** - *[ABC](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/ABC)* (Now Playing)
+- **박혜진 Park Hye Jin** - *[Let’s Sing Let’s Dance](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Let%E2%80%99s+Sing+Let%E2%80%99s+Dance)*
+- **박혜진 Park Hye Jin** - *[Can you](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Can+you)*
+- **Blood Orange** - *[CALL ME (Freestyle)](https://www.last.fm/music/Blood+Orange/_/CALL+ME+(Freestyle))*
+- **박혜진 Park Hye Jin** - *[I DON'T CARE](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/I+DON%27T+CARE)*
+- **박혜진 Park Hye Jin** - *[CLOUDS](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/CLOUDS)*
 
 # 📀 Top Albums
 
