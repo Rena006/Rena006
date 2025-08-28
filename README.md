@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Tyler, The Creator** - *[Big Poe (feat. Sk8brd)](https://www.last.fm/music/Tyler,+The+Creator/_/Big+Poe+(feat.+Sk8brd))*
-- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
-- **박혜진 Park Hye Jin** - *[See so (I Can Hear Your Heart)](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/See+so+(I+Can+Hear+Your+Heart))*
-- **박혜진 Park Hye Jin** - *[Outro](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Outro)*
-- **박혜진 Park Hye Jin** - *[Y DON'T U](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Y+DON%27T+U)*
+- **Blue Hawaii** - *[I Felt Love](https://www.last.fm/music/Blue+Hawaii/_/I+Felt+Love)*
+- **Modjo** - *[Lady (Hear Me Tonight)](https://www.last.fm/music/Modjo/_/Lady+(Hear+Me+Tonight))*
+- **Peggy Gou** - *[It Makes You Forget (Itgehane) - Edit](https://www.last.fm/music/Peggy+Gou/_/It+Makes+You+Forget+(Itgehane)+-+Edit)*
+- **Disclosure** - *[White Noise](https://www.last.fm/music/Disclosure/_/White+Noise)*
+- **Riovaz** - *[I Feel Fantastic](https://www.last.fm/music/Riovaz/_/I+Feel+Fantastic)*
 
 # 📀 Top Albums
 
