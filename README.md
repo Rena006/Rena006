@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)* (Now Playing)
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 - **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
 - **박혜진 Park Hye Jin** - *[Like this](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Like+this)*
-- **Yaeji** - *[Feel It Out](https://www.last.fm/music/Yaeji/_/Feel+It+Out)*
-- **Modjo** - *[Music Takes You Back](https://www.last.fm/music/Modjo/_/Music+Takes+You+Back)*
-- **Disclosure** - *[Latch (feat. Sam Smith)](https://www.last.fm/music/Disclosure/_/Latch+(feat.+Sam+Smith))*
 
 # 📀 Top Albums
 
