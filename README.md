@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
-- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
-- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
-- **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
-- **박혜진 Park Hye Jin** - *[Like this](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Like+this)*
+- **Jamiroquai** - *[Cosmic Girl - Remastered 2013](https://www.last.fm/music/Jamiroquai/_/Cosmic+Girl+-+Remastered+2013)*
+- **Masayoshi Takanaka** - *[Breezin'](https://www.last.fm/music/Masayoshi+Takanaka/_/Breezin%27)*
+- **Pulp** - *[Babies](https://www.last.fm/music/Pulp/_/Babies)*
+- **ビクター・ファンタスティック・オーケストラ** - *[SPARKLE](https://www.last.fm/music/%E3%83%93%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B9%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AA%E3%83%BC%E3%82%B1%E3%82%B9%E3%83%88%E3%83%A9/_/SPARKLE)*
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
 
 # 📀 Top Albums
 
