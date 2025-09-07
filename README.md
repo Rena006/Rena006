@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Crim3s** - *[Still Goin](https://www.last.fm/music/Crim3s/_/Still+Goin)*
-- **oOoOO** - *[Mumbai](https://www.last.fm/music/oOoOO/_/Mumbai)*
-- **Crystal Castles** - *[Magic Spells](https://www.last.fm/music/Crystal+Castles/_/Magic+Spells)*
-- **brothel in belize** - *[envy](https://www.last.fm/music/brothel+in+belize/_/envy)*
-- **The Hellp** - *[4up7up](https://www.last.fm/music/The+Hellp/_/4up7up)*
+- **Peggy Gou** - *[It Makes You Forget (Itgehane) - Edit](https://www.last.fm/music/Peggy+Gou/_/It+Makes+You+Forget+(Itgehane)+-+Edit)*
+- **박혜진 Park Hye Jin** - *[I DON'T CARE](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/I+DON%27T+CARE)*
+- **L'Arc-en-Ciel** - *[Blurry Eyes](https://www.last.fm/music/L%27Arc-en-Ciel/_/Blurry+Eyes)*
+- **L'Arc-en-Ciel** - *[Blurry Eyes](https://www.last.fm/music/L%27Arc-en-Ciel/_/Blurry+Eyes)*
+- **Labyrinth Ear** - *[Droplets of Pearl](https://www.last.fm/music/Labyrinth+Ear/_/Droplets+of+Pearl)*
 
 # 📀 Top Albums
 
