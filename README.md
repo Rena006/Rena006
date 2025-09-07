@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Crystal Castles** - *[Child I Will Hurt You](https://www.last.fm/music/Crystal+Castles/_/Child+I+Will+Hurt+You)*
-- **Crystal Castles** - *[Mercenary](https://www.last.fm/music/Crystal+Castles/_/Mercenary)*
-- **Crystal Castles** - *[Telepath](https://www.last.fm/music/Crystal+Castles/_/Telepath)*
-- **Crystal Castles** - *[Violent Youth](https://www.last.fm/music/Crystal+Castles/_/Violent+Youth)*
-- **Crystal Castles** - *[Transgender](https://www.last.fm/music/Crystal+Castles/_/Transgender)*
+- **🎵 Crystal Castles** - *[Magic Spells](https://www.last.fm/music/Crystal+Castles/_/Magic+Spells)* (Now Playing)
+- **brothel in belize** - *[envy](https://www.last.fm/music/brothel+in+belize/_/envy)*
+- **The Hellp** - *[4up7up](https://www.last.fm/music/The+Hellp/_/4up7up)*
+- **Prince Innocence** - *[Golden Hour](https://www.last.fm/music/Prince+Innocence/_/Golden+Hour)*
+- **Clams Casino** - *[Numb](https://www.last.fm/music/Clams+Casino/_/Numb)*
+- **The KVB** - *[Always Then](https://www.last.fm/music/The+KVB/_/Always+Then)*
 
 # 📀 Top Albums
 
