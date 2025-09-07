@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Crystal Castles** - *[Magic Spells](https://www.last.fm/music/Crystal+Castles/_/Magic+Spells)* (Now Playing)
+- **Crim3s** - *[Still Goin](https://www.last.fm/music/Crim3s/_/Still+Goin)*
+- **oOoOO** - *[Mumbai](https://www.last.fm/music/oOoOO/_/Mumbai)*
+- **Crystal Castles** - *[Magic Spells](https://www.last.fm/music/Crystal+Castles/_/Magic+Spells)*
 - **brothel in belize** - *[envy](https://www.last.fm/music/brothel+in+belize/_/envy)*
 - **The Hellp** - *[4up7up](https://www.last.fm/music/The+Hellp/_/4up7up)*
-- **Prince Innocence** - *[Golden Hour](https://www.last.fm/music/Prince+Innocence/_/Golden+Hour)*
-- **Clams Casino** - *[Numb](https://www.last.fm/music/Clams+Casino/_/Numb)*
-- **The KVB** - *[Always Then](https://www.last.fm/music/The+KVB/_/Always+Then)*
 
 # 📀 Top Albums
 
