@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 박혜진 Park Hye Jin** - *[IF U WANT IT](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/IF+U+WANT+IT)* (Now Playing)
-- **Crystal Waters** - *[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Basement+Boy+Strip+To+The+Bone+Mix)*
-- **LOSTBOYJAY** - *[COULD BE WRONG](https://www.last.fm/music/LOSTBOYJAY/_/COULD+BE+WRONG)*
-- **Yaeji** - *[Feel It Out](https://www.last.fm/music/Yaeji/_/Feel+It+Out)*
-- **Disclosure** - *[Moonlight](https://www.last.fm/music/Disclosure/_/Moonlight)*
-- **박혜진 Park Hye Jin** - *[Let’s Sing Let’s Dance](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Let%E2%80%99s+Sing+Let%E2%80%99s+Dance)*
+- **박혜진 Park Hye Jin** - *[Can you](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Can+you)*
+- **Inner City** - *[Good Life](https://www.last.fm/music/Inner+City/_/Good+Life)*
+- **Modjo** - *[Music Takes You Back](https://www.last.fm/music/Modjo/_/Music+Takes+You+Back)*
+- **Yaeji** - *[New York 93 (Baba Stiltz Remix)](https://www.last.fm/music/Yaeji/_/New+York+93+(Baba+Stiltz+Remix))*
+- **Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)*
 
 # 📀 Top Albums
 
