@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
+- **細野晴臣** - *[最後の楽園](https://www.last.fm/music/%E7%B4%B0%E9%87%8E%E6%99%B4%E8%87%A3/_/%E6%9C%80%E5%BE%8C%E3%81%AE%E6%A5%BD%E5%9C%92)*
 - **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
 - **박혜진 Park Hye Jin** - *[Can you](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Can+you)*
-- **Inner City** - *[Good Life](https://www.last.fm/music/Inner+City/_/Good+Life)*
-- **Modjo** - *[Music Takes You Back](https://www.last.fm/music/Modjo/_/Music+Takes+You+Back)*
-- **Yaeji** - *[New York 93 (Baba Stiltz Remix)](https://www.last.fm/music/Yaeji/_/New+York+93+(Baba+Stiltz+Remix))*
 
 # 📀 Top Albums
 
