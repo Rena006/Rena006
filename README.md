@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Portishead** - *[It Could Be Sweet](https://www.last.fm/music/Portishead/_/It+Could+Be+Sweet)* (Now Playing)
 - **The Blackbyrds** - *[Mysterious Vibes](https://www.last.fm/music/The+Blackbyrds/_/Mysterious+Vibes)*
 - **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
 - **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
