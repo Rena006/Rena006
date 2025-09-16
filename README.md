@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 高中正義** - *[憧れのセーシェル諸島](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E6%86%A7%E3%82%8C%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB%E8%AB%B8%E5%B3%B6)* (Now Playing)
-- **Masayoshi Takanaka** - *[SEXY DANCE](https://www.last.fm/music/Masayoshi+Takanaka/_/SEXY+DANCE)*
-- **Masayoshi Takanaka** - *[Sweet Agnes](https://www.last.fm/music/Masayoshi+Takanaka/_/Sweet+Agnes)*
-- **Masayoshi Takanaka** - *[E. S. P.](https://www.last.fm/music/Masayoshi+Takanaka/_/E.+S.+P.)*
-- **Masayoshi Takanaka** - *[蜃気楼の島へ](https://www.last.fm/music/Masayoshi+Takanaka/_/%E8%9C%83%E6%B0%97%E6%A5%BC%E3%81%AE%E5%B3%B6%E3%81%B8)*
-- **Masayoshi Takanaka** - *[憧れのセーシェル諸島](https://www.last.fm/music/Masayoshi+Takanaka/_/%E6%86%A7%E3%82%8C%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB%E8%AB%B8%E5%B3%B6)*
+- **🎵 Aphex Twin** - *[We Are the Music Makers](https://www.last.fm/music/Aphex+Twin/_/We+Are+the+Music+Makers)* (Now Playing)
+- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
+- **Aphex Twin** - *[Green Calx](https://www.last.fm/music/Aphex+Twin/_/Green+Calx)*
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
 
 # 📀 Top Albums
 
