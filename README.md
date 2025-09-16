@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Casiopea** - *[スウェアー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%82%B9%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)* (Now Playing)
-- **Casiopea** - *[ティアーズ・オブ・ザ・スター - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[ドミノ・ライン - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%89%E3%83%9F%E3%83%8E%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[タイム・リミット - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%BB%E3%83%AA%E3%83%9F%E3%83%83%E3%83%88+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[ミッドナイト・ランデブー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
+- **🎵 高中正義** - *[憧れのセーシェル諸島](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E6%86%A7%E3%82%8C%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB%E8%AB%B8%E5%B3%B6)* (Now Playing)
+- **Masayoshi Takanaka** - *[SEXY DANCE](https://www.last.fm/music/Masayoshi+Takanaka/_/SEXY+DANCE)*
+- **Masayoshi Takanaka** - *[Sweet Agnes](https://www.last.fm/music/Masayoshi+Takanaka/_/Sweet+Agnes)*
+- **Masayoshi Takanaka** - *[E. S. P.](https://www.last.fm/music/Masayoshi+Takanaka/_/E.+S.+P.)*
+- **Masayoshi Takanaka** - *[蜃気楼の島へ](https://www.last.fm/music/Masayoshi+Takanaka/_/%E8%9C%83%E6%B0%97%E6%A5%BC%E3%81%AE%E5%B3%B6%E3%81%B8)*
+- **Masayoshi Takanaka** - *[憧れのセーシェル諸島](https://www.last.fm/music/Masayoshi+Takanaka/_/%E6%86%A7%E3%82%8C%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB%E8%AB%B8%E5%B3%B6)*
 
 # 📀 Top Albums
 
