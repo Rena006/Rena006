@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Daft Punk** - *[Voyager](https://www.last.fm/music/Daft+Punk/_/Voyager)*
+- **Disclosure** - *[Expressing What Matters](https://www.last.fm/music/Disclosure/_/Expressing+What+Matters)*
+- **Disclosure** - *[Expressing What Matters](https://www.last.fm/music/Disclosure/_/Expressing+What+Matters)*
+- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
 - **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
-- **Radiohead** - *[Weird Fishes / Arpeggi](https://www.last.fm/music/Radiohead/_/Weird+Fishes+%2F+Arpeggi)*
-- **Mac DeMarco** - *[Ode to Viceroy](https://www.last.fm/music/Mac+DeMarco/_/Ode+to+Viceroy)*
-- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
 
 # 📀 Top Albums
 
