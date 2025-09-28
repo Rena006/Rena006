@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Casiopea** - *[テイク・ミー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)* (Now Playing)
+- **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
+- **Casiopea** - *[テイク・ミー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
 - **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
 - **Fontaines D.C.** - *[Romance](https://www.last.fm/music/Fontaines+D.C./_/Romance)*
 - **Daft Punk** - *[Voyager](https://www.last.fm/music/Daft+Punk/_/Voyager)*
-- **Disclosure** - *[Expressing What Matters](https://www.last.fm/music/Disclosure/_/Expressing+What+Matters)*
-- **Disclosure** - *[Expressing What Matters](https://www.last.fm/music/Disclosure/_/Expressing+What+Matters)*
 
 # 📀 Top Albums
 
