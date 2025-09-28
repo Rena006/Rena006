@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Casiopea** - *[テイク・ミー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)* (Now Playing)
+- **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
+- **Fontaines D.C.** - *[Romance](https://www.last.fm/music/Fontaines+D.C./_/Romance)*
 - **Daft Punk** - *[Voyager](https://www.last.fm/music/Daft+Punk/_/Voyager)*
 - **Disclosure** - *[Expressing What Matters](https://www.last.fm/music/Disclosure/_/Expressing+What+Matters)*
 - **Disclosure** - *[Expressing What Matters](https://www.last.fm/music/Disclosure/_/Expressing+What+Matters)*
-- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
-- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
 
 # 📀 Top Albums
 
