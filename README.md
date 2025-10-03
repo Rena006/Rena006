@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Casiopea** - *[ミッドナイト・ランデブー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[テイク・ミー - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%9F%E3%83%BC+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
+- **Air** - *[Kelly Watch the Stars](https://www.last.fm/music/Air/_/Kelly+Watch+the+Stars)*
+- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
+- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **Oasis** - *[Don't Look Back In Anger - Remastered](https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+-+Remastered)*
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
 
 # 📀 Top Albums
 
