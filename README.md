@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **DJ Shadow** - *[Midnight in a Perfect World](https://www.last.fm/music/DJ+Shadow/_/Midnight+in+a+Perfect+World)*
-- **Air** - *[Kelly Watch the Stars](https://www.last.fm/music/Air/_/Kelly+Watch+the+Stars)*
-- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
-- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **🎵 DJ Shadow** - *[Midnight in a Perfect World](https://www.last.fm/music/DJ+Shadow/_/Midnight+in+a+Perfect+World)* (Now Playing)
+- **DJ Shadow** - *[Why Hip-Hop Sucks In '96](https://www.last.fm/music/DJ+Shadow/_/Why+Hip-Hop+Sucks+In+%2796)*
+- **DJ Shadow** - *[Organ Donor](https://www.last.fm/music/DJ+Shadow/_/Organ+Donor)*
+- **DJ Shadow** - *[Mutual Slump](https://www.last.fm/music/DJ+Shadow/_/Mutual+Slump)*
+- **DJ Shadow** - *[Transmission 2](https://www.last.fm/music/DJ+Shadow/_/Transmission+2)*
+- **DJ Shadow** - *[Stem / Long Stem - Medley](https://www.last.fm/music/DJ+Shadow/_/Stem+%2F+Long+Stem+-+Medley)*
 
 # 📀 Top Albums
 
