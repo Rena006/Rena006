@@ -7,11 +7,10 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Mall Grab** - *[Love Reigns](https://www.last.fm/music/Mall+Grab/_/Love+Reigns)* (Now Playing)
+- **Mall Grab** - *[Love Reigns](https://www.last.fm/music/Mall+Grab/_/Love+Reigns)*
 - **Cult Member** - *[three](https://www.last.fm/music/Cult+Member/_/three)*
 - **Yaeji** - *[Feel It Out](https://www.last.fm/music/Yaeji/_/Feel+It+Out)*
 - **Blue Hawaii** - *[I Felt Love](https://www.last.fm/music/Blue+Hawaii/_/I+Felt+Love)*
-- **Crystal Waters** - *[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Basement+Boy+Strip+To+The+Bone+Mix)*
 - **Crystal Waters** - *[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Basement+Boy+Strip+To+The+Bone+Mix)*
 
 # 📀 Top Albums
