@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
+- **Kendrick Lamar** - *[King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)*
+- **Kendrick Lamar** - *[King Kunta](https://www.last.fm/music/Kendrick+Lamar/_/King+Kunta)*
 - **Metro Boomin** - *[Too Many Nights (feat. Don Toliver & with Future)](https://www.last.fm/music/Metro+Boomin/_/Too+Many+Nights+(feat.+Don+Toliver+&+with+Future))*
-- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
-- **Jay Rock** - *[King's Dead (with Kendrick Lamar, Future & James Blake)](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+(with+Kendrick+Lamar,+Future+&+James+Blake))*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
 
 # 📀 Top Albums
 
