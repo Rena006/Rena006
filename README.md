@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[minipops 67 [120.2][source field mix]](https://www.last.fm/music/Aphex+Twin/_/minipops+67+%5B120.2%5D%5Bsource+field+mix%5D)*
-- **Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)*
-- **Kanye West** - *[Touch the Sky](https://www.last.fm/music/Kanye+West/_/Touch+the+Sky)*
-- **Kendrick Lamar** - *[Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)*
-- **細野晴臣** - *[最後の楽園](https://www.last.fm/music/%E7%B4%B0%E9%87%8E%E6%99%B4%E8%87%A3/_/%E6%9C%80%E5%BE%8C%E3%81%AE%E6%A5%BD%E5%9C%92)*
+- **Elliott Smith** - *[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)*
+- **Crystal Castles** - *[Vanished](https://www.last.fm/music/Crystal+Castles/_/Vanished)*
+- **Mac DeMarco** - *[Ode to Viceroy](https://www.last.fm/music/Mac+DeMarco/_/Ode+to+Viceroy)*
+- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
 
 # 📀 Top Albums
 
