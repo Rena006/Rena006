@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Elliott Smith** - *[Somebody That I Used to Know](https://www.last.fm/music/Elliott+Smith/_/Somebody+That+I+Used+to+Know)*
-- **Crystal Castles** - *[Vanished](https://www.last.fm/music/Crystal+Castles/_/Vanished)*
-- **Mac DeMarco** - *[Ode to Viceroy](https://www.last.fm/music/Mac+DeMarco/_/Ode+to+Viceroy)*
-- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
-- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
+- **Ariel Pink** - *[Feels Like Heaven](https://www.last.fm/music/Ariel+Pink/_/Feels+Like+Heaven)*
+- **Casiopea** - *[ティアーズ・オブ・ザ・スター](https://www.last.fm/music/Casiopea/_/%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BC%E3%82%BA%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%82%B6%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%BC)*
+- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
+- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
 
 # 📀 Top Albums
 
