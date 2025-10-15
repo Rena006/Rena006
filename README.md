@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
-- **細野晴臣** - *[最後の楽園](https://www.last.fm/music/%E7%B4%B0%E9%87%8E%E6%99%B4%E8%87%A3/_/%E6%9C%80%E5%BE%8C%E3%81%AE%E6%A5%BD%E5%9C%92)*
-- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
-- **Ariel Pink** - *[Feels Like Heaven](https://www.last.fm/music/Ariel+Pink/_/Feels+Like+Heaven)*
+- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
+- **Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)*
+- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
+- **Pet Shop Boys** - *[Being Boring - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Being+Boring+-+2018+Remaster)*
+- **Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)*
 
 # 📀 Top Albums
 
