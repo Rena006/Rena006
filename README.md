@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)* (Now Playing)
-- **Broadcast** - *[Come on Let's Go](https://www.last.fm/music/Broadcast/_/Come+on+Let%27s+Go)*
-- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
-- **Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)*
-- **Air** - *[Sexy Boy](https://www.last.fm/music/Air/_/Sexy+Boy)*
-- **Pet Shop Boys** - *[Being Boring - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Being+Boring+-+2018+Remaster)*
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
+- **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
+- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
+- **Crystal Waters** - *[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Radio+Edit)*
+- **박혜진 Park Hye Jin** - *[ABC](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/ABC)*
 
 # 📀 Top Albums
 
