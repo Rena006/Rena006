@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
-- **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
-- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
-- **Crystal Waters** - *[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Radio+Edit)*
-- **박혜진 Park Hye Jin** - *[ABC](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/ABC)*
+- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
+- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
+- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
+- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
+- **Billy Idol** - *[Eyes Without a Face](https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face)*
 
 # 📀 Top Albums
 
