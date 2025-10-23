@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Radiohead** - *[Subterranean Homesick Alien](https://www.last.fm/music/Radiohead/_/Subterranean+Homesick+Alien)*
+- **Air** - *[Kelly Watch the Stars](https://www.last.fm/music/Air/_/Kelly+Watch+the+Stars)*
 - **Crystal Waters** - *[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Radio+Edit)*
 - **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
 - **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
 
 # 📀 Top Albums
 
