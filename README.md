@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Billy Idol** - *[Eyes Without a Face](https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face)*
+- **🎵 Slowdive** - *[When the Sun Hits](https://www.last.fm/music/Slowdive/_/When+the+Sun+Hits)* (Now Playing)
+- **Massive Attack** - *[Safe From Harm](https://www.last.fm/music/Massive+Attack/_/Safe+From+Harm)*
+- **Ariel Pink** - *[Another Weekend](https://www.last.fm/music/Ariel+Pink/_/Another+Weekend)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **高中正義** - *[Oh! Tengo Suerte](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Oh!+Tengo+Suerte)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
 
 # 📀 Top Albums
 
