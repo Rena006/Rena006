@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **The Strokes** - *[You Only Live Once](https://www.last.fm/music/The+Strokes/_/You+Only+Live+Once)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
+- **Cult Member** - *[Lazer Sky](https://www.last.fm/music/Cult+Member/_/Lazer+Sky)*
 - **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
-- **Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Slowdive** - *[Souvlaki Space Station](https://www.last.fm/music/Slowdive/_/Souvlaki+Space+Station)*
-- **Radiohead** - *[Subterranean Homesick Alien](https://www.last.fm/music/Radiohead/_/Subterranean+Homesick+Alien)*
 
 # 📀 Top Albums
 
