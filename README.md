@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)* (Now Playing)
+- **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
+- **Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)*
 - **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 - **Slowdive** - *[Souvlaki Space Station](https://www.last.fm/music/Slowdive/_/Souvlaki+Space+Station)*
 - **Radiohead** - *[Subterranean Homesick Alien](https://www.last.fm/music/Radiohead/_/Subterranean+Homesick+Alien)*
-- **Air** - *[Kelly Watch the Stars](https://www.last.fm/music/Air/_/Kelly+Watch+the+Stars)*
-- **Crystal Waters** - *[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Radio+Edit)*
 
 # 📀 Top Albums
 
