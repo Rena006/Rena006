@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)* (Now Playing)
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Slowdive** - *[Souvlaki Space Station](https://www.last.fm/music/Slowdive/_/Souvlaki+Space+Station)*
 - **Radiohead** - *[Subterranean Homesick Alien](https://www.last.fm/music/Radiohead/_/Subterranean+Homesick+Alien)*
 - **Air** - *[Kelly Watch the Stars](https://www.last.fm/music/Air/_/Kelly+Watch+the+Stars)*
 - **Crystal Waters** - *[Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit](https://www.last.fm/music/Crystal+Waters/_/Gypsy+Woman+(She%27s+Homeless)+(La+Da+Dee+La+Da+Da)+-+Radio+Edit)*
-- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
-- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
 
 # 📀 Top Albums
 
