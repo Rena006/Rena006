@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Jay Rock** - *[King's Dead (with Kendrick Lamar, Future & James Blake)](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+(with+Kendrick+Lamar,+Future+&+James+Blake))*
+- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
+- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
 - **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
 - **Jamiroquai** - *[Virtual Insanity - Remastered 2006](https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+-+Remastered+2006)*
-- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
-- **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
 
 # 📀 Top Albums
 
