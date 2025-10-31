@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
 - **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **高中正義** - *[NIGHTS](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/NIGHTS)*
-- **Trippie Redd** - *[Miss The Rage](https://www.last.fm/music/Trippie+Redd/_/Miss+The+Rage)*
+- **Jamiroquai** - *[Virtual Insanity - Remastered 2006](https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+-+Remastered+2006)*
+- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
+- **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
 
 # 📀 Top Albums
 
