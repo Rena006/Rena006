@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Travis Scott** - *[goosebumps](https://www.last.fm/music/Travis+Scott/_/goosebumps)* (Now Playing)
+- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
+- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
 - **Jay Rock** - *[King's Dead (with Kendrick Lamar, Future & James Blake)](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+(with+Kendrick+Lamar,+Future+&+James+Blake))*
 - **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
 - **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Jamiroquai** - *[Virtual Insanity - Remastered 2006](https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+-+Remastered+2006)*
 
 # 📀 Top Albums
 
