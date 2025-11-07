@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 BADBADNOTGOOD** - *[Time Moves Slow](https://www.last.fm/music/BADBADNOTGOOD/_/Time+Moves+Slow)* (Now Playing)
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
+- **Gorillaz** - *[DARE (feat. Shaun Ryder & Roses Gabor)](https://www.last.fm/music/Gorillaz/_/DARE+(feat.+Shaun+Ryder+&+Roses+Gabor))*
+- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
+- **Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **Oneohtrix Point Never** - *[I Don't Love Me Anymore](https://www.last.fm/music/Oneohtrix+Point+Never/_/I+Don%27t+Love+Me+Anymore)*
 
 # 📀 Top Albums
 
