@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)* (Now Playing)
-- **Melody's Echo Chamber** - *[Some Time Alone, Alone](https://www.last.fm/music/Melody%27s+Echo+Chamber/_/Some+Time+Alone,+Alone)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **細野晴臣** - *[最後の楽園](https://www.last.fm/music/%E7%B4%B0%E9%87%8E%E6%99%B4%E8%87%A3/_/%E6%9C%80%E5%BE%8C%E3%81%AE%E6%A5%BD%E5%9C%92)*
-- **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
-- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
+- **Patrick Holland** - *[Closer](https://www.last.fm/music/Patrick+Holland/_/Closer)*
+- **박혜진 Park Hye Jin** - *[Can you](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Can+you)*
+- **Peggy Gou** - *[Starry Night](https://www.last.fm/music/Peggy+Gou/_/Starry+Night)*
+- **Stardust** - *[Music Sounds Better With You](https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You)*
+- **Mild Minds** - *[FORMATIONS](https://www.last.fm/music/Mild+Minds/_/FORMATIONS)*
 
 # 📀 Top Albums
 
