@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)* (Now Playing)
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
+- **Armand van Helden** - *[U Don't Know Me (feat. Duane Harden)](https://www.last.fm/music/Armand+van+Helden/_/U+Don%27t+Know+Me+(feat.+Duane+Harden))*
+- **Joe Smooth** - *[Promised Land](https://www.last.fm/music/Joe+Smooth/_/Promised+Land)*
 - **Patrick Holland** - *[Closer](https://www.last.fm/music/Patrick+Holland/_/Closer)*
-- **박혜진 Park Hye Jin** - *[Can you](https://www.last.fm/music/%EB%B0%95%ED%98%9C%EC%A7%84+Park+Hye+Jin/_/Can+you)*
-- **Peggy Gou** - *[Starry Night](https://www.last.fm/music/Peggy+Gou/_/Starry+Night)*
-- **Stardust** - *[Music Sounds Better With You](https://www.last.fm/music/Stardust/_/Music+Sounds+Better+With+You)*
-- **Mild Minds** - *[FORMATIONS](https://www.last.fm/music/Mild+Minds/_/FORMATIONS)*
+- **Cult Member** - *[U Weren't Here I Really Miss You](https://www.last.fm/music/Cult+Member/_/U+Weren%27t+Here+I+Really+Miss+You)*
 
 # 📀 Top Albums
 
