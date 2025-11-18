@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Ariel Pink** - *[Another Weekend](https://www.last.fm/music/Ariel+Pink/_/Another+Weekend)* (Now Playing)
+- **Ariel Pink** - *[Another Weekend](https://www.last.fm/music/Ariel+Pink/_/Another+Weekend)*
 - **King Krule** - *[Out Getting Ribs](https://www.last.fm/music/King+Krule/_/Out+Getting+Ribs)*
 - **PinkPantheress** - *[Pain](https://www.last.fm/music/PinkPantheress/_/Pain)*
 - **Aphex Twin** - *[Fingerbib](https://www.last.fm/music/Aphex+Twin/_/Fingerbib)*
 - **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
 
 # 📀 Top Albums
 
