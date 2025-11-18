@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
-- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
-- **Jamiroquai** - *[Virtual Insanity - Remastered 2006](https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+-+Remastered+2006)*
-- **Moses Gunn Collective** - *[Shalala](https://www.last.fm/music/Moses+Gunn+Collective/_/Shalala)*
-- **Mac DeMarco** - *[My Kind of Woman](https://www.last.fm/music/Mac+DeMarco/_/My+Kind+of+Woman)*
+- **Justice** - *[D.A.N.C.E.](https://www.last.fm/music/Justice/_/D.A.N.C.E.)*
+- **Daft Punk** - *[Digital Love](https://www.last.fm/music/Daft+Punk/_/Digital+Love)*
+- **Tyler, The Creator** - *[Mommanem](https://www.last.fm/music/Tyler,+The+Creator/_/Mommanem)*
+- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
+- **Fontaines D.C.** - *[Roy's Tune](https://www.last.fm/music/Fontaines+D.C./_/Roy%27s+Tune)*
 
 # 📀 Top Albums
 
