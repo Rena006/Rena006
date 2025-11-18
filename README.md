@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
-- **Daft Punk** - *[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas))*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
 - **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
-- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
 
 # 📀 Top Albums
 
