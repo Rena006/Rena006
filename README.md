@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Billy Idol** - *[Eyes Without a Face](https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face)* (Now Playing)
-- **Mac DeMarco** - *[This Old Dog](https://www.last.fm/music/Mac+DeMarco/_/This+Old+Dog)*
-- **Gorillaz** - *[19-2000](https://www.last.fm/music/Gorillaz/_/19-2000)*
-- **BADBADNOTGOOD** - *[In Your Eyes](https://www.last.fm/music/BADBADNOTGOOD/_/In+Your+Eyes)*
-- **Ariel Pink** - *[Another Weekend](https://www.last.fm/music/Ariel+Pink/_/Another+Weekend)*
-- **King Krule** - *[Out Getting Ribs](https://www.last.fm/music/King+Krule/_/Out+Getting+Ribs)*
+- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
+- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
+- **Jamiroquai** - *[Virtual Insanity - Remastered 2006](https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+-+Remastered+2006)*
+- **Moses Gunn Collective** - *[Shalala](https://www.last.fm/music/Moses+Gunn+Collective/_/Shalala)*
+- **Mac DeMarco** - *[My Kind of Woman](https://www.last.fm/music/Mac+DeMarco/_/My+Kind+of+Woman)*
 
 # 📀 Top Albums
 
