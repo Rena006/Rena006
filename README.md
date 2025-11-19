@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Jamiroquai** - *[Virtual Insanity - Remastered 2006](https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+-+Remastered+2006)*
 - **Justice** - *[D.A.N.C.E.](https://www.last.fm/music/Justice/_/D.A.N.C.E.)*
 - **Daft Punk** - *[Digital Love](https://www.last.fm/music/Daft+Punk/_/Digital+Love)*
 - **Tyler, The Creator** - *[Mommanem](https://www.last.fm/music/Tyler,+The+Creator/_/Mommanem)*
 - **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
-- **Fontaines D.C.** - *[Roy's Tune](https://www.last.fm/music/Fontaines+D.C./_/Roy%27s+Tune)*
 
 # 📀 Top Albums
 
