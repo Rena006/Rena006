@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Jamiroquai** - *[Virtual Insanity - Remastered 2006](https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity+-+Remastered+2006)*
-- **Justice** - *[D.A.N.C.E.](https://www.last.fm/music/Justice/_/D.A.N.C.E.)*
-- **Daft Punk** - *[Digital Love](https://www.last.fm/music/Daft+Punk/_/Digital+Love)*
-- **Tyler, The Creator** - *[Mommanem](https://www.last.fm/music/Tyler,+The+Creator/_/Mommanem)*
-- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
+- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
+- **Tame Impala** - *[Feels Like We Only Go Backwards](https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Daft Punk** - *[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas))*
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
 
 # 📀 Top Albums
 
