@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Peggy Gou** - *[Starry Night](https://www.last.fm/music/Peggy+Gou/_/Starry+Night)*
+- **Peggy Gou** - *[Starry Night](https://www.last.fm/music/Peggy+Gou/_/Starry+Night)*
 - **Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)*
 - **Animal Collective** - *[My Girls](https://www.last.fm/music/Animal+Collective/_/My+Girls)*
 - **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
 
 # 📀 Top Albums
 
