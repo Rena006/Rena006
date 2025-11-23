@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Scandinavian Music Group** - *[Hölmö rakkaus](https://www.last.fm/music/Scandinavian+Music+Group/_/H%C3%B6lm%C3%B6+rakkaus)*
 - **Kendrick Lamar** - *[untitled 08 | 09.06.2014.](https://www.last.fm/music/Kendrick+Lamar/_/untitled+08+%7C+09.06.2014.)*
 - **Kendrick Lamar** - *[HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)*
 - **PinkPantheress** - *[I Must Apologise](https://www.last.fm/music/PinkPantheress/_/I+Must+Apologise)*
-- **MF DOOM** - *[Hoe Cakes](https://www.last.fm/music/MF+DOOM/_/Hoe+Cakes)*
-- **Kanye West** - *[Violent Crimes](https://www.last.fm/music/Kanye+West/_/Violent+Crimes)*
 
 # 📀 Top Albums
 
