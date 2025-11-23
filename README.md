@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Notorious B.I.G.** - *[The World Is Filled... (feat. Too Short & Puff Daddy) - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/The+World+Is+Filled...+(feat.+Too+Short+&+Puff+Daddy)+-+2014+Remaster)* (Now Playing)
-- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
-- **The Notorious B.I.G.** - *[Sky's the Limit (feat. 112) - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Sky%27s+the+Limit+(feat.+112)+-+2014+Remaster)*
-- **Oasis** - *[Don't Look Back In Anger - Remastered](https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+-+Remastered)*
-- **Tame Impala** - *[Feels Like We Only Go Backwards](https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards)*
-- **The Cure** - *[Inbetween Days](https://www.last.fm/music/The+Cure/_/Inbetween+Days)*
+- **🎵 Himiko Kikuchi** - *[Fluffy](https://www.last.fm/music/Himiko+Kikuchi/_/Fluffy)* (Now Playing)
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
+- **Maximum the Hormone** - *[What's Up, People?!](https://www.last.fm/music/Maximum+the+Hormone/_/What%27s+Up,+People%3F!)*
+- **Tiger Mood** - *[chichi](https://www.last.fm/music/Tiger+Mood/_/chichi)*
+- **Pantera Blue** - *[Lágrima](https://www.last.fm/music/Pantera+Blue/_/L%C3%A1grima)*
 
 # 📀 Top Albums
 
