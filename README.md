@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
 - **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Scandinavian Music Group** - *[Hölmö rakkaus](https://www.last.fm/music/Scandinavian+Music+Group/_/H%C3%B6lm%C3%B6+rakkaus)*
-- **Kendrick Lamar** - *[untitled 08 | 09.06.2014.](https://www.last.fm/music/Kendrick+Lamar/_/untitled+08+%7C+09.06.2014.)*
-- **Kendrick Lamar** - *[HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)*
-- **PinkPantheress** - *[I Must Apologise](https://www.last.fm/music/PinkPantheress/_/I+Must+Apologise)*
+- **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 
 # 📀 Top Albums
 
