@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[All Falls Down](https://www.last.fm/music/Kanye+West/_/All+Falls+Down)* (Now Playing)
-- **Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)*
-- **Kanye West** - *[Heartless](https://www.last.fm/music/Kanye+West/_/Heartless)*
-- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
-- **Juice WRLD** - *[Syphilis](https://www.last.fm/music/Juice+WRLD/_/Syphilis)*
-- **Aphex Twin** - *[Green Calx](https://www.last.fm/music/Aphex+Twin/_/Green+Calx)*
+- **Diplo** - *[Wish](https://www.last.fm/music/Diplo/_/Wish)*
+- **Trippie Redd** - *[Dark Knight Dummo (feat. Travis Scott)](https://www.last.fm/music/Trippie+Redd/_/Dark+Knight+Dummo+(feat.+Travis+Scott))*
+- **Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)*
+- **Tay-K** - *[I <3 My Choppa](https://www.last.fm/music/Tay-K/_/I+%3C3+My+Choppa)*
+- **Pi’erre Bourne** - *[Poof](https://www.last.fm/music/Pi%E2%80%99erre+Bourne/_/Poof)*
 
 # 📀 Top Albums
 
