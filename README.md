@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Peggy Gou** - *[Starry Night](https://www.last.fm/music/Peggy+Gou/_/Starry+Night)*
-- **Peggy Gou** - *[Starry Night](https://www.last.fm/music/Peggy+Gou/_/Starry+Night)*
-- **Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)*
-- **Animal Collective** - *[My Girls](https://www.last.fm/music/Animal+Collective/_/My+Girls)*
-- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
+- **🎵 Kanye West** - *[All Falls Down](https://www.last.fm/music/Kanye+West/_/All+Falls+Down)* (Now Playing)
+- **Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)*
+- **Kanye West** - *[Heartless](https://www.last.fm/music/Kanye+West/_/Heartless)*
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
+- **Juice WRLD** - *[Syphilis](https://www.last.fm/music/Juice+WRLD/_/Syphilis)*
+- **Aphex Twin** - *[Green Calx](https://www.last.fm/music/Aphex+Twin/_/Green+Calx)*
 
 # 📀 Top Albums
 
