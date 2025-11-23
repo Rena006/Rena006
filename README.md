@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Nas** - *[Purple](https://www.last.fm/music/Nas/_/Purple)* (Now Playing)
-- **Nujabes** - *[Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))*
-- **Blood Orange** - *[CALL ME (Freestyle)](https://www.last.fm/music/Blood+Orange/_/CALL+ME+(Freestyle))*
-- **Tame Impala** - *[Love/Paranoia](https://www.last.fm/music/Tame+Impala/_/Love%2FParanoia)*
-- **MF DOOM** - *[Lavender Buds](https://www.last.fm/music/MF+DOOM/_/Lavender+Buds)*
-- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
+- **🎵 The Notorious B.I.G.** - *[The World Is Filled... (feat. Too Short & Puff Daddy) - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/The+World+Is+Filled...+(feat.+Too+Short+&+Puff+Daddy)+-+2014+Remaster)* (Now Playing)
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **The Notorious B.I.G.** - *[Sky's the Limit (feat. 112) - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Sky%27s+the+Limit+(feat.+112)+-+2014+Remaster)*
+- **Oasis** - *[Don't Look Back In Anger - Remastered](https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+-+Remastered)*
+- **Tame Impala** - *[Feels Like We Only Go Backwards](https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards)*
+- **The Cure** - *[Inbetween Days](https://www.last.fm/music/The+Cure/_/Inbetween+Days)*
 
 # 📀 Top Albums
 
