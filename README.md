@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Diplo** - *[Wish](https://www.last.fm/music/Diplo/_/Wish)*
-- **Trippie Redd** - *[Dark Knight Dummo (feat. Travis Scott)](https://www.last.fm/music/Trippie+Redd/_/Dark+Knight+Dummo+(feat.+Travis+Scott))*
+- **🎵 Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)* (Now Playing)
+- **KIDS SEE GHOSTS** - *[Cudi Montage](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/Cudi+Montage)*
 - **Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)*
-- **Tay-K** - *[I <3 My Choppa](https://www.last.fm/music/Tay-K/_/I+%3C3+My+Choppa)*
-- **Pi’erre Bourne** - *[Poof](https://www.last.fm/music/Pi%E2%80%99erre+Bourne/_/Poof)*
+- **Noname** - *[Self](https://www.last.fm/music/Noname/_/Self)*
+- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
+- **Slum Village** - *[Selfish](https://www.last.fm/music/Slum+Village/_/Selfish)*
 
 # 📀 Top Albums
 
