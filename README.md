@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)* (Now Playing)
-- **KIDS SEE GHOSTS** - *[Cudi Montage](https://www.last.fm/music/KIDS+SEE+GHOSTS/_/Cudi+Montage)*
-- **Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)*
-- **Noname** - *[Self](https://www.last.fm/music/Noname/_/Self)*
-- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
-- **Slum Village** - *[Selfish](https://www.last.fm/music/Slum+Village/_/Selfish)*
+- **🎵 Travis Scott** - *[SICKO MODE](https://www.last.fm/music/Travis+Scott/_/SICKO+MODE)* (Now Playing)
+- **Sheck Wes** - *[Gmail](https://www.last.fm/music/Sheck+Wes/_/Gmail)*
+- **Kanye West** - *[30 Hours](https://www.last.fm/music/Kanye+West/_/30+Hours)*
+- **Twista** - *[Slow Jamz](https://www.last.fm/music/Twista/_/Slow+Jamz)*
+- **Kendrick Lamar** - *[Count Me Out](https://www.last.fm/music/Kendrick+Lamar/_/Count+Me+Out)*
+- **Noname** - *[Shadow Man](https://www.last.fm/music/Noname/_/Shadow+Man)*
 
 # 📀 Top Albums
 
