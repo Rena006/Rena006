@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Travis Scott** - *[SICKO MODE](https://www.last.fm/music/Travis+Scott/_/SICKO+MODE)* (Now Playing)
-- **Sheck Wes** - *[Gmail](https://www.last.fm/music/Sheck+Wes/_/Gmail)*
-- **Kanye West** - *[30 Hours](https://www.last.fm/music/Kanye+West/_/30+Hours)*
-- **Twista** - *[Slow Jamz](https://www.last.fm/music/Twista/_/Slow+Jamz)*
-- **Kendrick Lamar** - *[Count Me Out](https://www.last.fm/music/Kendrick+Lamar/_/Count+Me+Out)*
-- **Noname** - *[Shadow Man](https://www.last.fm/music/Noname/_/Shadow+Man)*
+- **🎵 Nas** - *[Purple](https://www.last.fm/music/Nas/_/Purple)* (Now Playing)
+- **Nujabes** - *[Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))*
+- **Blood Orange** - *[CALL ME (Freestyle)](https://www.last.fm/music/Blood+Orange/_/CALL+ME+(Freestyle))*
+- **Tame Impala** - *[Love/Paranoia](https://www.last.fm/music/Tame+Impala/_/Love%2FParanoia)*
+- **MF DOOM** - *[Lavender Buds](https://www.last.fm/music/MF+DOOM/_/Lavender+Buds)*
+- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 
 # 📀 Top Albums
 
