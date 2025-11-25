@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
+- **高中正義** - *[トーキョーレギー](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AC%E3%82%AE%E3%83%BC)*
+- **Fontaines D.C.** - *[Roy's Tune](https://www.last.fm/music/Fontaines+D.C./_/Roy%27s+Tune)*
+- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 - **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
-- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
-- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
 
 # 📀 Top Albums
 
