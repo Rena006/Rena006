@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
-- **高中正義** - *[Oh! Tengo Suerte](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Oh!+Tengo+Suerte)*
-- **高中正義** - *[E. S. P.](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/E.+S.+P.)*
-- **高中正義** - *[BREEZIN'](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BREEZIN%27)*
-- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
+- **🎵 Kanye West** - *[Heartless](https://www.last.fm/music/Kanye+West/_/Heartless)* (Now Playing)
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
+- **Mac DeMarco** - *[This Old Dog](https://www.last.fm/music/Mac+DeMarco/_/This+Old+Dog)*
+- **Fontaines D.C.** - *[Here's The Thing](https://www.last.fm/music/Fontaines+D.C./_/Here%27s+The+Thing)*
 
 # 📀 Top Albums
 
