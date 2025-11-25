@@ -7,6 +7,7 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 高中正義** - *[BREEZIN'](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BREEZIN%27)* (Now Playing)
 - **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
 - **高中正義** - *[トーキョーレギー](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AC%E3%82%AE%E3%83%BC)*
 - **Fontaines D.C.** - *[Roy's Tune](https://www.last.fm/music/Fontaines+D.C./_/Roy%27s+Tune)*
