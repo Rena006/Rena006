@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[Heartless](https://www.last.fm/music/Kanye+West/_/Heartless)* (Now Playing)
-- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
-- **Mac DeMarco** - *[This Old Dog](https://www.last.fm/music/Mac+DeMarco/_/This+Old+Dog)*
-- **Fontaines D.C.** - *[Here's The Thing](https://www.last.fm/music/Fontaines+D.C./_/Here%27s+The+Thing)*
+- **Donda** - *[TRUE LOVE](https://www.last.fm/music/Donda/_/TRUE+LOVE)*
+- **JAY-Z** - *[Ni**as in Paris](https://www.last.fm/music/JAY-Z/_/Ni**as+in+Paris)*
+- **Kanye West** - *[Bound 2](https://www.last.fm/music/Kanye+West/_/Bound+2)*
+- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
+- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
 
 # 📀 Top Albums
 
