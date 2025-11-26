@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)* (Now Playing)
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Donda** - *[BROKEN ROAD](https://www.last.fm/music/Donda/_/BROKEN+ROAD)*
-- **Donda** - *[TRUE LOVE](https://www.last.fm/music/Donda/_/TRUE+LOVE)*
-- **JAY-Z** - *[Ni**as in Paris](https://www.last.fm/music/JAY-Z/_/Ni**as+in+Paris)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
+- **Crystal Castles** - *[Kerosene](https://www.last.fm/music/Crystal+Castles/_/Kerosene)*
 
 # 📀 Top Albums
 
