@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **高中正義** - *[トーキョーレギー](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AC%E3%82%AE%E3%83%BC)*
-- **Massive Attack** - *[Be Thankful for What You've Got](https://www.last.fm/music/Massive+Attack/_/Be+Thankful+for+What+You%27ve+Got)*
-- **Soundgarden** - *[Black Hole Sun](https://www.last.fm/music/Soundgarden/_/Black+Hole+Sun)*
-- **Weezer** - *[Only in Dreams](https://www.last.fm/music/Weezer/_/Only+in+Dreams)*
-- **Sonic Youth** - *[Kool Thing](https://www.last.fm/music/Sonic+Youth/_/Kool+Thing)*
+- **🎵 Oneohtrix Point Never** - *[Bumpy](https://www.last.fm/music/Oneohtrix+Point+Never/_/Bumpy)* (Now Playing)
+- **Oneohtrix Point Never** - *[For Residue](https://www.last.fm/music/Oneohtrix+Point+Never/_/For+Residue)*
+- **Aphex Twin** - *[We Are the Music Makers](https://www.last.fm/music/Aphex+Twin/_/We+Are+the+Music+Makers)*
+- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
+- **Aphex Twin** - *[Green Calx](https://www.last.fm/music/Aphex+Twin/_/Green+Calx)*
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
 
 # 📀 Top Albums
 
