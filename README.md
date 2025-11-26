@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Frank Ocean** - *[Self Control](https://www.last.fm/music/Frank+Ocean/_/Self+Control)* (Now Playing)
+- **Weezer** - *[Only in Dreams](https://www.last.fm/music/Weezer/_/Only+in+Dreams)*
+- **Sonic Youth** - *[Kool Thing](https://www.last.fm/music/Sonic+Youth/_/Kool+Thing)*
+- **Frank Ocean** - *[Self Control](https://www.last.fm/music/Frank+Ocean/_/Self+Control)*
 - **Tyler, The Creator** - *[See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))*
 - **The Strokes** - *[Eternal Summer](https://www.last.fm/music/The+Strokes/_/Eternal+Summer)*
-- **Mac DeMarco** - *[Chamber of Reflection](https://www.last.fm/music/Mac+DeMarco/_/Chamber+of+Reflection)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Ariel Pink** - *[Feels Like Heaven](https://www.last.fm/music/Ariel+Pink/_/Feels+Like+Heaven)*
 
 # 📀 Top Albums
 
