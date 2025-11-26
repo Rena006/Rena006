@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Oneohtrix Point Never** - *[Bumpy](https://www.last.fm/music/Oneohtrix+Point+Never/_/Bumpy)* (Now Playing)
-- **Oneohtrix Point Never** - *[For Residue](https://www.last.fm/music/Oneohtrix+Point+Never/_/For+Residue)*
-- **Aphex Twin** - *[We Are the Music Makers](https://www.last.fm/music/Aphex+Twin/_/We+Are+the+Music+Makers)*
-- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
-- **Aphex Twin** - *[Green Calx](https://www.last.fm/music/Aphex+Twin/_/Green+Calx)*
-- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
+- **Oneohtrix Point Never** - *[Tranquilizer](https://www.last.fm/music/Oneohtrix+Point+Never/_/Tranquilizer)*
+- **Oneohtrix Point Never** - *[D.I.S.](https://www.last.fm/music/Oneohtrix+Point+Never/_/D.I.S.)*
+- **Oneohtrix Point Never** - *[Bell Scanner](https://www.last.fm/music/Oneohtrix+Point+Never/_/Bell+Scanner)*
+- **Oneohtrix Point Never** - *[Cherry Blue](https://www.last.fm/music/Oneohtrix+Point+Never/_/Cherry+Blue)*
+- **Oneohtrix Point Never** - *[Vestigel](https://www.last.fm/music/Oneohtrix+Point+Never/_/Vestigel)*
 
 # 📀 Top Albums
 
