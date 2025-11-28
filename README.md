@@ -7,7 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-No scrobbles available.
+- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
+- **Tame Impala** - *[Feels Like We Only Go Backwards](https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Oneohtrix Point Never** - *[Storm Show](https://www.last.fm/music/Oneohtrix+Point+Never/_/Storm+Show)*
+- **Oneohtrix Point Never** - *[Tranquilizer](https://www.last.fm/music/Oneohtrix+Point+Never/_/Tranquilizer)*
 
 # 📀 Top Albums
 
