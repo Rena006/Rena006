@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Peggy Gou** - *[Starry Night](https://www.last.fm/music/Peggy+Gou/_/Starry+Night)*
 - **Crystal Castles** - *[Plague](https://www.last.fm/music/Crystal+Castles/_/Plague)*
 - **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
 - **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
-- **Frank Ocean** - *[Novacane](https://www.last.fm/music/Frank+Ocean/_/Novacane)*
-- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 
 # 📀 Top Albums
 
