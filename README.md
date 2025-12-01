@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Oneohtrix Point Never** - *[Storm Show](https://www.last.fm/music/Oneohtrix+Point+Never/_/Storm+Show)*
 - **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 - **Peggy Gou** - *[Starry Night](https://www.last.fm/music/Peggy+Gou/_/Starry+Night)*
 - **Crystal Castles** - *[Plague](https://www.last.fm/music/Crystal+Castles/_/Plague)*
-- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
-- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 
 # 📀 Top Albums
 
