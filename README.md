@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Delphium](https://www.last.fm/music/Aphex+Twin/_/Delphium)* (Now Playing)
+- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA - Live at NPR MUSIC's Tiny Desk](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA+-+Live+at+NPR+MUSIC%27s+Tiny+Desk)*
+- **Oneohtrix Point Never** - *[For Residue](https://www.last.fm/music/Oneohtrix+Point+Never/_/For+Residue)*
+- **Daft Punk** - *[Digital Love](https://www.last.fm/music/Daft+Punk/_/Digital+Love)*
+- **Aphex Twin** - *[Delphium](https://www.last.fm/music/Aphex+Twin/_/Delphium)*
 - **Aphex Twin** - *[Hedphelym](https://www.last.fm/music/Aphex+Twin/_/Hedphelym)*
-- **Aphex Twin** - *[Ptolemy](https://www.last.fm/music/Aphex+Twin/_/Ptolemy)*
-- **Aphex Twin** - *[Schottkey 7th Path](https://www.last.fm/music/Aphex+Twin/_/Schottkey+7th+Path)*
-- **Aphex Twin** - *[We Are the Music Makers](https://www.last.fm/music/Aphex+Twin/_/We+Are+the+Music+Makers)*
-- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
 
 # 📀 Top Albums
 
