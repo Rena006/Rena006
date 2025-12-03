@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA - Live at NPR MUSIC's Tiny Desk](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA+-+Live+at+NPR+MUSIC%27s+Tiny+Desk)*
-- **Oneohtrix Point Never** - *[For Residue](https://www.last.fm/music/Oneohtrix+Point+Never/_/For+Residue)*
-- **Daft Punk** - *[Digital Love](https://www.last.fm/music/Daft+Punk/_/Digital+Love)*
-- **Aphex Twin** - *[Delphium](https://www.last.fm/music/Aphex+Twin/_/Delphium)*
-- **Aphex Twin** - *[Hedphelym](https://www.last.fm/music/Aphex+Twin/_/Hedphelym)*
+- **🎵 Oneohtrix Point Never** - *[Petro](https://www.last.fm/music/Oneohtrix+Point+Never/_/Petro)* (Now Playing)
+- **Oneohtrix Point Never** - *[Storm Show](https://www.last.fm/music/Oneohtrix+Point+Never/_/Storm+Show)*
+- **Oneohtrix Point Never** - *[Tranquilizer](https://www.last.fm/music/Oneohtrix+Point+Never/_/Tranquilizer)*
+- **Oneohtrix Point Never** - *[D.I.S.](https://www.last.fm/music/Oneohtrix+Point+Never/_/D.I.S.)*
+- **Oneohtrix Point Never** - *[Bell Scanner](https://www.last.fm/music/Oneohtrix+Point+Never/_/Bell+Scanner)*
+- **Oneohtrix Point Never** - *[Cherry Blue](https://www.last.fm/music/Oneohtrix+Point+Never/_/Cherry+Blue)*
 
 # 📀 Top Albums
 
