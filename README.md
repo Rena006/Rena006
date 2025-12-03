@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)* (Now Playing)
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
+- **Tyler, The Creator** - *[See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))*
+- **Daft Punk** - *[Digital Love](https://www.last.fm/music/Daft+Punk/_/Digital+Love)*
 - **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
 - **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
-- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
-- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
-- **Oneohtrix Point Never** - *[Storm Show](https://www.last.fm/music/Oneohtrix+Point+Never/_/Storm+Show)*
 
 # 📀 Top Albums
 
