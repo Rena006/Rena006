@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA - Live at NPR MUSIC's Tiny Desk](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA+-+Live+at+NPR+MUSIC%27s+Tiny+Desk)*
-- **Ca7riel & Paco Amoroso** - *[DUMBAI - Official Loop](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/DUMBAI+-+Official+Loop)*
-- **Casiopea** - *[THE LIGHT FROM FUTURE](https://www.last.fm/music/Casiopea/_/THE+LIGHT+FROM+FUTURE)*
-- **Casiopea** - *[SKY SO HIGH](https://www.last.fm/music/Casiopea/_/SKY+SO+HIGH)*
-- **Casiopea** - *[ドミノ・ライン - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%89%E3%83%9F%E3%83%8E%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **The Cure** - *[Inbetween Days](https://www.last.fm/music/The+Cure/_/Inbetween+Days)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 
 # 📀 Top Albums
 
