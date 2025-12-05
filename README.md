@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA - Live at NPR MUSIC's Tiny Desk](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA+-+Live+at+NPR+MUSIC%27s+Tiny+Desk)*
+- **Ca7riel & Paco Amoroso** - *[DUMBAI - Official Loop](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/DUMBAI+-+Official+Loop)*
+- **Casiopea** - *[THE LIGHT FROM FUTURE](https://www.last.fm/music/Casiopea/_/THE+LIGHT+FROM+FUTURE)*
 - **Casiopea** - *[SKY SO HIGH](https://www.last.fm/music/Casiopea/_/SKY+SO+HIGH)*
 - **Casiopea** - *[ドミノ・ライン - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E3%83%89%E3%83%9F%E3%83%8E%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[朝焼け - Live at Chuo Kaikan Hall, Tokyo, Feb. 1982](https://www.last.fm/music/Casiopea/_/%E6%9C%9D%E7%84%BC%E3%81%91+-+Live+at+Chuo+Kaikan+Hall,+Tokyo,+Feb.+1982)*
-- **Casiopea** - *[ファー・アウェイ](https://www.last.fm/music/Casiopea/_/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4)*
-- **Casiopea** - *[スペース・ロード](https://www.last.fm/music/Casiopea/_/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89)*
 
 # 📀 Top Albums
 
