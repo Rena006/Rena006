@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Strokes** - *[Someday](https://www.last.fm/music/The+Strokes/_/Someday)*
-- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
-- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
-- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
-- **The Drums** - *[Money](https://www.last.fm/music/The+Drums/_/Money)*
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
+- **Travis Scott** - *[FE!N (feat. Playboi Carti)](https://www.last.fm/music/Travis+Scott/_/FE!N+(feat.+Playboi+Carti))*
 
 # 📀 Top Albums
 
