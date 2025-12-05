@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
+- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
+- **The Drums** - *[Money](https://www.last.fm/music/The+Drums/_/Money)*
 - **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
-- **The Cure** - *[Inbetween Days](https://www.last.fm/music/The+Cure/_/Inbetween+Days)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 
 # 📀 Top Albums
 
