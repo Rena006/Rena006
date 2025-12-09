@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
-- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
-- **L'Arc~en~Ciel** - *[Blurry Eyes](https://www.last.fm/music/L%27Arc~en~Ciel/_/Blurry+Eyes)*
-- **L'Arc~en~Ciel** - *[Blurry Eyes](https://www.last.fm/music/L%27Arc~en~Ciel/_/Blurry+Eyes)*
-- **Tyler, The Creator** - *[See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))*
+- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **Kanye West** - *[Violent Crimes](https://www.last.fm/music/Kanye+West/_/Violent+Crimes)*
+- **Kanye West** - *[Family Business](https://www.last.fm/music/Kanye+West/_/Family+Business)*
 
 # 📀 Top Albums
 
