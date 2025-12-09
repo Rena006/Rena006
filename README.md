@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
+- **🎵 Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)* (Now Playing)
 - **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Kanye West** - *[Violent Crimes](https://www.last.fm/music/Kanye+West/_/Violent+Crimes)*
-- **Kanye West** - *[Family Business](https://www.last.fm/music/Kanye+West/_/Family+Business)*
+- **Kanye West** - *[Workout Plan](https://www.last.fm/music/Kanye+West/_/Workout+Plan)*
+- **Kanye West** - *[Get Em High](https://www.last.fm/music/Kanye+West/_/Get+Em+High)*
+- **Kanye West** - *[Never Let Me Down](https://www.last.fm/music/Kanye+West/_/Never+Let+Me+Down)*
+- **Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)*
 
 # 📀 Top Albums
 
