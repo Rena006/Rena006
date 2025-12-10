@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)* (Now Playing)
-- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **Kanye West** - *[Workout Plan](https://www.last.fm/music/Kanye+West/_/Workout+Plan)*
-- **Kanye West** - *[Get Em High](https://www.last.fm/music/Kanye+West/_/Get+Em+High)*
-- **Kanye West** - *[Never Let Me Down](https://www.last.fm/music/Kanye+West/_/Never+Let+Me+Down)*
-- **Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)*
+- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
+- **Berlioz** - *[hot slow](https://www.last.fm/music/Berlioz/_/hot+slow)*
+- **Ca7riel & Paco Amoroso** - *[DUMBAI - Live at NPR MUSIC's Tiny Desk](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/DUMBAI+-+Live+at+NPR+MUSIC%27s+Tiny+Desk)*
+- **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
+- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
 
 # 📀 Top Albums
 
