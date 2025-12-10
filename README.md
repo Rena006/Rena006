@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Drums** - *[Money](https://www.last.fm/music/The+Drums/_/Money)* (Now Playing)
+- **The Strokes** - *[Someday](https://www.last.fm/music/The+Strokes/_/Someday)*
+- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
+- **The Drums** - *[Money](https://www.last.fm/music/The+Drums/_/Money)*
 - **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
 - **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Nujabes** - *[Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)](https://www.last.fm/music/Nujabes/_/Blessing+It+-remix+(feat.+Substantial+&+Pase+Rock+from+Five+Deez))*
-- **The Notorious B.I.G.** - *[Hypnotize - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Hypnotize+-+2014+Remaster)*
 
 # 📀 Top Albums
 
