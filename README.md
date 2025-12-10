@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 OutKast** - *[Ms. Jackson](https://www.last.fm/music/OutKast/_/Ms.+Jackson)* (Now Playing)
+- **Dred Scott** - *[Check the Vibe](https://www.last.fm/music/Dred+Scott/_/Check+the+Vibe)*
+- **Nujabes** - *[Luv (Sic)](https://www.last.fm/music/Nujabes/_/Luv+(Sic))*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 - **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
 - **Berlioz** - *[hot slow](https://www.last.fm/music/Berlioz/_/hot+slow)*
-- **Ca7riel & Paco Amoroso** - *[DUMBAI - Live at NPR MUSIC's Tiny Desk](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/DUMBAI+-+Live+at+NPR+MUSIC%27s+Tiny+Desk)*
-- **Peggy Gou** - *[Starry Night - Edit](https://www.last.fm/music/Peggy+Gou/_/Starry+Night+-+Edit)*
-- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
 
 # 📀 Top Albums
 
