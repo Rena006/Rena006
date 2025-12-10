@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 OutKast** - *[Ms. Jackson](https://www.last.fm/music/OutKast/_/Ms.+Jackson)* (Now Playing)
-- **Dred Scott** - *[Check the Vibe](https://www.last.fm/music/Dred+Scott/_/Check+the+Vibe)*
-- **Nujabes** - *[Luv (Sic)](https://www.last.fm/music/Nujabes/_/Luv+(Sic))*
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
-- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
-- **Berlioz** - *[hot slow](https://www.last.fm/music/Berlioz/_/hot+slow)*
+- **🎵 The Drums** - *[Money](https://www.last.fm/music/The+Drums/_/Money)* (Now Playing)
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Nujabes** - *[Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)](https://www.last.fm/music/Nujabes/_/Blessing+It+-remix+(feat.+Substantial+&+Pase+Rock+from+Five+Deez))*
+- **The Notorious B.I.G.** - *[Hypnotize - 2014 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Hypnotize+-+2014+Remaster)*
 
 # 📀 Top Albums
 
