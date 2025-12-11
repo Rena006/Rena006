@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
+- **Himiko Kikuchi** - *[Fluffy](https://www.last.fm/music/Himiko+Kikuchi/_/Fluffy)*
+- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
+- **The Cure** - *[Lovesong](https://www.last.fm/music/The+Cure/_/Lovesong)*
 - **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **Morrissey** - *[First of the Gang to Die](https://www.last.fm/music/Morrissey/_/First+of+the+Gang+to+Die)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 
 # 📀 Top Albums
 
