@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Charli xcx** - *[Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+xcx/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)* (Now Playing)
+- **Griselda** - *[Dr Birds](https://www.last.fm/music/Griselda/_/Dr+Birds)*
+- **DOMi & JD Beck** - *[PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak)](https://www.last.fm/music/DOMi+&+JD+Beck/_/PiLOT+(feat.+Snoop+Dogg,+Busta+Rhymes,+Anderson+.Paak))*
+- **Westside Gunn** - *[The Fly Who Couldn't Fly Straight (feat. Tyler, The Creator)](https://www.last.fm/music/Westside+Gunn/_/The+Fly+Who+Couldn%27t+Fly+Straight+(feat.+Tyler,+The+Creator))*
+- **Charli xcx** - *[Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+xcx/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)*
 - **Joey Valence & Brae** - *[Crank It Up](https://www.last.fm/music/Joey+Valence+&+Brae/_/Crank+It+Up)*
-- **Young Nudy** - *[Mercy With Doubt](https://www.last.fm/music/Young+Nudy/_/Mercy+With+Doubt)*
-- **Emerson Kitamura** - *[Rock Your Baby](https://www.last.fm/music/Emerson+Kitamura/_/Rock+Your+Baby)*
-- **Cocteau Twins** - *[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)*
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 
 # 📀 Top Albums
 
