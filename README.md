@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Mac DeMarco** - *[Chamber of Reflection](https://www.last.fm/music/Mac+DeMarco/_/Chamber+of+Reflection)*
-- **Phoebe Bridgers** - *[Scott Street](https://www.last.fm/music/Phoebe+Bridgers/_/Scott+Street)*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
-- **Kanye West** - *[Touch the Sky](https://www.last.fm/music/Kanye+West/_/Touch+the+Sky)*
+- **🎵 Luis Miguel** - *[Tengo Todo Excepto A Ti](https://www.last.fm/music/Luis+Miguel/_/Tengo+Todo+Excepto+A+Ti)* (Now Playing)
+- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
+- **Frank Ocean** - *[Close to You](https://www.last.fm/music/Frank+Ocean/_/Close+to+You)*
+- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
+- **YUKIKA** - *[NEON](https://www.last.fm/music/YUKIKA/_/NEON)*
+- **Piper** - *[Gentle Shower](https://www.last.fm/music/Piper/_/Gentle+Shower)*
 
 # 📀 Top Albums
 
