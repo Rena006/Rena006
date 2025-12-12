@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Griselda** - *[Dr Birds](https://www.last.fm/music/Griselda/_/Dr+Birds)*
-- **DOMi & JD Beck** - *[PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak)](https://www.last.fm/music/DOMi+&+JD+Beck/_/PiLOT+(feat.+Snoop+Dogg,+Busta+Rhymes,+Anderson+.Paak))*
-- **Westside Gunn** - *[The Fly Who Couldn't Fly Straight (feat. Tyler, The Creator)](https://www.last.fm/music/Westside+Gunn/_/The+Fly+Who+Couldn%27t+Fly+Straight+(feat.+Tyler,+The+Creator))*
-- **Charli xcx** - *[Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+xcx/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)*
-- **Joey Valence & Brae** - *[Crank It Up](https://www.last.fm/music/Joey+Valence+&+Brae/_/Crank+It+Up)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Ca7riel & Paco Amoroso** - *[EL DÍA DEL AMIGO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+D%C3%8DA+DEL+AMIGO)*
+- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
+- **Oasis** - *[Don't Look Back In Anger - Remastered](https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+-+Remastered)*
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
 
 # 📀 Top Albums
 
