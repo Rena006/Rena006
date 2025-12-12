@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Mac DeMarco** - *[Chamber of Reflection](https://www.last.fm/music/Mac+DeMarco/_/Chamber+of+Reflection)* (Now Playing)
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Mac DeMarco** - *[Chamber of Reflection](https://www.last.fm/music/Mac+DeMarco/_/Chamber+of+Reflection)*
 - **Phoebe Bridgers** - *[Scott Street](https://www.last.fm/music/Phoebe+Bridgers/_/Scott+Street)*
 - **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
 - **Kanye West** - *[Touch the Sky](https://www.last.fm/music/Kanye+West/_/Touch+the+Sky)*
-- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
-- **Kanye West** - *[Violent Crimes](https://www.last.fm/music/Kanye+West/_/Violent+Crimes)*
 
 # 📀 Top Albums
 
