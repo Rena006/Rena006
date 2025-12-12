@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
-- **Himiko Kikuchi** - *[Fluffy](https://www.last.fm/music/Himiko+Kikuchi/_/Fluffy)*
-- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
-- **The Cure** - *[Lovesong](https://www.last.fm/music/The+Cure/_/Lovesong)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **🎵 高中正義** - *[TROPIC BIRDS](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/TROPIC+BIRDS)* (Now Playing)
+- **高中正義** - *[伊豆甘夏納豆売り](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E4%BC%8A%E8%B1%86%E7%94%98%E5%A4%8F%E7%B4%8D%E8%B1%86%E5%A3%B2%E3%82%8A)*
+- **高中正義** - *[I Remember You](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/I+Remember+You)*
+- **高中正義** - *[憧れのセーシェル諸島](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E6%86%A7%E3%82%8C%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB%E8%AB%B8%E5%B3%B6)*
+- **高中正義** - *[Sweet Agnes](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Sweet+Agnes)*
+- **高中正義** - *[トーキョーレギー](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AC%E3%82%AE%E3%83%BC)*
 
 # 📀 Top Albums
 
