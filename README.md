@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Luis Miguel** - *[Tengo Todo Excepto A Ti](https://www.last.fm/music/Luis+Miguel/_/Tengo+Todo+Excepto+A+Ti)* (Now Playing)
-- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
-- **Frank Ocean** - *[Close to You](https://www.last.fm/music/Frank+Ocean/_/Close+to+You)*
-- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
-- **YUKIKA** - *[NEON](https://www.last.fm/music/YUKIKA/_/NEON)*
-- **Piper** - *[Gentle Shower](https://www.last.fm/music/Piper/_/Gentle+Shower)*
+- **🎵 Charli xcx** - *[Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+xcx/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)* (Now Playing)
+- **Joey Valence & Brae** - *[Crank It Up](https://www.last.fm/music/Joey+Valence+&+Brae/_/Crank+It+Up)*
+- **Young Nudy** - *[Mercy With Doubt](https://www.last.fm/music/Young+Nudy/_/Mercy+With+Doubt)*
+- **Emerson Kitamura** - *[Rock Your Baby](https://www.last.fm/music/Emerson+Kitamura/_/Rock+Your+Baby)*
+- **Cocteau Twins** - *[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 
 # 📀 Top Albums
 
