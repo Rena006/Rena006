@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
 - **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
-- **Justice** - *[We Are Your Friends - Justice Vs Simian](https://www.last.fm/music/Justice/_/We+Are+Your+Friends+-+Justice+Vs+Simian)*
-- **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
-- **Ca7riel & Paco Amoroso** - *[DUMBAI](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/DUMBAI)*
-- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
 
 # 📀 Top Albums
 
