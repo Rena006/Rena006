@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Ariel Pink** - *[Feels Like Heaven](https://www.last.fm/music/Ariel+Pink/_/Feels+Like+Heaven)*
-- **Gorillaz** - *[Stylo (Feat. Mos Def And Bobby Womack)](https://www.last.fm/music/Gorillaz/_/Stylo+(Feat.+Mos+Def+And+Bobby+Womack))*
-- **Tyler, The Creator** - *[See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
-- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
+- **🎵 Playboi Carti** - *[Sky](https://www.last.fm/music/Playboi+Carti/_/Sky)* (Now Playing)
+- **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
+- **Justice** - *[We Are Your Friends - Justice Vs Simian](https://www.last.fm/music/Justice/_/We+Are+Your+Friends+-+Justice+Vs+Simian)*
+- **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
+- **Ca7riel & Paco Amoroso** - *[DUMBAI](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/DUMBAI)*
+- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
 
 # 📀 Top Albums
 
