@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
 - **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 - **Ca7riel & Paco Amoroso** - *[EL DÍA DEL AMIGO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+D%C3%8DA+DEL+AMIGO)*
-- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
-- **Oasis** - *[Don't Look Back In Anger - Remastered](https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+-+Remastered)*
-- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
 
 # 📀 Top Albums
 
