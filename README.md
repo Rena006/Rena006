@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **🎵 Tyler, The Creator** - *[See You Again (feat. Kali Uchis)](https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis))* (Now Playing)
+- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
 - **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Ca7riel & Paco Amoroso** - *[EL DÍA DEL AMIGO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+D%C3%8DA+DEL+AMIGO)*
+- **Kanye West** - *[Violent Crimes](https://www.last.fm/music/Kanye+West/_/Violent+Crimes)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
 
 # 📀 Top Albums
 
