@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Playboi Carti** - *[Sky](https://www.last.fm/music/Playboi+Carti/_/Sky)* (Now Playing)
 - **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
 - **Justice** - *[We Are Your Friends - Justice Vs Simian](https://www.last.fm/music/Justice/_/We+Are+Your+Friends+-+Justice+Vs+Simian)*
 - **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
