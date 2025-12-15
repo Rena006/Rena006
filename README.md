@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Soko** - *[Sweet Sound of Ignorance](https://www.last.fm/music/Soko/_/Sweet+Sound+of+Ignorance)* (Now Playing)
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **Jerry Paper** - *[Baby](https://www.last.fm/music/Jerry+Paper/_/Baby)*
+- **Soko** - *[Sweet Sound of Ignorance](https://www.last.fm/music/Soko/_/Sweet+Sound+of+Ignorance)*
 - **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
 - **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
 
 # 📀 Top Albums
 
