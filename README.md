@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Family Business](https://www.last.fm/music/Kanye+West/_/Family+Business)*
-- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **Jerry Paper** - *[Baby](https://www.last.fm/music/Jerry+Paper/_/Baby)*
-- **Soko** - *[Sweet Sound of Ignorance](https://www.last.fm/music/Soko/_/Sweet+Sound+of+Ignorance)*
 - **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
+- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
 
 # 📀 Top Albums
 
