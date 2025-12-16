@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
 - **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
 - **Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
+- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
 
 # 📀 Top Albums
 
