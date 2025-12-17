@@ -9,8 +9,8 @@ please call me rena.
 
 - **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
 - **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
+- **Stan Getz** - *[Só Danço Samba - Stereo Version](https://www.last.fm/music/Stan+Getz/_/S%C3%B3+Dan%C3%A7o+Samba+-+Stereo+Version)*
 - **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
-- **Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)*
 - **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
 
 # 📀 Top Albums
