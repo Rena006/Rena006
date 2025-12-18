@@ -7,6 +7,7 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)* (Now Playing)
 - **Los Prisioneros** - *[Por Qué No Se Van](https://www.last.fm/music/Los+Prisioneros/_/Por+Qu%C3%A9+No+Se+Van)*
 - **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
 - **Pariisin Kevät** - *[Kesäyö](https://www.last.fm/music/Pariisin+Kev%C3%A4t/_/Kes%C3%A4y%C3%B6)*
