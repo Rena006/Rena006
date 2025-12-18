@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Los Prisioneros** - *[Por Qué No Se Van](https://www.last.fm/music/Los+Prisioneros/_/Por+Qu%C3%A9+No+Se+Van)*
+- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
+- **Pariisin Kevät** - *[Kesäyö](https://www.last.fm/music/Pariisin+Kev%C3%A4t/_/Kes%C3%A4y%C3%B6)*
+- **Kendrick Lamar** - *[Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)*
 - **Frank Ocean** - *[Lost](https://www.last.fm/music/Frank+Ocean/_/Lost)*
-- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
-- **Kanye West** - *[Violent Crimes](https://www.last.fm/music/Kanye+West/_/Violent+Crimes)*
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
 
 # 📀 Top Albums
 
