@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)* (Now Playing)
-- **Los Prisioneros** - *[Por Qué No Se Van](https://www.last.fm/music/Los+Prisioneros/_/Por+Qu%C3%A9+No+Se+Van)*
-- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
-- **Pariisin Kevät** - *[Kesäyö](https://www.last.fm/music/Pariisin+Kev%C3%A4t/_/Kes%C3%A4y%C3%B6)*
-- **Kendrick Lamar** - *[Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)*
-- **Frank Ocean** - *[Lost](https://www.last.fm/music/Frank+Ocean/_/Lost)*
+- **Blur** - *[Coffee & TV](https://www.last.fm/music/Blur/_/Coffee+&+TV)*
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **João Gilberto** - *[Triste](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Triste)*
 
 # 📀 Top Albums
 
