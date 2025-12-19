@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Virus** - *[Superficies De Placer](https://www.last.fm/music/Virus/_/Superficies+De+Placer)*
+- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
+- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
 - **MGMT** - *[Kids](https://www.last.fm/music/MGMT/_/Kids)*
 - **The Strokes** - *[Someday](https://www.last.fm/music/The+Strokes/_/Someday)*
-- **Oasis** - *[Don't Look Back In Anger - Remastered](https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+-+Remastered)*
-- **Cocteau Twins** - *[Heaven or Las Vegas](https://www.last.fm/music/Cocteau+Twins/_/Heaven+or+Las+Vegas)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 
 # 📀 Top Albums
 
