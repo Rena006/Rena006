@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
+- **The Beach Boys** - *[God Only Knows - Remastered 1996](https://www.last.fm/music/The+Beach+Boys/_/God+Only+Knows+-+Remastered+1996)*
+- **Stan Getz** - *[O Grande Amor](https://www.last.fm/music/Stan+Getz/_/O+Grande+Amor)*
 - **Stan Getz** - *[Só Danço Samba - Stereo Version](https://www.last.fm/music/Stan+Getz/_/S%C3%B3+Dan%C3%A7o+Samba+-+Stereo+Version)*
 - **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
-- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
-- **Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)*
-- **Drugdealer** - *[Pictures of You](https://www.last.fm/music/Drugdealer/_/Pictures+of+You)*
 
 # 📀 Top Albums
 
