@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Drugdealer** - *[Pictures of You](https://www.last.fm/music/Drugdealer/_/Pictures+of+You)* (Now Playing)
+- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
 - **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **Ca7riel & Paco Amoroso** - *[#TETAS](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/%23TETAS)*
-- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
-- **Peggy Gou** - *[Starry Night](https://www.last.fm/music/Peggy+Gou/_/Starry+Night)*
-- **Disclosure** - *[When a Fire Starts to Burn](https://www.last.fm/music/Disclosure/_/When+a+Fire+Starts+to+Burn)*
 
 # 📀 Top Albums
 
