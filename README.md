@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Piper** - *[Gentle Shower](https://www.last.fm/music/Piper/_/Gentle+Shower)* (Now Playing)
-- **Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
-- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
-- **The Beach Boys** - *[God Only Knows - Remastered 1996](https://www.last.fm/music/The+Beach+Boys/_/God+Only+Knows+-+Remastered+1996)*
-- **Stan Getz** - *[O Grande Amor](https://www.last.fm/music/Stan+Getz/_/O+Grande+Amor)*
+- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
+- **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
 
 # 📀 Top Albums
 
