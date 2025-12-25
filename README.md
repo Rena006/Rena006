@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Piper** - *[Gentle Shower](https://www.last.fm/music/Piper/_/Gentle+Shower)* (Now Playing)
+- **Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
 - **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
 - **The Beach Boys** - *[God Only Knows - Remastered 1996](https://www.last.fm/music/The+Beach+Boys/_/God+Only+Knows+-+Remastered+1996)*
 - **Stan Getz** - *[O Grande Amor](https://www.last.fm/music/Stan+Getz/_/O+Grande+Amor)*
-- **Stan Getz** - *[Só Danço Samba - Stereo Version](https://www.last.fm/music/Stan+Getz/_/S%C3%B3+Dan%C3%A7o+Samba+-+Stereo+Version)*
-- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
 
 # 📀 Top Albums
 
