@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Phoebe Bridgers** - *[Scott Street](https://www.last.fm/music/Phoebe+Bridgers/_/Scott+Street)* (Now Playing)
+- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
+- **Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)*
+- **Nujabes** - *[LUV (SIC) pt2](https://www.last.fm/music/Nujabes/_/LUV+(SIC)+pt2)*
 - **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Los Encargados** - *[Trátame Suavemente](https://www.last.fm/music/Los+Encargados/_/Tr%C3%A1tame+Suavemente)*
-- **Virus** - *[Superficies De Placer](https://www.last.fm/music/Virus/_/Superficies+De+Placer)*
-- **Virus** - *[Mirada Speed](https://www.last.fm/music/Virus/_/Mirada+Speed)*
 
 # 📀 Top Albums
 
