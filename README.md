@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
-- **Kanye West** - *[Touch the Sky](https://www.last.fm/music/Kanye+West/_/Touch+the+Sky)*
-- **Drake** - *[Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)*
-- **Kanye West** - *[Runaway](https://www.last.fm/music/Kanye+West/_/Runaway)*
-- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
+- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Los Encargados** - *[Trátame Suavemente](https://www.last.fm/music/Los+Encargados/_/Tr%C3%A1tame+Suavemente)*
+- **Virus** - *[Superficies De Placer](https://www.last.fm/music/Virus/_/Superficies+De+Placer)*
+- **Virus** - *[Mirada Speed](https://www.last.fm/music/Virus/_/Mirada+Speed)*
 
 # 📀 Top Albums
 
