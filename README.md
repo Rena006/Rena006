@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 2Pac** - *[I Get Around](https://www.last.fm/music/2Pac/_/I+Get+Around)* (Now Playing)
+- **Ice Cube** - *[You Know How We Do It](https://www.last.fm/music/Ice+Cube/_/You+Know+How+We+Do+It)*
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
+- **2Pac** - *[All Eyez on Me (ft. Big Syke)](https://www.last.fm/music/2Pac/_/All+Eyez+on+Me+(ft.+Big+Syke))*
 - **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **高中正義** - *[BREEZIN'](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BREEZIN%27)*
-- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
-- **Phoebe Bridgers** - *[Scott Street](https://www.last.fm/music/Phoebe+Bridgers/_/Scott+Street)*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **Maruja** - *[The Tinker](https://www.last.fm/music/Maruja/_/The+Tinker)*
 
 # 📀 Top Albums
 
