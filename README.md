@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Crystal Castles** - *[Plague](https://www.last.fm/music/Crystal+Castles/_/Plague)* (Now Playing)
+- **The Beach Boys** - *[God Only Knows - Remastered 1996](https://www.last.fm/music/The+Beach+Boys/_/God+Only+Knows+-+Remastered+1996)*
+- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
+- **Her's** - *[What Once Was](https://www.last.fm/music/Her%27s/_/What+Once+Was)*
 - **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
 - **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
-- **Ariel Pink** - *[Kitchen Witch](https://www.last.fm/music/Ariel+Pink/_/Kitchen+Witch)*
-- **Kanye West** - *[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)*
 
 # 📀 Top Albums
 
