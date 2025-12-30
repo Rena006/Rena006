@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 2Pac** - *[I Get Around](https://www.last.fm/music/2Pac/_/I+Get+Around)* (Now Playing)
-- **Ice Cube** - *[You Know How We Do It](https://www.last.fm/music/Ice+Cube/_/You+Know+How+We+Do+It)*
-- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
-- **2Pac** - *[All Eyez on Me (ft. Big Syke)](https://www.last.fm/music/2Pac/_/All+Eyez+on+Me+(ft.+Big+Syke))*
-- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **Maruja** - *[The Tinker](https://www.last.fm/music/Maruja/_/The+Tinker)*
+- **Erykah Badu** - *[On & On](https://www.last.fm/music/Erykah+Badu/_/On+&+On)*
+- **Patrice Rushen** - *[Forget Me Nots - Remastered](https://www.last.fm/music/Patrice+Rushen/_/Forget+Me+Nots+-+Remastered)*
+- **Dr. Dre** - *[Nuthin' But a "G" Thang](https://www.last.fm/music/Dr.+Dre/_/Nuthin%27+But+a+%22G%22+Thang)*
+- **Kanye West** - *[Touch the Sky](https://www.last.fm/music/Kanye+West/_/Touch+the+Sky)*
+- **Ice Cube** - *[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)*
 
 # 📀 Top Albums
 
