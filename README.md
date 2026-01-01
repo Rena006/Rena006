@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
+- **Kanye West** - *[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
 - **Crystal Castles** - *[Plague](https://www.last.fm/music/Crystal+Castles/_/Plague)*
-- **The Beach Boys** - *[God Only Knows - Remastered 1996](https://www.last.fm/music/The+Beach+Boys/_/God+Only+Knows+-+Remastered+1996)*
-- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
-- **Her's** - *[What Once Was](https://www.last.fm/music/Her%27s/_/What+Once+Was)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
 
 # 📀 Top Albums
 
