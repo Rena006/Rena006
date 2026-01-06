@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Gorillaz** - *[Rhinestone Eyes](https://www.last.fm/music/Gorillaz/_/Rhinestone+Eyes)* (Now Playing)
+- **Pulp** - *[Disco 2000](https://www.last.fm/music/Pulp/_/Disco+2000)*
 - **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
 - **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 - **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
 - **Gorillaz** - *[Rhinestone Eyes](https://www.last.fm/music/Gorillaz/_/Rhinestone+Eyes)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
 
 # 📀 Top Albums
 
