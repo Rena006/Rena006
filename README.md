@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
 - **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 - **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
 - **Gorillaz** - *[Rhinestone Eyes](https://www.last.fm/music/Gorillaz/_/Rhinestone+Eyes)*
 - **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 
 # 📀 Top Albums
 
