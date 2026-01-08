@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
+- **Kanye West** - *[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
 - **The Strokes** - *[Last Nite](https://www.last.fm/music/The+Strokes/_/Last+Nite)*
-- **Oasis** - *[Don't Look Back In Anger - Remastered](https://www.last.fm/music/Oasis/_/Don%27t+Look+Back+In+Anger+-+Remastered)*
-- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
+- **The Strokes** - *[Last Nite](https://www.last.fm/music/The+Strokes/_/Last+Nite)*
 
 # 📀 Top Albums
 
