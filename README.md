@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Miles Davis** - *[Générique - Bande originale du film "Ascenseur pour l'échafaud"](https://www.last.fm/music/Miles+Davis/_/G%C3%A9n%C3%A9rique+-+Bande+originale+du+film+%22Ascenseur+pour+l%27%C3%A9chafaud%22)*
-- **Casiopea** - *[ファー・アウェイ](https://www.last.fm/music/Casiopea/_/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4)*
-- **Oneohtrix Point Never** - *[Lifeworld](https://www.last.fm/music/Oneohtrix+Point+Never/_/Lifeworld)*
-- **Oneohtrix Point Never** - *[Bumpy](https://www.last.fm/music/Oneohtrix+Point+Never/_/Bumpy)*
-- **Oneohtrix Point Never** - *[For Residue](https://www.last.fm/music/Oneohtrix+Point+Never/_/For+Residue)*
+- **🎵 高中正義** - *[Oh! Tengo Suerte](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Oh!+Tengo+Suerte)* (Now Playing)
+- **Cortex** - *[Huit octobre 1971](https://www.last.fm/music/Cortex/_/Huit+octobre+1971)*
+- **The Dave Brubeck Quartet** - *[Take Five](https://www.last.fm/music/The+Dave+Brubeck+Quartet/_/Take+Five)*
+- **Roy Ayers Ubiquity** - *[Everybody Loves The Sunshine](https://www.last.fm/music/Roy+Ayers+Ubiquity/_/Everybody+Loves+The+Sunshine)*
+- **Astrud Gilberto** - *[Água de Beber](https://www.last.fm/music/Astrud+Gilberto/_/%C3%81gua+de+Beber)*
+- **高中正義** - *[Star Wars Samba](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Star+Wars+Samba)*
 
 # 📀 Top Albums
 
