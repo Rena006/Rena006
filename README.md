@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Miles Davis** - *[Générique - Bande originale du film "Ascenseur pour l'échafaud"](https://www.last.fm/music/Miles+Davis/_/G%C3%A9n%C3%A9rique+-+Bande+originale+du+film+%22Ascenseur+pour+l%27%C3%A9chafaud%22)*
+- **Casiopea** - *[ファー・アウェイ](https://www.last.fm/music/Casiopea/_/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4)*
+- **Oneohtrix Point Never** - *[Lifeworld](https://www.last.fm/music/Oneohtrix+Point+Never/_/Lifeworld)*
 - **Oneohtrix Point Never** - *[Bumpy](https://www.last.fm/music/Oneohtrix+Point+Never/_/Bumpy)*
 - **Oneohtrix Point Never** - *[For Residue](https://www.last.fm/music/Oneohtrix+Point+Never/_/For+Residue)*
-- **Stan Getz** - *[The Girl From Ipanema](https://www.last.fm/music/Stan+Getz/_/The+Girl+From+Ipanema)*
-- **Kanye West** - *[Champion](https://www.last.fm/music/Kanye+West/_/Champion)*
-- **Kanye West** - *[Violent Crimes](https://www.last.fm/music/Kanye+West/_/Violent+Crimes)*
 
 # 📀 Top Albums
 
