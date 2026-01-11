@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)* (Now Playing)
+- **Death Grips** - *[Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)*
+- **Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)*
 - **Crystal Castles** - *[Baptism](https://www.last.fm/music/Crystal+Castles/_/Baptism)*
 - **Teleradio Donoso** - *[Bailar y Llorar](https://www.last.fm/music/Teleradio+Donoso/_/Bailar+y+Llorar)*
 - **Fother Muckers** - *[Aunque Todo Salió Mal](https://www.last.fm/music/Fother+Muckers/_/Aunque+Todo+Sali%C3%B3+Mal)*
-- **Pedropiedra** - *[Vacaciones en el más allá](https://www.last.fm/music/Pedropiedra/_/Vacaciones+en+el+m%C3%A1s+all%C3%A1)*
-- **Teleradio Donoso** - *[Amar en el campo](https://www.last.fm/music/Teleradio+Donoso/_/Amar+en+el+campo)*
 
 # 📀 Top Albums
 
