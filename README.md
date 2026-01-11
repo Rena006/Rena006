@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 高中正義** - *[Oh! Tengo Suerte](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Oh!+Tengo+Suerte)* (Now Playing)
-- **Cortex** - *[Huit octobre 1971](https://www.last.fm/music/Cortex/_/Huit+octobre+1971)*
-- **The Dave Brubeck Quartet** - *[Take Five](https://www.last.fm/music/The+Dave+Brubeck+Quartet/_/Take+Five)*
-- **Roy Ayers Ubiquity** - *[Everybody Loves The Sunshine](https://www.last.fm/music/Roy+Ayers+Ubiquity/_/Everybody+Loves+The+Sunshine)*
-- **Astrud Gilberto** - *[Água de Beber](https://www.last.fm/music/Astrud+Gilberto/_/%C3%81gua+de+Beber)*
-- **高中正義** - *[Star Wars Samba](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Star+Wars+Samba)*
+- **🎵 Pink Floyd** - *[Shine On You Crazy Diamond (Pts. 1-5)](https://www.last.fm/music/Pink+Floyd/_/Shine+On+You+Crazy+Diamond+(Pts.+1-5))* (Now Playing)
+- **Blood Incantation** - *[The Stargate [Tablet I]](https://www.last.fm/music/Blood+Incantation/_/The+Stargate+%5BTablet+I%5D)*
+- **The xx** - *[VCR](https://www.last.fm/music/The+xx/_/VCR)*
+- **The xx** - *[Intro](https://www.last.fm/music/The+xx/_/Intro)*
+- **Queens of the Stone Age** - *[Make It Wit Chu](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Make+It+Wit+Chu)*
+- **Queens of the Stone Age** - *[Go With the Flow](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Go+With+the+Flow)*
 
 # 📀 Top Albums
 
