@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Daft Punk** - *[Voyager](https://www.last.fm/music/Daft+Punk/_/Voyager)*
-- **Rina Sawayama** - *[Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))*
-- **Gorillaz** - *[Superfast Jellyfish](https://www.last.fm/music/Gorillaz/_/Superfast+Jellyfish)*
-- **Crystal Castles** - *[Year of Silence](https://www.last.fm/music/Crystal+Castles/_/Year+of+Silence)*
-- **Death Grips** - *[Hacker](https://www.last.fm/music/Death+Grips/_/Hacker)*
+- **The Strokes** - *[Last Nite](https://www.last.fm/music/The+Strokes/_/Last+Nite)*
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
+- **The Cure** - *[Lovesong](https://www.last.fm/music/The+Cure/_/Lovesong)*
+- **Metronomy** - *[The Look](https://www.last.fm/music/Metronomy/_/The+Look)*
+- **Two Door Cinema Club** - *[Undercover Martyn](https://www.last.fm/music/Two+Door+Cinema+Club/_/Undercover+Martyn)*
 
 # 📀 Top Albums
 
