@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
-- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
-- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
-- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
+- **Playahitty** - *[The Summer Is Magic - Radio Mix](https://www.last.fm/music/Playahitty/_/The+Summer+Is+Magic+-+Radio+Mix)*
+- **Real McCoy** - *[Run Away](https://www.last.fm/music/Real+McCoy/_/Run+Away)*
+- **Ann Lee** - *[2 Times - Original](https://www.last.fm/music/Ann+Lee/_/2+Times+-+Original)*
+- **Paradisio** - *[Bailando - Video Edit](https://www.last.fm/music/Paradisio/_/Bailando+-+Video+Edit)*
+- **Culture Beat** - *[Mr. Vain - Original Radio Edit](https://www.last.fm/music/Culture+Beat/_/Mr.+Vain+-+Original+Radio+Edit)*
 
 # 📀 Top Albums
 
