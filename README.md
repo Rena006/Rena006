@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **C+C Music Factory** - *[Gonna Make you Sweat (Everybody Dance Now) (feat. Freedom Williams)](https://www.last.fm/music/C%252BC+Music+Factory/_/Gonna+Make+you+Sweat+(Everybody+Dance+Now)+(feat.+Freedom+Williams))*
 - **Playahitty** - *[The Summer Is Magic - Radio Mix](https://www.last.fm/music/Playahitty/_/The+Summer+Is+Magic+-+Radio+Mix)*
-- **Real McCoy** - *[Run Away](https://www.last.fm/music/Real+McCoy/_/Run+Away)*
-- **Ann Lee** - *[2 Times - Original](https://www.last.fm/music/Ann+Lee/_/2+Times+-+Original)*
-- **Paradisio** - *[Bailando - Video Edit](https://www.last.fm/music/Paradisio/_/Bailando+-+Video+Edit)*
-- **Culture Beat** - *[Mr. Vain - Original Radio Edit](https://www.last.fm/music/Culture+Beat/_/Mr.+Vain+-+Original+Radio+Edit)*
 
 # 📀 Top Albums
 
