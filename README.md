@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)* (Now Playing)
+- **Tame Impala** - *[Glimmer](https://www.last.fm/music/Tame+Impala/_/Glimmer)*
 - **Patrice Rushen** - *[Forget Me Nots - Remastered](https://www.last.fm/music/Patrice+Rushen/_/Forget+Me+Nots+-+Remastered)*
 - **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
 - **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
 - **Justice** - *[D.A.N.C.E.](https://www.last.fm/music/Justice/_/D.A.N.C.E.)*
-- **Charli xcx** - *[Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+xcx/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)*
 
 # 📀 Top Albums
 
