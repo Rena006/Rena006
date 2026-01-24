@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **高中正義** - *[憧れのセーシェル諸島](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E6%86%A7%E3%82%8C%E3%81%AE%E3%82%BB%E3%83%BC%E3%82%B7%E3%82%A7%E3%83%AB%E8%AB%B8%E5%B3%B6)*
+- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
 - **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
 - **高中正義** - *[Oh! Tengo Suerte](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Oh!+Tengo+Suerte)*
 - **高中正義** - *[トーキョーレギー](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AC%E3%82%AE%E3%83%BC)*
-- **Agustin Pereyra Lucena** - *[Despues De Las Seis](https://www.last.fm/music/Agustin+Pereyra+Lucena/_/Despues+De+Las+Seis)*
-- **João Gilberto** - *[Wave](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Wave)*
 
 # 📀 Top Albums
 
