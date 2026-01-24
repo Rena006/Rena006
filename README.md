@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
-- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Grouplove** - *[Tongue Tied](https://www.last.fm/music/Grouplove/_/Tongue+Tied)*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **🎵 Gerry Mulligan Sextet** - *[Prelude In E Minor](https://www.last.fm/music/Gerry+Mulligan+Sextet/_/Prelude+In+E+Minor)* (Now Playing)
+- **Agustin Pereyra Lucena** - *[Despues De Las Seis](https://www.last.fm/music/Agustin+Pereyra+Lucena/_/Despues+De+Las+Seis)*
+- **João Gilberto** - *[Wave](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Wave)*
+- **Jean Bonal** - *[Flor do Brazil](https://www.last.fm/music/Jean+Bonal/_/Flor+do+Brazil)*
+- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
+- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
 
 # 📀 Top Albums
 
