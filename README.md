@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Gerry Mulligan Sextet** - *[Prelude In E Minor](https://www.last.fm/music/Gerry+Mulligan+Sextet/_/Prelude+In+E+Minor)* (Now Playing)
+- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
+- **高中正義** - *[Oh! Tengo Suerte](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Oh!+Tengo+Suerte)*
+- **高中正義** - *[トーキョーレギー](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AC%E3%82%AE%E3%83%BC)*
 - **Agustin Pereyra Lucena** - *[Despues De Las Seis](https://www.last.fm/music/Agustin+Pereyra+Lucena/_/Despues+De+Las+Seis)*
 - **João Gilberto** - *[Wave](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Wave)*
-- **Jean Bonal** - *[Flor do Brazil](https://www.last.fm/music/Jean+Bonal/_/Flor+do+Brazil)*
-- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
-- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
 
 # 📀 Top Albums
 
