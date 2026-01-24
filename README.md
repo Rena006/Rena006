@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
 - **Grouplove** - *[Tongue Tied](https://www.last.fm/music/Grouplove/_/Tongue+Tied)*
 - **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
-- **Charli xcx** - *[Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+xcx/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)*
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **Justice** - *[D.A.N.C.E.](https://www.last.fm/music/Justice/_/D.A.N.C.E.)*
 
 # 📀 Top Albums
 
