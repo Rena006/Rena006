@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Nujabes** - *[Aruarian Dance](https://www.last.fm/music/Nujabes/_/Aruarian+Dance)* (Now Playing)
+- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
+- **Ca7riel & Paco Amoroso** - *[EL ÚNICO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+%C3%9ANICO)*
 - **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
 - **A$AP Rocky** - *[STAY HERE 4 LIFE (feat. Brent Faiyaz)](https://www.last.fm/music/A$AP+Rocky/_/STAY+HERE+4+LIFE+(feat.+Brent+Faiyaz))*
 - **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
-- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
-- **Soda Stereo** - *[Trátame Suavemente - Remasterizado 2007](https://www.last.fm/music/Soda+Stereo/_/Tr%C3%A1tame+Suavemente+-+Remasterizado+2007)*
 
 # 📀 Top Albums
 
