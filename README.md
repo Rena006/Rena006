@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Pedropiedra** - *[Vacaciones en el más allá](https://www.last.fm/music/Pedropiedra/_/Vacaciones+en+el+m%C3%A1s+all%C3%A1)* (Now Playing)
-- **Gorillaz** - *[Some Kind of Nature](https://www.last.fm/music/Gorillaz/_/Some+Kind+of+Nature)*
-- **Death Grips** - *[I've Seen Footage](https://www.last.fm/music/Death+Grips/_/I%27ve+Seen+Footage)*
-- **Nujabes** - *[Luv (Sic)](https://www.last.fm/music/Nujabes/_/Luv+(Sic))*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
-- **Crystal Castles** - *[Baptism](https://www.last.fm/music/Crystal+Castles/_/Baptism)*
+- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
+- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Soda Stereo** - *[Trátame Suavemente - Remasterizado 2007](https://www.last.fm/music/Soda+Stereo/_/Tr%C3%A1tame+Suavemente+-+Remasterizado+2007)*
+- **Virus** - *[Mirada Speed](https://www.last.fm/music/Virus/_/Mirada+Speed)*
+- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
 
 # 📀 Top Albums
 
