@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Nujabes** - *[Aruarian Dance](https://www.last.fm/music/Nujabes/_/Aruarian+Dance)* (Now Playing)
 - **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
 - **Ca7riel & Paco Amoroso** - *[EL ÚNICO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+%C3%9ANICO)*
 - **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
