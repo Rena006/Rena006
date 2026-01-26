@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Queens of the Stone Age** - *[Make It Wit Chu](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Make+It+Wit+Chu)* (Now Playing)
 - **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
 - **Gorillaz** - *[Empire Ants](https://www.last.fm/music/Gorillaz/_/Empire+Ants)*
 - **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
