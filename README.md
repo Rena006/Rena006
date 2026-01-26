@@ -7,12 +7,13 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Patrice Rushen** - *[Forget Me Nots - Remastered](https://www.last.fm/music/Patrice+Rushen/_/Forget+Me+Nots+-+Remastered)*
-- **Ca7riel & Paco Amoroso** - *[DUMBAI](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/DUMBAI)*
-- **Nujabes** - *[Aruarian Dance](https://www.last.fm/music/Nujabes/_/Aruarian+Dance)*
-- **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
-- **Ca7riel & Paco Amoroso** - *[EL ÚNICO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+%C3%9ANICO)*
+- **🎵 Queens of the Stone Age** - *[Make It Wit Chu](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Make+It+Wit+Chu)* (Now Playing)
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **Gorillaz** - *[Empire Ants](https://www.last.fm/music/Gorillaz/_/Empire+Ants)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
+- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
 
 # 📀 Top Albums
 
-<a href='https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/36307d33d9e5025c8f4564748e17a5f8.jpg' alt='Selected Ambient Works 85-92' title='Aphex Twin - Selected Ambient Works 85-92' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/The+Strokes/The+New+Abnormal'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png' alt='The New Abnormal' title='The Strokes - The New Abnormal' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Fontaines+D.C./Romance'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/4f4ae1fdc6b81d93c41c0054d596ccf0.png' alt='Romance' title='Fontaines D.C. - Romance' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Stan+Getz/Getz%2FGilberto+(Expanded+Edition)'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/32ea5ad4305c6720567c583b5a0bbcee.png' alt='Getz/Gilberto (Expanded Edition)' title='Stan Getz - Getz/Gilberto (Expanded Edition)' width='100' style='margin-right: 10px;'></a>
+<a href='https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/36307d33d9e5025c8f4564748e17a5f8.jpg' alt='Selected Ambient Works 85-92' title='Aphex Twin - Selected Ambient Works 85-92' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/The+Strokes/The+New+Abnormal'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png' alt='The New Abnormal' title='The Strokes - The New Abnormal' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Fontaines+D.C./Romance'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/4f4ae1fdc6b81d93c41c0054d596ccf0.png' alt='Romance' title='Fontaines D.C. - Romance' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Stan+Getz/Getz%2FGilberto+(Expanded+Edition)'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/32ea5ad4305c6720567c583b5a0bbcee.png' alt='Getz/Gilberto (Expanded Edition)' title='Stan Getz - Getz/Gilberto (Expanded Edition)' width='100' style='margin-right: 10px;'></a>
