@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Patrice Rushen** - *[Forget Me Nots - Remastered](https://www.last.fm/music/Patrice+Rushen/_/Forget+Me+Nots+-+Remastered)*
+- **Ca7riel & Paco Amoroso** - *[DUMBAI](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/DUMBAI)*
+- **Nujabes** - *[Aruarian Dance](https://www.last.fm/music/Nujabes/_/Aruarian+Dance)*
 - **Kendrick Lamar** - *[PRIDE.](https://www.last.fm/music/Kendrick+Lamar/_/PRIDE.)*
 - **Ca7riel & Paco Amoroso** - *[EL ÚNICO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+%C3%9ANICO)*
-- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
-- **A$AP Rocky** - *[STAY HERE 4 LIFE (feat. Brent Faiyaz)](https://www.last.fm/music/A$AP+Rocky/_/STAY+HERE+4+LIFE+(feat.+Brent+Faiyaz))*
-- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
 
 # 📀 Top Albums
 
