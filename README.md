@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kendrick Lamar** - *[BLOOD.](https://www.last.fm/music/Kendrick+Lamar/_/BLOOD.)*
-- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
-- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **Pink Floyd** - *[Have a Cigar](https://www.last.fm/music/Pink+Floyd/_/Have+a+Cigar)*
+- **Dr. Dre** - *[Nuthin' But a "G" Thang](https://www.last.fm/music/Dr.+Dre/_/Nuthin%27+But+a+%22G%22+Thang)*
+- **Kanye West** - *[Champion](https://www.last.fm/music/Kanye+West/_/Champion)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
 
 # 📀 Top Albums
 
