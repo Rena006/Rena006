@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)* (Now Playing)
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 - **Mac DeMarco** - *[Still Beating](https://www.last.fm/music/Mac+DeMarco/_/Still+Beating)*
 - **The Strokes** - *[Call It Fate, Call It Karma](https://www.last.fm/music/The+Strokes/_/Call+It+Fate,+Call+It+Karma)*
 - **Mac DeMarco** - *[Heart to Heart](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart)*
-- **Steve Lacy** - *[Some](https://www.last.fm/music/Steve+Lacy/_/Some)*
-- **Mac DeMarco** - *[My Kind of Woman](https://www.last.fm/music/Mac+DeMarco/_/My+Kind+of+Woman)*
 
 # 📀 Top Albums
 
