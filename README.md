@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Los Tres** - *[He Barrido el Sol](https://www.last.fm/music/Los+Tres/_/He+Barrido+el+Sol)*
-- **Soda Stereo** - *[Trátame Suavemente - Remasterizado 2007](https://www.last.fm/music/Soda+Stereo/_/Tr%C3%A1tame+Suavemente+-+Remasterizado+2007)*
-- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **🎵 Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)* (Now Playing)
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **Mac DeMarco** - *[Chamber of Reflection](https://www.last.fm/music/Mac+DeMarco/_/Chamber+of+Reflection)*
+- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
+- **Kate Bush** - *[Running Up That Hill (A Deal with God)](https://www.last.fm/music/Kate+Bush/_/Running+Up+That+Hill+(A+Deal+with+God))*
 
 # 📀 Top Albums
 
