@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Floating Points** - *[Anasickmodular](https://www.last.fm/music/Floating+Points/_/Anasickmodular)* (Now Playing)
-- **Youandewan** - *[Be Good To Me Poly](https://www.last.fm/music/Youandewan/_/Be+Good+To+Me+Poly)*
-- **Harold Budd** - *[A Stream With Bright Fish - 2005 Digital Remaster](https://www.last.fm/music/Harold+Budd/_/A+Stream+With+Bright+Fish+-+2005+Digital+Remaster)*
-- **Susumu Yokota** - *[Blue Sky and Yellow Sunflower](https://www.last.fm/music/Susumu+Yokota/_/Blue+Sky+and+Yellow+Sunflower)*
-- **Aphex Twin** - *[Analogue Bubblebath](https://www.last.fm/music/Aphex+Twin/_/Analogue+Bubblebath)*
-- **Aphex Twin** - *[Actium](https://www.last.fm/music/Aphex+Twin/_/Actium)*
+- **Mac DeMarco** - *[Still Beating](https://www.last.fm/music/Mac+DeMarco/_/Still+Beating)*
+- **The Strokes** - *[Call It Fate, Call It Karma](https://www.last.fm/music/The+Strokes/_/Call+It+Fate,+Call+It+Karma)*
+- **Mac DeMarco** - *[Heart to Heart](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart)*
+- **Steve Lacy** - *[Some](https://www.last.fm/music/Steve+Lacy/_/Some)*
+- **Mac DeMarco** - *[My Kind of Woman](https://www.last.fm/music/Mac+DeMarco/_/My+Kind+of+Woman)*
 
 # 📀 Top Albums
 
