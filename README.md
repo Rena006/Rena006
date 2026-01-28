@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **Dr. Dre** - *[Nuthin' But a "G" Thang](https://www.last.fm/music/Dr.+Dre/_/Nuthin%27+But+a+%22G%22+Thang)*
-- **Kanye West** - *[Champion](https://www.last.fm/music/Kanye+West/_/Champion)*
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **🎵 Floating Points** - *[Anasickmodular](https://www.last.fm/music/Floating+Points/_/Anasickmodular)* (Now Playing)
+- **Youandewan** - *[Be Good To Me Poly](https://www.last.fm/music/Youandewan/_/Be+Good+To+Me+Poly)*
+- **Harold Budd** - *[A Stream With Bright Fish - 2005 Digital Remaster](https://www.last.fm/music/Harold+Budd/_/A+Stream+With+Bright+Fish+-+2005+Digital+Remaster)*
+- **Susumu Yokota** - *[Blue Sky and Yellow Sunflower](https://www.last.fm/music/Susumu+Yokota/_/Blue+Sky+and+Yellow+Sunflower)*
+- **Aphex Twin** - *[Analogue Bubblebath](https://www.last.fm/music/Aphex+Twin/_/Analogue+Bubblebath)*
+- **Aphex Twin** - *[Actium](https://www.last.fm/music/Aphex+Twin/_/Actium)*
 
 # 📀 Top Albums
 
