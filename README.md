@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
-- **高中正義** - *[Oh! Tengo Suerte](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Oh!+Tengo+Suerte)*
-- **高中正義** - *[トーキョーレギー](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E3%83%88%E3%83%BC%E3%82%AD%E3%83%A7%E3%83%BC%E3%83%AC%E3%82%AE%E3%83%BC)*
-- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
-- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
+- **The Strokes** - *[Tap Out](https://www.last.fm/music/The+Strokes/_/Tap+Out)*
+- **Beach House** - *[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)*
+- **Elliott Smith** - *[Say Yes](https://www.last.fm/music/Elliott+Smith/_/Say+Yes)*
+- **MGMT** - *[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)*
+- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
 
 # 📀 Top Albums
 
