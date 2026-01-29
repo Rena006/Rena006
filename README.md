@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
-- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
+- **🎵 高中正義** - *[SOON](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/SOON)* (Now Playing)
+- **高中正義** - *[THE MOON ROSE](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/THE+MOON+ROSE)*
+- **高中正義** - *[The Sunset Valley](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/The+Sunset+Valley)*
+- **高中正義** - *[Seven Goblins](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Seven+Goblins)*
+- **高中正義** - *[Once Upon A Song](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Once+Upon+A+Song)*
+- **高中正義** - *[Prologue](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Prologue)*
 
 # 📀 Top Albums
 
