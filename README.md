@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Strokes** - *[Tap Out](https://www.last.fm/music/The+Strokes/_/Tap+Out)*
-- **Beach House** - *[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)*
-- **Elliott Smith** - *[Say Yes](https://www.last.fm/music/Elliott+Smith/_/Say+Yes)*
-- **MGMT** - *[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)*
-- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
+- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
 
 # 📀 Top Albums
 
