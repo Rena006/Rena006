@@ -7,7 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-No scrobbles available.
+- **高中正義** - *[Plumed Bird](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Plumed+Bird)*
+- **高中正義** - *[Rainbow Was Reborn](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Rainbow+Was+Reborn)*
+- **高中正義** - *[JUST CHUCKLE](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/JUST+CHUCKLE)*
+- **高中正義** - *[Rising Arch](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Rising+Arch)*
+- **高中正義** - *[Thunder Storm](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Thunder+Storm)*
 
 # 📀 Top Albums
 
