@@ -7,7 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-No scrobbles available.
+- **Cro-Magnon** - *[return to the journey](https://www.last.fm/music/Cro-Magnon/_/return+to+the+journey)*
+- **高中正義** - *[蜃気楼の島へ](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E8%9C%83%E6%B0%97%E6%A5%BC%E3%81%AE%E5%B3%B6%E3%81%B8)*
+- **Ryo Fukui** - *[I Want To Talk About You](https://www.last.fm/music/Ryo+Fukui/_/I+Want+To+Talk+About+You)*
+- **Makoto Matsushita** - *[Love Was Really Gone - 2018 Remaster](https://www.last.fm/music/Makoto+Matsushita/_/Love+Was+Really+Gone+-+2018+Remaster)*
+- **Laurindo Almeida** - *[My Reverie](https://www.last.fm/music/Laurindo+Almeida/_/My+Reverie)*
 
 # 📀 Top Albums
 
