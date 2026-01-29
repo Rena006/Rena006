@@ -7,12 +7,7 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 高中正義** - *[SOON](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/SOON)* (Now Playing)
-- **高中正義** - *[THE MOON ROSE](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/THE+MOON+ROSE)*
-- **高中正義** - *[The Sunset Valley](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/The+Sunset+Valley)*
-- **高中正義** - *[Seven Goblins](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Seven+Goblins)*
-- **高中正義** - *[Once Upon A Song](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Once+Upon+A+Song)*
-- **高中正義** - *[Prologue](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Prologue)*
+No scrobbles available.
 
 # 📀 Top Albums
 
