@@ -7,13 +7,13 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[Violent Crimes](https://www.last.fm/music/Kanye+West/_/Violent+Crimes)* (Now Playing)
-- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
-- **Ice Cube** - *[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)*
-- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
-- **Kanye West** - *[Bound 2](https://www.last.fm/music/Kanye+West/_/Bound+2)*
-- **Playboi Carti** - *[Location](https://www.last.fm/music/Playboi+Carti/_/Location)*
+- **🎵 MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)* (Now Playing)
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **Kanye West** - *[All Falls Down](https://www.last.fm/music/Kanye+West/_/All+Falls+Down)*
+- **Trippie Redd** - *[Miss The Rage](https://www.last.fm/music/Trippie+Redd/_/Miss+The+Rage)*
+- **Travis Scott** - *[SKELETONS](https://www.last.fm/music/Travis+Scott/_/SKELETONS)*
+- **Kanye West** - *[Everything I Am](https://www.last.fm/music/Kanye+West/_/Everything+I+Am)*
 
 # 📀 Top Albums
 
-<a href='https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/36307d33d9e5025c8f4564748e17a5f8.jpg' alt='Selected Ambient Works 85-92' title='Aphex Twin - Selected Ambient Works 85-92' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/The+Strokes/The+New+Abnormal'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png' alt='The New Abnormal' title='The Strokes - The New Abnormal' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Stan+Getz/Getz%2FGilberto+(Expanded+Edition)'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/32ea5ad4305c6720567c583b5a0bbcee.png' alt='Getz/Gilberto (Expanded Edition)' title='Stan Getz - Getz/Gilberto (Expanded Edition)' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Kanye+West/Graduation'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/8ddd1959a2bef460a5149b3e0cf5e18a.png' alt='Graduation' title='Kanye West - Graduation' width='100' style='margin-right: 10px;'></a>
+<a href='https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/36307d33d9e5025c8f4564748e17a5f8.jpg' alt='Selected Ambient Works 85-92' title='Aphex Twin - Selected Ambient Works 85-92' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/The+Strokes/The+New+Abnormal'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png' alt='The New Abnormal' title='The Strokes - The New Abnormal' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Kanye+West/Graduation'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/8ddd1959a2bef460a5149b3e0cf5e18a.png' alt='Graduation' title='Kanye West - Graduation' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Stan+Getz/Getz%2FGilberto+(Expanded+Edition)'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/32ea5ad4305c6720567c583b5a0bbcee.png' alt='Getz/Gilberto (Expanded Edition)' title='Stan Getz - Getz/Gilberto (Expanded Edition)' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a>
