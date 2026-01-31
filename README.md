@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)* (Now Playing)
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Kanye West** - *[All Falls Down](https://www.last.fm/music/Kanye+West/_/All+Falls+Down)*
-- **Trippie Redd** - *[Miss The Rage](https://www.last.fm/music/Trippie+Redd/_/Miss+The+Rage)*
-- **Travis Scott** - *[SKELETONS](https://www.last.fm/music/Travis+Scott/_/SKELETONS)*
-- **Kanye West** - *[Everything I Am](https://www.last.fm/music/Kanye+West/_/Everything+I+Am)*
+- **Radiohead** - *[Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)*
+- **The Cure** - *[Lovesong](https://www.last.fm/music/The+Cure/_/Lovesong)*
+- **Beach House** - *[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)*
+- **The Strokes** - *[Call It Fate, Call It Karma](https://www.last.fm/music/The+Strokes/_/Call+It+Fate,+Call+It+Karma)*
+- **Elliott Smith** - *[Ballad of Big Nothing](https://www.last.fm/music/Elliott+Smith/_/Ballad+of+Big+Nothing)*
 
 # 📀 Top Albums
 
