@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
-- **OutKast** - *[Ms. Jackson](https://www.last.fm/music/OutKast/_/Ms.+Jackson)*
-- **Kanye West** - *[Champion](https://www.last.fm/music/Kanye+West/_/Champion)*
-- **Dr. Dre** - *[Nuthin' But a "G" Thang](https://www.last.fm/music/Dr.+Dre/_/Nuthin%27+But+a+%22G%22+Thang)*
-- **Kanye West** - *[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)*
+- **🎵 Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)* (Now Playing)
+- **Kanye West** - *[No Mistakes](https://www.last.fm/music/Kanye+West/_/No+Mistakes)*
+- **Kanye West** - *[Wouldn't Leave](https://www.last.fm/music/Kanye+West/_/Wouldn%27t+Leave)*
+- **Kanye West** - *[All Mine](https://www.last.fm/music/Kanye+West/_/All+Mine)*
+- **Kanye West** - *[Yikes](https://www.last.fm/music/Kanye+West/_/Yikes)*
+- **Kanye West** - *[I Thought About Killing You](https://www.last.fm/music/Kanye+West/_/I+Thought+About+Killing+You)*
 
 # 📀 Top Albums
 
