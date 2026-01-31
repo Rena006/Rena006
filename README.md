@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)* (Now Playing)
-- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
-- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
-- **Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)*
-- **Elis Regina** - *[águas de março](https://www.last.fm/music/Elis+Regina/_/%C3%A1guas+de+mar%C3%A7o)*
-- **Quarteto Jobim-Morelenbaum** - *[água de beber](https://www.last.fm/music/Quarteto+Jobim-Morelenbaum/_/%C3%A1gua+de+beber)*
+- **🎵 Kanye West** - *[New Slaves](https://www.last.fm/music/Kanye+West/_/New+Slaves)* (Now Playing)
+- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
+- **A$AP Rocky** - *[Praise the Lord (Da Shine) (feat. Skepta)](https://www.last.fm/music/A$AP+Rocky/_/Praise+the+Lord+(Da+Shine)+(feat.+Skepta))*
+- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
+- **Death Grips** - *[Fuck That](https://www.last.fm/music/Death+Grips/_/Fuck+That)*
+- **Death Grips** - *[Punk Weight](https://www.last.fm/music/Death+Grips/_/Punk+Weight)*
 
 # 📀 Top Albums
 
