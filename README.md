@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)* (Now Playing)
+- **🎵 Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)* (Now Playing)
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
+- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 - **Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)*
 - **Elis Regina** - *[águas de março](https://www.last.fm/music/Elis+Regina/_/%C3%A1guas+de+mar%C3%A7o)*
 - **Quarteto Jobim-Morelenbaum** - *[água de beber](https://www.last.fm/music/Quarteto+Jobim-Morelenbaum/_/%C3%A1gua+de+beber)*
-- **Antônio Carlos Jobim** - *[Corcovado](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Corcovado)*
-- **João Gilberto** - *[Desafinado](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Desafinado)*
 
 # 📀 Top Albums
 
