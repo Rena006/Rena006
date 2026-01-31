@@ -7,13 +7,13 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Nujabes** - *[Sea of Cloud](https://www.last.fm/music/Nujabes/_/Sea+of+Cloud)* (Now Playing)
-- **Nujabes** - *[Flowers](https://www.last.fm/music/Nujabes/_/Flowers)*
-- **Nujabes** - *[Modal Soul (feat. Uyama Hiroto)](https://www.last.fm/music/Nujabes/_/Modal+Soul+(feat.+Uyama+Hiroto))*
-- **Nujabes** - *[World's End Rhapsody](https://www.last.fm/music/Nujabes/_/World%27s+End+Rhapsody)*
-- **Nujabes** - *[Thank You (feat. Apani B)](https://www.last.fm/music/Nujabes/_/Thank+You+(feat.+Apani+B))*
-- **Nujabes** - *[The Sign (feat. Pase Rock)](https://www.last.fm/music/Nujabes/_/The+Sign+(feat.+Pase+Rock))*
+- **🎵 Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)* (Now Playing)
+- **Stan Getz** - *[Para Machuchar Meu Coracao](https://www.last.fm/music/Stan+Getz/_/Para+Machuchar+Meu+Coracao)*
+- **Elis Regina** - *[águas de março](https://www.last.fm/music/Elis+Regina/_/%C3%A1guas+de+mar%C3%A7o)*
+- **Quarteto Jobim-Morelenbaum** - *[água de beber](https://www.last.fm/music/Quarteto+Jobim-Morelenbaum/_/%C3%A1gua+de+beber)*
+- **Antônio Carlos Jobim** - *[Corcovado](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Corcovado)*
+- **João Gilberto** - *[Desafinado](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Desafinado)*
 
 # 📀 Top Albums
 
-<a href='https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/36307d33d9e5025c8f4564748e17a5f8.jpg' alt='Selected Ambient Works 85-92' title='Aphex Twin - Selected Ambient Works 85-92' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/The+Strokes/The+New+Abnormal'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png' alt='The New Abnormal' title='The Strokes - The New Abnormal' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Stan+Getz/Getz%2FGilberto+(Expanded+Edition)'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/32ea5ad4305c6720567c583b5a0bbcee.png' alt='Getz/Gilberto (Expanded Edition)' title='Stan Getz - Getz/Gilberto (Expanded Edition)' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Fontaines+D.C./Romance'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/4f4ae1fdc6b81d93c41c0054d596ccf0.png' alt='Romance' title='Fontaines D.C. - Romance' width='100' style='margin-right: 10px;'></a>
+<a href='https://www.last.fm/music/Aphex+Twin/Selected+Ambient+Works+85-92'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/36307d33d9e5025c8f4564748e17a5f8.jpg' alt='Selected Ambient Works 85-92' title='Aphex Twin - Selected Ambient Works 85-92' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/The+Strokes/The+New+Abnormal'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/576554c542da76c08f0e80c129afcb0e.png' alt='The New Abnormal' title='The Strokes - The New Abnormal' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Stan+Getz/Getz%2FGilberto+(Expanded+Edition)'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/32ea5ad4305c6720567c583b5a0bbcee.png' alt='Getz/Gilberto (Expanded Edition)' title='Stan Getz - Getz/Gilberto (Expanded Edition)' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Gorillaz/Plastic+Beach'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/ce6e2af584a5480b85b79371b219a92e.png' alt='Plastic Beach' title='Gorillaz - Plastic Beach' width='100' style='margin-right: 10px;'></a><a href='https://www.last.fm/music/Fontaines+D.C./Romance'><img src='https://lastfm.freetls.fastly.net/i/u/300x300/4f4ae1fdc6b81d93c41c0054d596ccf0.png' alt='Romance' title='Fontaines D.C. - Romance' width='100' style='margin-right: 10px;'></a>
