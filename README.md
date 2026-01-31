@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)* (Now Playing)
-- **Kanye West** - *[No Mistakes](https://www.last.fm/music/Kanye+West/_/No+Mistakes)*
-- **Kanye West** - *[Wouldn't Leave](https://www.last.fm/music/Kanye+West/_/Wouldn%27t+Leave)*
-- **Kanye West** - *[All Mine](https://www.last.fm/music/Kanye+West/_/All+Mine)*
-- **Kanye West** - *[Yikes](https://www.last.fm/music/Kanye+West/_/Yikes)*
-- **Kanye West** - *[I Thought About Killing You](https://www.last.fm/music/Kanye+West/_/I+Thought+About+Killing+You)*
+- **🎵 Nujabes** - *[Sea of Cloud](https://www.last.fm/music/Nujabes/_/Sea+of+Cloud)* (Now Playing)
+- **Nujabes** - *[Flowers](https://www.last.fm/music/Nujabes/_/Flowers)*
+- **Nujabes** - *[Modal Soul (feat. Uyama Hiroto)](https://www.last.fm/music/Nujabes/_/Modal+Soul+(feat.+Uyama+Hiroto))*
+- **Nujabes** - *[World's End Rhapsody](https://www.last.fm/music/Nujabes/_/World%27s+End+Rhapsody)*
+- **Nujabes** - *[Thank You (feat. Apani B)](https://www.last.fm/music/Nujabes/_/Thank+You+(feat.+Apani+B))*
+- **Nujabes** - *[The Sign (feat. Pase Rock)](https://www.last.fm/music/Nujabes/_/The+Sign+(feat.+Pase+Rock))*
 
 # 📀 Top Albums
 
