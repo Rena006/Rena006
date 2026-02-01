@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Radiohead** - *[House of Cards](https://www.last.fm/music/Radiohead/_/House+of+Cards)*
+- **The Strokes** - *[Why Are Sundays So Depressing](https://www.last.fm/music/The+Strokes/_/Why+Are+Sundays+So+Depressing)*
+- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
 - **Radiohead** - *[Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)*
 - **The Cure** - *[Lovesong](https://www.last.fm/music/The+Cure/_/Lovesong)*
-- **Beach House** - *[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)*
-- **The Strokes** - *[Call It Fate, Call It Karma](https://www.last.fm/music/The+Strokes/_/Call+It+Fate,+Call+It+Karma)*
-- **Elliott Smith** - *[Ballad of Big Nothing](https://www.last.fm/music/Elliott+Smith/_/Ballad+of+Big+Nothing)*
 
 # 📀 Top Albums
 
