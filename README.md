@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Radiohead** - *[House of Cards](https://www.last.fm/music/Radiohead/_/House+of+Cards)*
-- **The Strokes** - *[Why Are Sundays So Depressing](https://www.last.fm/music/The+Strokes/_/Why+Are+Sundays+So+Depressing)*
-- **Tame Impala** - *[Let It Happen](https://www.last.fm/music/Tame+Impala/_/Let+It+Happen)*
-- **Radiohead** - *[Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)*
-- **The Cure** - *[Lovesong](https://www.last.fm/music/The+Cure/_/Lovesong)*
+- **🎵 Daft Punk** - *[Give Life Back to Music](https://www.last.fm/music/Daft+Punk/_/Give+Life+Back+to+Music)* (Now Playing)
+- **Jamiroquai** - *[Virtual Insanity](https://www.last.fm/music/Jamiroquai/_/Virtual+Insanity)*
+- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
+- **Dusty Springfield** - *[Spooky](https://www.last.fm/music/Dusty+Springfield/_/Spooky)*
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
+- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
 
 # 📀 Top Albums
 
