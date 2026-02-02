@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Bad Bunny** - *[VOY A LLeVARTE PA PR](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)*
-- **Bad Bunny** - *[NUEVAYoL](https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL)*
-- **Casiopea** - *[ファー・アウェイ](https://www.last.fm/music/Casiopea/_/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%82%A2%E3%82%A6%E3%82%A7%E3%82%A4)*
-- **Casiopea** - *[ミッドナイト・ランデブー](https://www.last.fm/music/Casiopea/_/%E3%83%9F%E3%83%83%E3%83%89%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%83%A9%E3%83%B3%E3%83%87%E3%83%96%E3%83%BC)*
-- **Casiopea** - *[スペース・ロード](https://www.last.fm/music/Casiopea/_/%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89)*
+- **🎵 Bad Bunny** - *[KLOuFRENS](https://www.last.fm/music/Bad+Bunny/_/KLOuFRENS)* (Now Playing)
+- **Bad Bunny** - *[BOKeTE](https://www.last.fm/music/Bad+Bunny/_/BOKeTE)*
+- **Bad Bunny** - *[KETU TeCRÉ](https://www.last.fm/music/Bad+Bunny/_/KETU+TeCR%C3%89)*
+- **Bad Bunny** - *[EL CLúB](https://www.last.fm/music/Bad+Bunny/_/EL+CL%C3%BAB)*
+- **Bad Bunny** - *[VeLDÁ](https://www.last.fm/music/Bad+Bunny/_/VeLD%C3%81)*
+- **Bad Bunny** - *[WELTiTA](https://www.last.fm/music/Bad+Bunny/_/WELTiTA)*
 
 # 📀 Top Albums
 
