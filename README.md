@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Bad Bunny** - *[KLOuFRENS](https://www.last.fm/music/Bad+Bunny/_/KLOuFRENS)* (Now Playing)
 - **Bad Bunny** - *[BOKeTE](https://www.last.fm/music/Bad+Bunny/_/BOKeTE)*
 - **Bad Bunny** - *[KETU TeCRÉ](https://www.last.fm/music/Bad+Bunny/_/KETU+TeCR%C3%89)*
 - **Bad Bunny** - *[EL CLúB](https://www.last.fm/music/Bad+Bunny/_/EL+CL%C3%BAB)*
