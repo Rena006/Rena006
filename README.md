@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Bad Bunny** - *[DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF)* (Now Playing)
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
 - **Blur** - *[Coffee & TV](https://www.last.fm/music/Blur/_/Coffee+&+TV)*
 - **Bad Bunny** - *[VOY A LLeVARTE PA PR](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)*
 - **Beach House** - *[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)*
 - **The Strokes** - *[Last Nite](https://www.last.fm/music/The+Strokes/_/Last+Nite)*
-- **MGMT** - *[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)*
 
 # 📀 Top Albums
 
