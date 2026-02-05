@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 The Strokes** - *[Last Nite](https://www.last.fm/music/The+Strokes/_/Last+Nite)* (Now Playing)
+- **MGMT** - *[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)*
+- **Gorillaz** - *[Empire Ants](https://www.last.fm/music/Gorillaz/_/Empire+Ants)*
+- **MGMT** - *[Electric Feel](https://www.last.fm/music/MGMT/_/Electric+Feel)*
 - **Michael Jackson** - *[Off the Wall](https://www.last.fm/music/Michael+Jackson/_/Off+the+Wall)*
 - **Radiohead** - *[High and Dry](https://www.last.fm/music/Radiohead/_/High+and+Dry)*
-- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
 
 # 📀 Top Albums
 
