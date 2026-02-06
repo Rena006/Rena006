@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
-- **Bad Bunny** - *[DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF)*
-- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
-- **Blur** - *[Coffee & TV](https://www.last.fm/music/Blur/_/Coffee+&+TV)*
-- **Bad Bunny** - *[VOY A LLeVARTE PA PR](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)*
+- **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
+- **MGMT** - *[Kids](https://www.last.fm/music/MGMT/_/Kids)*
+- **Metronomy** - *[The Look](https://www.last.fm/music/Metronomy/_/The+Look)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **The Strokes** - *[Someday](https://www.last.fm/music/The+Strokes/_/Someday)*
 
 # 📀 Top Albums
 
