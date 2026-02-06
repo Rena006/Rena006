@@ -7,6 +7,7 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Ca7riel & Paco Amoroso** - *[#TETAS](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/%23TETAS)* (Now Playing)
 - **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
 - **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 - **Nujabes** - *[Luv(sic.) Pt3 (feat. Shing02)](https://www.last.fm/music/Nujabes/_/Luv(sic.)+Pt3+(feat.+Shing02))*
