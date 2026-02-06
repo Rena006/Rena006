@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Nujabes** - *[Luv(sic.) Pt3 (feat. Shing02)](https://www.last.fm/music/Nujabes/_/Luv(sic.)+Pt3+(feat.+Shing02))* (Now Playing)
+- **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
+- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
+- **Nujabes** - *[Luv(sic.) Pt3 (feat. Shing02)](https://www.last.fm/music/Nujabes/_/Luv(sic.)+Pt3+(feat.+Shing02))*
 - **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
 - **Luis Miguel** - *[La Mentira](https://www.last.fm/music/Luis+Miguel/_/La+Mentira)*
-- **Luis Miguel** - *[La Mentira](https://www.last.fm/music/Luis+Miguel/_/La+Mentira)*
-- **Ca7riel & Paco Amoroso** - *[EL ÚNICO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+%C3%9ANICO)*
-- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
 
 # 📀 Top Albums
 
