@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Bad Bunny** - *[DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF)* (Now Playing)
-- **Kendrick Lamar** - *[HUMBLE.](https://www.last.fm/music/Kendrick+Lamar/_/HUMBLE.)*
-- **Kendrick Lamar** - *[tv off (feat. Lefty Gunplay)](https://www.last.fm/music/Kendrick+Lamar/_/tv+off+(feat.+Lefty+Gunplay))*
-- **Kendrick Lamar** - *[Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)*
-- **Nujabes** - *[Aruarian Dance](https://www.last.fm/music/Nujabes/_/Aruarian+Dance)*
-- **Aphex Twin** - *[Flim](https://www.last.fm/music/Aphex+Twin/_/Flim)*
+- **Tame Impala** - *[Why Won't You Make Up Your Mind?](https://www.last.fm/music/Tame+Impala/_/Why+Won%27t+You+Make+Up+Your+Mind%3F)*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **Blur** - *[Coffee & TV](https://www.last.fm/music/Blur/_/Coffee+&+TV)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Ariel Pink** - *[Another Weekend](https://www.last.fm/music/Ariel+Pink/_/Another+Weekend)*
 
 # 📀 Top Albums
 
