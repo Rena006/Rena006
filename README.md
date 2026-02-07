@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Geese** - *[Trinidad](https://www.last.fm/music/Geese/_/Trinidad)* (Now Playing)
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
-- **Franz Ferdinand** - *[Take Me Out](https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out)*
-- **Tame Impala** - *[Why Won't You Make Up Your Mind?](https://www.last.fm/music/Tame+Impala/_/Why+Won%27t+You+Make+Up+Your+Mind%3F)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **Blur** - *[Coffee & TV](https://www.last.fm/music/Blur/_/Coffee+&+TV)*
+- **🎵 Stan Getz** - *[The Girl From Ipanema](https://www.last.fm/music/Stan+Getz/_/The+Girl+From+Ipanema)* (Now Playing)
+- **Metro Boomin** - *[Too Many Nights (feat. Don Toliver & with Future)](https://www.last.fm/music/Metro+Boomin/_/Too+Many+Nights+(feat.+Don+Toliver+&+with+Future))*
+- **Bad Bunny** - *[WELTiTA](https://www.last.fm/music/Bad+Bunny/_/WELTiTA)*
+- **Bad Bunny** - *[BAILE INoLVIDABLE](https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE)*
+- **Bad Bunny** - *[VOY A LLeVARTE PA PR](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)*
+- **Bad Bunny** - *[NUEVAYoL](https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL)*
 
 # 📀 Top Albums
 
