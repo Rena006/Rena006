@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Geese** - *[Trinidad](https://www.last.fm/music/Geese/_/Trinidad)* (Now Playing)
+- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **Franz Ferdinand** - *[Take Me Out](https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out)*
 - **Tame Impala** - *[Why Won't You Make Up Your Mind?](https://www.last.fm/music/Tame+Impala/_/Why+Won%27t+You+Make+Up+Your+Mind%3F)*
 - **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
 - **Blur** - *[Coffee & TV](https://www.last.fm/music/Blur/_/Coffee+&+TV)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Ariel Pink** - *[Another Weekend](https://www.last.fm/music/Ariel+Pink/_/Another+Weekend)*
 
 # 📀 Top Albums
 
