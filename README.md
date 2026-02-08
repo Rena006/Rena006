@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)* (Now Playing)
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
+- **Ice Cube** - *[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)*
+- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
 - **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
-- **Kanye West** - *[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)*
-- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
-- **Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)*
-- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
 
 # 📀 Top Albums
 
