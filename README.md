@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)* (Now Playing)
+- **Juice WRLD** - *[Robbery](https://www.last.fm/music/Juice+WRLD/_/Robbery)*
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
+- **A Tribe Called Quest** - *[Can I Kick It?](https://www.last.fm/music/A+Tribe+Called+Quest/_/Can+I+Kick+It%3F)*
 - **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
 - **Ice Cube** - *[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)*
-- **The Roots** - *[You Got Me](https://www.last.fm/music/The+Roots/_/You+Got+Me)*
-- **Nas** - *[N.Y. State of Mind](https://www.last.fm/music/Nas/_/N.Y.+State+of+Mind)*
-- **The Beach Boys** - *[God Only Knows - Remastered 1996](https://www.last.fm/music/The+Beach+Boys/_/God+Only+Knows+-+Remastered+1996)*
 
 # 📀 Top Albums
 
