@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)* (Now Playing)
-- **Juice WRLD** - *[Robbery](https://www.last.fm/music/Juice+WRLD/_/Robbery)*
-- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **A Tribe Called Quest** - *[Can I Kick It?](https://www.last.fm/music/A+Tribe+Called+Quest/_/Can+I+Kick+It%3F)*
-- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **Ice Cube** - *[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)*
+- **Travis Scott** - *[sweet sweet](https://www.last.fm/music/Travis+Scott/_/sweet+sweet)*
+- **Metro Boomin** - *[Overdue (with Travis Scott)](https://www.last.fm/music/Metro+Boomin/_/Overdue+(with+Travis+Scott))*
+- **Kendrick Lamar** - *[DNA.](https://www.last.fm/music/Kendrick+Lamar/_/DNA.)*
+- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
+- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
 
 # 📀 Top Albums
 
