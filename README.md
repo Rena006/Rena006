@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Travis Scott** - *[sweet sweet](https://www.last.fm/music/Travis+Scott/_/sweet+sweet)*
-- **Metro Boomin** - *[Overdue (with Travis Scott)](https://www.last.fm/music/Metro+Boomin/_/Overdue+(with+Travis+Scott))*
-- **Kendrick Lamar** - *[DNA.](https://www.last.fm/music/Kendrick+Lamar/_/DNA.)*
-- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
-- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
+- **Playboi Carti** - *[DIS 1 GOT IT](https://www.last.fm/music/Playboi+Carti/_/DIS+1+GOT+IT)*
+- **Playboi Carti** - *[OLYMPIAN](https://www.last.fm/music/Playboi+Carti/_/OLYMPIAN)*
+- **Playboi Carti** - *[WAKE UP F1LTHY (with Travis Scott)](https://www.last.fm/music/Playboi+Carti/_/WAKE+UP+F1LTHY+(with+Travis+Scott))*
+- **Playboi Carti** - *[LIKE WEEZY](https://www.last.fm/music/Playboi+Carti/_/LIKE+WEEZY)*
+- **Lil Uzi Vert** - *[XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)*
 
 # 📀 Top Albums
 
