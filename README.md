@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **Ice Cube** - *[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)*
-- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
+- **The Dave Brubeck Quartet** - *[Take Five](https://www.last.fm/music/The+Dave+Brubeck+Quartet/_/Take+Five)*
+- **Duke Ellington** - *[In A Sentimental Mood](https://www.last.fm/music/Duke+Ellington/_/In+A+Sentimental+Mood)*
+- **Chet Baker** - *[But Not For Me - Vocal Version](https://www.last.fm/music/Chet+Baker/_/But+Not+For+Me+-+Vocal+Version)*
+- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
+- **A Tribe Called Quest** - *[Can I Kick It?](https://www.last.fm/music/A+Tribe+Called+Quest/_/Can+I+Kick+It%3F)*
 
 # 📀 Top Albums
 
