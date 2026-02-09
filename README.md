@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Dave Brubeck Quartet** - *[Take Five](https://www.last.fm/music/The+Dave+Brubeck+Quartet/_/Take+Five)*
-- **Duke Ellington** - *[In A Sentimental Mood](https://www.last.fm/music/Duke+Ellington/_/In+A+Sentimental+Mood)*
-- **Chet Baker** - *[But Not For Me - Vocal Version](https://www.last.fm/music/Chet+Baker/_/But+Not+For+Me+-+Vocal+Version)*
-- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
-- **A Tribe Called Quest** - *[Can I Kick It?](https://www.last.fm/music/A+Tribe+Called+Quest/_/Can+I+Kick+It%3F)*
+- **🎵 Bad Bunny** - *[BOKeTE](https://www.last.fm/music/Bad+Bunny/_/BOKeTE)* (Now Playing)
+- **Bad Bunny** - *[KETU TeCRÉ](https://www.last.fm/music/Bad+Bunny/_/KETU+TeCR%C3%89)*
+- **Bad Bunny** - *[EL CLúB](https://www.last.fm/music/Bad+Bunny/_/EL+CL%C3%BAB)*
+- **Bad Bunny** - *[VeLDÁ](https://www.last.fm/music/Bad+Bunny/_/VeLD%C3%81)*
+- **Bad Bunny** - *[WELTiTA](https://www.last.fm/music/Bad+Bunny/_/WELTiTA)*
+- **Bad Bunny** - *[PERFuMITO NUEVO](https://www.last.fm/music/Bad+Bunny/_/PERFuMITO+NUEVO)*
 
 # 📀 Top Albums
 
