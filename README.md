@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Bad Bunny** - *[BOKeTE](https://www.last.fm/music/Bad+Bunny/_/BOKeTE)* (Now Playing)
+- **Bad Bunny** - *[CAFé CON RON](https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON)*
+- **Bad Bunny** - *[TURiSTA](https://www.last.fm/music/Bad+Bunny/_/TURiSTA)*
+- **Bad Bunny** - *[KLOuFRENS](https://www.last.fm/music/Bad+Bunny/_/KLOuFRENS)*
+- **Bad Bunny** - *[BOKeTE](https://www.last.fm/music/Bad+Bunny/_/BOKeTE)*
 - **Bad Bunny** - *[KETU TeCRÉ](https://www.last.fm/music/Bad+Bunny/_/KETU+TeCR%C3%89)*
-- **Bad Bunny** - *[EL CLúB](https://www.last.fm/music/Bad+Bunny/_/EL+CL%C3%BAB)*
-- **Bad Bunny** - *[VeLDÁ](https://www.last.fm/music/Bad+Bunny/_/VeLD%C3%81)*
-- **Bad Bunny** - *[WELTiTA](https://www.last.fm/music/Bad+Bunny/_/WELTiTA)*
-- **Bad Bunny** - *[PERFuMITO NUEVO](https://www.last.fm/music/Bad+Bunny/_/PERFuMITO+NUEVO)*
 
 # 📀 Top Albums
 
