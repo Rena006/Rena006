@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Bad Bunny** - *[CAFé CON RON](https://www.last.fm/music/Bad+Bunny/_/CAF%C3%A9+CON+RON)*
-- **Bad Bunny** - *[TURiSTA](https://www.last.fm/music/Bad+Bunny/_/TURiSTA)*
-- **Bad Bunny** - *[KLOuFRENS](https://www.last.fm/music/Bad+Bunny/_/KLOuFRENS)*
-- **Bad Bunny** - *[BOKeTE](https://www.last.fm/music/Bad+Bunny/_/BOKeTE)*
-- **Bad Bunny** - *[KETU TeCRÉ](https://www.last.fm/music/Bad+Bunny/_/KETU+TeCR%C3%89)*
+- **Steve Lacy** - *[Dark Red](https://www.last.fm/music/Steve+Lacy/_/Dark+Red)*
+- **TV Girl** - *[Not Allowed](https://www.last.fm/music/TV+Girl/_/Not+Allowed)*
+- **Joy Again** - *[Looking Out For You](https://www.last.fm/music/Joy+Again/_/Looking+Out+For+You)*
+- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
+- **Geese** - *[Cobra](https://www.last.fm/music/Geese/_/Cobra)*
 
 # 📀 Top Albums
 
