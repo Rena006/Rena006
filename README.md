@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Steve Lacy** - *[Dark Red](https://www.last.fm/music/Steve+Lacy/_/Dark+Red)*
-- **TV Girl** - *[Not Allowed](https://www.last.fm/music/TV+Girl/_/Not+Allowed)*
-- **Joy Again** - *[Looking Out For You](https://www.last.fm/music/Joy+Again/_/Looking+Out+For+You)*
-- **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
-- **Geese** - *[Cobra](https://www.last.fm/music/Geese/_/Cobra)*
+- **Gorillaz** - *[Rhinestone Eyes](https://www.last.fm/music/Gorillaz/_/Rhinestone+Eyes)*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **Blur** - *[Girls & Boys](https://www.last.fm/music/Blur/_/Girls+&+Boys)*
+- **Franz Ferdinand** - *[Take Me Out](https://www.last.fm/music/Franz+Ferdinand/_/Take+Me+Out)*
+- **Queens of the Stone Age** - *[Make It Wit Chu](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Make+It+Wit+Chu)*
 
 # 📀 Top Albums
 
