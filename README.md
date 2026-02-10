@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Pavement** - *[Stereo](https://www.last.fm/music/Pavement/_/Stereo)* (Now Playing)
-- **Blur** - *[Beetlebum - 2012 Remaster](https://www.last.fm/music/Blur/_/Beetlebum+-+2012+Remaster)*
-- **The Strokes** - *[You Only Live Once](https://www.last.fm/music/The+Strokes/_/You+Only+Live+Once)*
-- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
-- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **Pavement** - *[Embassy Row](https://www.last.fm/music/Pavement/_/Embassy+Row)*
+- **Pavement** - *[Type Slowly](https://www.last.fm/music/Pavement/_/Type+Slowly)*
+- **Pavement** - *[Old to Begin](https://www.last.fm/music/Pavement/_/Old+to+Begin)*
+- **Pavement** - *[Date w/ IKEA](https://www.last.fm/music/Pavement/_/Date+w%2F+IKEA)*
+- **Pavement** - *[Transport Is Arranged](https://www.last.fm/music/Pavement/_/Transport+Is+Arranged)*
 
 # 📀 Top Albums
 
