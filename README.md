@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Pavement** - *[Starlings of the Slipstream](https://www.last.fm/music/Pavement/_/Starlings+of+the+Slipstream)*
+- **Pavement** - *[Passat Dream](https://www.last.fm/music/Pavement/_/Passat+Dream)*
+- **Pavement** - *[We Are Underused](https://www.last.fm/music/Pavement/_/We+Are+Underused)*
+- **Pavement** - *[Blue Hawaiian](https://www.last.fm/music/Pavement/_/Blue+Hawaiian)*
 - **Pavement** - *[Embassy Row](https://www.last.fm/music/Pavement/_/Embassy+Row)*
-- **Pavement** - *[Type Slowly](https://www.last.fm/music/Pavement/_/Type+Slowly)*
-- **Pavement** - *[Old to Begin](https://www.last.fm/music/Pavement/_/Old+to+Begin)*
-- **Pavement** - *[Date w/ IKEA](https://www.last.fm/music/Pavement/_/Date+w%2F+IKEA)*
-- **Pavement** - *[Transport Is Arranged](https://www.last.fm/music/Pavement/_/Transport+Is+Arranged)*
 
 # 📀 Top Albums
 
