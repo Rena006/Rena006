@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)* (Now Playing)
+- **Thundercat** - *[No More Lies](https://www.last.fm/music/Thundercat/_/No+More+Lies)*
 - **Pavement** - *[Cut Your Hair](https://www.last.fm/music/Pavement/_/Cut+Your+Hair)*
 - **TV Girl** - *[The Blonde](https://www.last.fm/music/TV+Girl/_/The+Blonde)*
 - **Geese** - *[Crusades](https://www.last.fm/music/Geese/_/Crusades)*
 - **The Strokes** - *[At the Door](https://www.last.fm/music/The+Strokes/_/At+the+Door)*
-- **Pavement** - *[Spit on a Stranger](https://www.last.fm/music/Pavement/_/Spit+on+a+Stranger)*
 
 # 📀 Top Albums
 
