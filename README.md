@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Queens of the Stone Age** - *[Make It Wit Chu](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Make+It+Wit+Chu)*
+- **Nujabes** - *[Aruarian Dance](https://www.last.fm/music/Nujabes/_/Aruarian+Dance)*
 - **TUPPERWAVE** - *[My Lucky Stars](https://www.last.fm/music/TUPPERWAVE/_/My+Lucky+Stars)*
 - **Pavement** - *[Harness Your Hopes - Sped Up](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+Sped+Up)*
 - **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
-- **Mac DeMarco** - *[20201203](https://www.last.fm/music/Mac+DeMarco/_/20201203)*
-- **Bad Bunny** - *[TURiSTA](https://www.last.fm/music/Bad+Bunny/_/TURiSTA)*
 
 # 📀 Top Albums
 
