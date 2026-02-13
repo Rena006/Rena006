@@ -8,10 +8,10 @@ please call me rena.
 # 🎶 Last.fm Scrobbles
 
 - **Playboi Carti** - *[Location](https://www.last.fm/music/Playboi+Carti/_/Location)*
+- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
+- **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
 - **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
-- **Mac DeMarco** - *[Baby You're Out](https://www.last.fm/music/Mac+DeMarco/_/Baby+You%27re+Out)*
-- **Queens of the Stone Age** - *[Make It Wit Chu](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Make+It+Wit+Chu)*
-- **Nujabes** - *[Aruarian Dance](https://www.last.fm/music/Nujabes/_/Aruarian+Dance)*
+- **Snoop Dogg** - *[Beautiful](https://www.last.fm/music/Snoop+Dogg/_/Beautiful)*
 
 # 📀 Top Albums
 
