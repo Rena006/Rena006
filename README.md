@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
+- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
 - **Playboi Carti** - *[Location](https://www.last.fm/music/Playboi+Carti/_/Location)*
 - **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
 - **2Pac** - *[Do for Love](https://www.last.fm/music/2Pac/_/Do+for+Love)*
-- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
-- **Snoop Dogg** - *[Beautiful](https://www.last.fm/music/Snoop+Dogg/_/Beautiful)*
 
 # 📀 Top Albums
 
