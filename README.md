@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 YUKIKA** - *[Insomnia](https://www.last.fm/music/YUKIKA/_/Insomnia)* (Now Playing)
 - **YUKIKA** - *[NEON](https://www.last.fm/music/YUKIKA/_/NEON)*
 - **Gorillaz** - *[Superfast Jellyfish](https://www.last.fm/music/Gorillaz/_/Superfast+Jellyfish)*
 - **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
