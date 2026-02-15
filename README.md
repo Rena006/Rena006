@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Geese** - *[Trinidad](https://www.last.fm/music/Geese/_/Trinidad)* (Now Playing)
-- **Bad Bunny** - *[Tití Me Preguntó](https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3)*
-- **Bad Bunny** - *[LA MuDANZA](https://www.last.fm/music/Bad+Bunny/_/LA+MuDANZA)*
-- **Bad Bunny** - *[DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF)*
-- **Bad Bunny** - *[EoO](https://www.last.fm/music/Bad+Bunny/_/EoO)*
-- **Bad Bunny** - *[LO QUE LE PASÓ A HAWAii](https://www.last.fm/music/Bad+Bunny/_/LO+QUE+LE+PAS%C3%93+A+HAWAii)*
+- **🎵 Queens of the Stone Age** - *[Song For The Dead](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Song+For+The+Dead)* (Now Playing)
+- **Queens of the Stone Age** - *[First It Giveth](https://www.last.fm/music/Queens+of+the+Stone+Age/_/First+It+Giveth)*
+- **Queens of the Stone Age** - *[No One Knows](https://www.last.fm/music/Queens+of+the+Stone+Age/_/No+One+Knows)*
+- **Queens of the Stone Age** - *[You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire - Album Version (With Interlude)](https://www.last.fm/music/Queens+of+the+Stone+Age/_/You+Think+I+Ain%27t+Worth+A+Dollar,+But+I+Feel+Like+A+Millionaire+-+Album+Version+(With+Interlude))*
+- **Geese** - *[Taxes](https://www.last.fm/music/Geese/_/Taxes)*
+- **Geese** - *[Bow Down](https://www.last.fm/music/Geese/_/Bow+Down)*
 
 # 📀 Top Albums
 
