@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Bad Bunny** - *[VeLDÁ](https://www.last.fm/music/Bad+Bunny/_/VeLD%C3%81)* (Now Playing)
-- **Bad Bunny** - *[WELTiTA](https://www.last.fm/music/Bad+Bunny/_/WELTiTA)*
-- **Bad Gyal** - *[Chulo PT.2](https://www.last.fm/music/Bad+Gyal/_/Chulo+PT.2)*
-- **KAROL G** - *[LATINA FOREVA](https://www.last.fm/music/KAROL+G/_/LATINA+FOREVA)*
-- **KAROL G** - *[Ivonny Bonita](https://www.last.fm/music/KAROL+G/_/Ivonny+Bonita)*
-- **Bad Bunny** - *[PERFuMITO NUEVO](https://www.last.fm/music/Bad+Bunny/_/PERFuMITO+NUEVO)*
+- **Bad Bunny** - *[LA MuDANZA](https://www.last.fm/music/Bad+Bunny/_/LA+MuDANZA)*
+- **Bad Bunny** - *[DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF)*
+- **Bad Bunny** - *[EoO](https://www.last.fm/music/Bad+Bunny/_/EoO)*
+- **Bad Bunny** - *[LO QUE LE PASÓ A HAWAii](https://www.last.fm/music/Bad+Bunny/_/LO+QUE+LE+PAS%C3%93+A+HAWAii)*
+- **Bad Bunny** - *[PIToRRO DE COCO](https://www.last.fm/music/Bad+Bunny/_/PIToRRO+DE+COCO)*
 
 # 📀 Top Albums
 
