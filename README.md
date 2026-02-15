@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Charli xcx** - *[Von dutch](https://www.last.fm/music/Charli+xcx/_/Von+dutch)* (Now Playing)
-- **Disclosure** - *[Latch (feat. Sam Smith)](https://www.last.fm/music/Disclosure/_/Latch+(feat.+Sam+Smith))*
-- **Underworld** - *[Born Slippy .NUXX](https://www.last.fm/music/Underworld/_/Born+Slippy+.NUXX)*
-- **Jamiroquai** - *[Canned Heat](https://www.last.fm/music/Jamiroquai/_/Canned+Heat)*
-- **Daft Punk** - *[Give Life Back to Music](https://www.last.fm/music/Daft+Punk/_/Give+Life+Back+to+Music)*
-- **Michael Jackson** - *[Off the Wall](https://www.last.fm/music/Michael+Jackson/_/Off+the+Wall)*
+- **🎵 Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)* (Now Playing)
+- **Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)*
+- **Kanye West** - *[All Falls Down](https://www.last.fm/music/Kanye+West/_/All+Falls+Down)*
+- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
+- **Playboi Carti** - *[Location](https://www.last.fm/music/Playboi+Carti/_/Location)*
+- **Kanye West** - *[New Slaves](https://www.last.fm/music/Kanye+West/_/New+Slaves)*
 
 # 📀 Top Albums
 
