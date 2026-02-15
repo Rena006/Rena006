@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Queens of the Stone Age** - *[Song For The Dead](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Song+For+The+Dead)* (Now Playing)
-- **Queens of the Stone Age** - *[First It Giveth](https://www.last.fm/music/Queens+of+the+Stone+Age/_/First+It+Giveth)*
-- **Queens of the Stone Age** - *[No One Knows](https://www.last.fm/music/Queens+of+the+Stone+Age/_/No+One+Knows)*
-- **Queens of the Stone Age** - *[You Think I Ain't Worth A Dollar, But I Feel Like A Millionaire - Album Version (With Interlude)](https://www.last.fm/music/Queens+of+the+Stone+Age/_/You+Think+I+Ain%27t+Worth+A+Dollar,+But+I+Feel+Like+A+Millionaire+-+Album+Version+(With+Interlude))*
-- **Geese** - *[Taxes](https://www.last.fm/music/Geese/_/Taxes)*
-- **Geese** - *[Bow Down](https://www.last.fm/music/Geese/_/Bow+Down)*
+- **Queens of the Stone Age** - *[Do It Again](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Do+It+Again)*
+- **Queens of the Stone Age** - *[Go With the Flow](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Go+With+the+Flow)*
+- **Queens of the Stone Age** - *[Hanging Tree](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Hanging+Tree)*
+- **Queens of the Stone Age** - *[The Sky Is Fallin'](https://www.last.fm/music/Queens+of+the+Stone+Age/_/The+Sky+Is+Fallin%27)*
+- **Queens of the Stone Age** - *[Song For The Dead](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Song+For+The+Dead)*
 
 # 📀 Top Albums
 
