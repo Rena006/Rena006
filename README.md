@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)* (Now Playing)
-- **Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)*
-- **Kanye West** - *[All Falls Down](https://www.last.fm/music/Kanye+West/_/All+Falls+Down)*
-- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
-- **Playboi Carti** - *[Location](https://www.last.fm/music/Playboi+Carti/_/Location)*
-- **Kanye West** - *[New Slaves](https://www.last.fm/music/Kanye+West/_/New+Slaves)*
+- **🎵 Bad Bunny** - *[VeLDÁ](https://www.last.fm/music/Bad+Bunny/_/VeLD%C3%81)* (Now Playing)
+- **Bad Bunny** - *[WELTiTA](https://www.last.fm/music/Bad+Bunny/_/WELTiTA)*
+- **Bad Gyal** - *[Chulo PT.2](https://www.last.fm/music/Bad+Gyal/_/Chulo+PT.2)*
+- **KAROL G** - *[LATINA FOREVA](https://www.last.fm/music/KAROL+G/_/LATINA+FOREVA)*
+- **KAROL G** - *[Ivonny Bonita](https://www.last.fm/music/KAROL+G/_/Ivonny+Bonita)*
+- **Bad Bunny** - *[PERFuMITO NUEVO](https://www.last.fm/music/Bad+Bunny/_/PERFuMITO+NUEVO)*
 
 # 📀 Top Albums
 
