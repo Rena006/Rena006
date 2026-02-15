@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **YUKIKA** - *[NEON](https://www.last.fm/music/YUKIKA/_/NEON)*
-- **Gorillaz** - *[Superfast Jellyfish](https://www.last.fm/music/Gorillaz/_/Superfast+Jellyfish)*
+- **🎵 Gorillaz** - *[She's My Collar (feat. Kali Uchis)](https://www.last.fm/music/Gorillaz/_/She%27s+My+Collar+(feat.+Kali+Uchis))* (Now Playing)
+- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
+- **Kendrick Lamar** - *[squabble up](https://www.last.fm/music/Kendrick+Lamar/_/squabble+up)*
+- **The Temper Trap** - *[Sweet Disposition](https://www.last.fm/music/The+Temper+Trap/_/Sweet+Disposition)*
 - **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Queens of the Stone Age** - *[Make It Wit Chu](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Make+It+Wit+Chu)*
-- **The Strokes** - *[At the Door](https://www.last.fm/music/The+Strokes/_/At+the+Door)*
+- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
 
 # 📀 Top Albums
 
