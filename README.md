@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Geese** - *[Trinidad](https://www.last.fm/music/Geese/_/Trinidad)* (Now Playing)
+- **Bad Bunny** - *[Tití Me Preguntó](https://www.last.fm/music/Bad+Bunny/_/Tit%C3%AD+Me+Pregunt%C3%B3)*
 - **Bad Bunny** - *[LA MuDANZA](https://www.last.fm/music/Bad+Bunny/_/LA+MuDANZA)*
 - **Bad Bunny** - *[DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF)*
 - **Bad Bunny** - *[EoO](https://www.last.fm/music/Bad+Bunny/_/EoO)*
 - **Bad Bunny** - *[LO QUE LE PASÓ A HAWAii](https://www.last.fm/music/Bad+Bunny/_/LO+QUE+LE+PAS%C3%93+A+HAWAii)*
-- **Bad Bunny** - *[PIToRRO DE COCO](https://www.last.fm/music/Bad+Bunny/_/PIToRRO+DE+COCO)*
 
 # 📀 Top Albums
 
