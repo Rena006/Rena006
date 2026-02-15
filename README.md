@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Gorillaz** - *[She's My Collar (feat. Kali Uchis)](https://www.last.fm/music/Gorillaz/_/She%27s+My+Collar+(feat.+Kali+Uchis))* (Now Playing)
-- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
-- **Kendrick Lamar** - *[squabble up](https://www.last.fm/music/Kendrick+Lamar/_/squabble+up)*
-- **The Temper Trap** - *[Sweet Disposition](https://www.last.fm/music/The+Temper+Trap/_/Sweet+Disposition)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
+- **🎵 Charli xcx** - *[Von dutch](https://www.last.fm/music/Charli+xcx/_/Von+dutch)* (Now Playing)
+- **Disclosure** - *[Latch (feat. Sam Smith)](https://www.last.fm/music/Disclosure/_/Latch+(feat.+Sam+Smith))*
+- **Underworld** - *[Born Slippy .NUXX](https://www.last.fm/music/Underworld/_/Born+Slippy+.NUXX)*
+- **Jamiroquai** - *[Canned Heat](https://www.last.fm/music/Jamiroquai/_/Canned+Heat)*
+- **Daft Punk** - *[Give Life Back to Music](https://www.last.fm/music/Daft+Punk/_/Give+Life+Back+to+Music)*
+- **Michael Jackson** - *[Off the Wall](https://www.last.fm/music/Michael+Jackson/_/Off+the+Wall)*
 
 # 📀 Top Albums
 
