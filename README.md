@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **Queens of the Stone Age** - *[God Is in the Radio](https://www.last.fm/music/Queens+of+the+Stone+Age/_/God+Is+in+the+Radio)*
-- **Queens of the Stone Age** - *[Gonna Leave You](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Gonna+Leave+You)*
-- **Queens of the Stone Age** - *[Do It Again](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Do+It+Again)*
+- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
+- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
+- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
 
 # 📀 Top Albums
 
