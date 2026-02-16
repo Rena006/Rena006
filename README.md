@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **Queens of the Stone Age** - *[God Is in the Radio](https://www.last.fm/music/Queens+of+the+Stone+Age/_/God+Is+in+the+Radio)*
+- **Queens of the Stone Age** - *[Gonna Leave You](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Gonna+Leave+You)*
 - **Queens of the Stone Age** - *[Do It Again](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Do+It+Again)*
-- **Queens of the Stone Age** - *[Go With the Flow](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Go+With+the+Flow)*
-- **Queens of the Stone Age** - *[Hanging Tree](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Hanging+Tree)*
-- **Queens of the Stone Age** - *[The Sky Is Fallin'](https://www.last.fm/music/Queens+of+the+Stone+Age/_/The+Sky+Is+Fallin%27)*
-- **Queens of the Stone Age** - *[Song For The Dead](https://www.last.fm/music/Queens+of+the+Stone+Age/_/Song+For+The+Dead)*
 
 # 📀 Top Albums
 
