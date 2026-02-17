@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kate Bush** - *[Running Up That Hill (A Deal with God)](https://www.last.fm/music/Kate+Bush/_/Running+Up+That+Hill+(A+Deal+with+God))* (Now Playing)
+- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
+- **Kate Bush** - *[Running Up That Hill (A Deal with God)](https://www.last.fm/music/Kate+Bush/_/Running+Up+That+Hill+(A+Deal+with+God))*
 - **Stan Getz** - *[Doralice - Stereo Version](https://www.last.fm/music/Stan+Getz/_/Doralice+-+Stereo+Version)*
 - **João Gilberto** - *[Tin Tin Por Tin Tin](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Tin+Tin+Por+Tin+Tin)*
 - **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
-- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
-- **Steve Lacy** - *[Some](https://www.last.fm/music/Steve+Lacy/_/Some)*
 
 # 📀 Top Albums
 
