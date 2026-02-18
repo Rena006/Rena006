@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Gorillaz** - *[On Melancholy Hill](https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill)*
-- **Kate Bush** - *[Running Up That Hill (A Deal with God)](https://www.last.fm/music/Kate+Bush/_/Running+Up+That+Hill+(A+Deal+with+God))*
-- **Stan Getz** - *[Doralice - Stereo Version](https://www.last.fm/music/Stan+Getz/_/Doralice+-+Stereo+Version)*
-- **João Gilberto** - *[Tin Tin Por Tin Tin](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Tin+Tin+Por+Tin+Tin)*
-- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
+- **Gorillaz** - *[Superfast Jellyfish](https://www.last.fm/music/Gorillaz/_/Superfast+Jellyfish)*
+- **Queens of the Stone Age** - *[No One Knows](https://www.last.fm/music/Queens+of+the+Stone+Age/_/No+One+Knows)*
+- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
+- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
+- **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
 
 # 📀 Top Albums
 
