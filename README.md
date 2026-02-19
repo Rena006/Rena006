@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)* (Now Playing)
+- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
+- **Playboi Carti** - *[Location](https://www.last.fm/music/Playboi+Carti/_/Location)*
 - **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
 - **OutKast** - *[Ms. Jackson](https://www.last.fm/music/OutKast/_/Ms.+Jackson)*
 - **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
-- **Ween** - *[Ocean Man](https://www.last.fm/music/Ween/_/Ocean+Man)*
 
 # 📀 Top Albums
 
