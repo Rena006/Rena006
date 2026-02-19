@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Gorillaz** - *[Superfast Jellyfish](https://www.last.fm/music/Gorillaz/_/Superfast+Jellyfish)*
-- **Queens of the Stone Age** - *[No One Knows](https://www.last.fm/music/Queens+of+the+Stone+Age/_/No+One+Knows)*
-- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
-- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
-- **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
+- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
+- **OutKast** - *[Ms. Jackson](https://www.last.fm/music/OutKast/_/Ms.+Jackson)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
+- **Ween** - *[Ocean Man](https://www.last.fm/music/Ween/_/Ocean+Man)*
 
 # 📀 Top Albums
 
