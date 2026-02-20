@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
 - **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
 - **MGMT** - *[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)*
 - **Morrissey** - *[First of the Gang to Die](https://www.last.fm/music/Morrissey/_/First+of+the+Gang+to+Die)*
 - **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
 
 # 📀 Top Albums
 
