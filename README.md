@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **MGMT** - *[Time to Pretend](https://www.last.fm/music/MGMT/_/Time+to+Pretend)*
-- **Morrissey** - *[First of the Gang to Die](https://www.last.fm/music/Morrissey/_/First+of+the+Gang+to+Die)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Morrissey** - *[Suedehead - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Suedehead+-+2011+Remaster)*
+- **Morrissey** - *[Let Me Kiss You](https://www.last.fm/music/Morrissey/_/Let+Me+Kiss+You)*
+- **King Crimson** - *[Matte Kudasai](https://www.last.fm/music/King+Crimson/_/Matte+Kudasai)*
+- **Arcade Fire** - *[Everything Now](https://www.last.fm/music/Arcade+Fire/_/Everything+Now)*
+- **Broken Social Scene** - *[7/4 (Shoreline)](https://www.last.fm/music/Broken+Social+Scene/_/7%2F4+(Shoreline))*
 
 # 📀 Top Albums
 
