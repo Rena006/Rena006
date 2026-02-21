@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Morrissey** - *[Everyday Is Like Sunday - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Everyday+Is+Like+Sunday+-+2011+Remaster)*
 - **Morrissey** - *[Suedehead - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Suedehead+-+2011+Remaster)*
 - **Morrissey** - *[Let Me Kiss You](https://www.last.fm/music/Morrissey/_/Let+Me+Kiss+You)*
 - **King Crimson** - *[Matte Kudasai](https://www.last.fm/music/King+Crimson/_/Matte+Kudasai)*
 - **Arcade Fire** - *[Everything Now](https://www.last.fm/music/Arcade+Fire/_/Everything+Now)*
-- **Broken Social Scene** - *[7/4 (Shoreline)](https://www.last.fm/music/Broken+Social+Scene/_/7%2F4+(Shoreline))*
 
 # 📀 Top Albums
 
