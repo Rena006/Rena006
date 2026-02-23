@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
 - **King Crimson** - *[Matte Kudasai](https://www.last.fm/music/King+Crimson/_/Matte+Kudasai)*
 - **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
 - **Soko** - *[I Come in Peace](https://www.last.fm/music/Soko/_/I+Come+in+Peace)*
-- **King Krule** - *[Border Line](https://www.last.fm/music/King+Krule/_/Border+Line)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 
 # 📀 Top Albums
 
