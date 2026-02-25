@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Daft Punk** - *[Give Life Back to Music](https://www.last.fm/music/Daft+Punk/_/Give+Life+Back+to+Music)* (Now Playing)
+- **Charli xcx** - *[Unlock it (Lock It) - feat. Kim Petras and Jay Park](https://www.last.fm/music/Charli+xcx/_/Unlock+it+(Lock+It)+-+feat.+Kim+Petras+and+Jay+Park)*
+- **Gorillaz** - *[Superfast Jellyfish](https://www.last.fm/music/Gorillaz/_/Superfast+Jellyfish)*
+- **Bad Bunny** - *[NUEVAYoL](https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL)*
+- **Kendrick Lamar** - *[Money Trees](https://www.last.fm/music/Kendrick+Lamar/_/Money+Trees)*
 - **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
-- **King Crimson** - *[Matte Kudasai](https://www.last.fm/music/King+Crimson/_/Matte+Kudasai)*
-- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
-- **Soko** - *[I Come in Peace](https://www.last.fm/music/Soko/_/I+Come+in+Peace)*
 
 # 📀 Top Albums
 
