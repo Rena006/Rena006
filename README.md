@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Makoto Matsushita** - *[First Light - 2018 Remaster](https://www.last.fm/music/Makoto+Matsushita/_/First+Light+-+2018+Remaster)* (Now Playing)
+- **Shigeo Sekito** - *[ザ・ワード II](https://www.last.fm/music/Shigeo+Sekito/_/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%89+II)*
+- **Cortex** - *[Efficace Swing](https://www.last.fm/music/Cortex/_/Efficace+Swing)*
+- **DJ Shadow** - *[Midnight in a Perfect World](https://www.last.fm/music/DJ+Shadow/_/Midnight+in+a+Perfect+World)*
 - **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
 - **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
-- **MGMT** - *[Kids](https://www.last.fm/music/MGMT/_/Kids)*
-- **Metro Boomin** - *[Too Many Nights (feat. Don Toliver & with Future)](https://www.last.fm/music/Metro+Boomin/_/Too+Many+Nights+(feat.+Don+Toliver+&+with+Future))*
-- **Nujabes** - *[Feather (feat. Cise Starr & Akin from Cyne)](https://www.last.fm/music/Nujabes/_/Feather+(feat.+Cise+Starr+&+Akin+from+Cyne))*
 
 # 📀 Top Albums
 
