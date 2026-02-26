@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Makoto Matsushita** - *[First Light - 2018 Remaster](https://www.last.fm/music/Makoto+Matsushita/_/First+Light+-+2018+Remaster)* (Now Playing)
-- **Shigeo Sekito** - *[ザ・ワード II](https://www.last.fm/music/Shigeo+Sekito/_/%E3%82%B6%E3%83%BB%E3%83%AF%E3%83%BC%E3%83%89+II)*
-- **Cortex** - *[Efficace Swing](https://www.last.fm/music/Cortex/_/Efficace+Swing)*
-- **DJ Shadow** - *[Midnight in a Perfect World](https://www.last.fm/music/DJ+Shadow/_/Midnight+in+a+Perfect+World)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)*
+- **Shigeru Suzuki** - *[ノアノア](https://www.last.fm/music/Shigeru+Suzuki/_/%E3%83%8E%E3%82%A2%E3%83%8E%E3%82%A2)*
+- **Ryo Fukui** - *[Scenery](https://www.last.fm/music/Ryo+Fukui/_/Scenery)*
+- **Cortex** - *[Mary Et Jeff](https://www.last.fm/music/Cortex/_/Mary+Et+Jeff)*
+- **Piero Piccioni** - *[Aspetto ancora un giorno](https://www.last.fm/music/Piero+Piccioni/_/Aspetto+ancora+un+giorno)*
+- **高中正義** - *[MALIBU](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/MALIBU)*
 
 # 📀 Top Albums
 
