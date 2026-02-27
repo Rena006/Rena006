@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Stan Getz** - *[The Girl From Ipanema](https://www.last.fm/music/Stan+Getz/_/The+Girl+From+Ipanema)* (Now Playing)
+- **DJ Shadow** - *[Midnight in a Perfect World](https://www.last.fm/music/DJ+Shadow/_/Midnight+in+a+Perfect+World)*
 - **Shigeru Suzuki** - *[ノアノア](https://www.last.fm/music/Shigeru+Suzuki/_/%E3%83%8E%E3%82%A2%E3%83%8E%E3%82%A2)*
 - **Ryo Fukui** - *[Scenery](https://www.last.fm/music/Ryo+Fukui/_/Scenery)*
 - **Cortex** - *[Mary Et Jeff](https://www.last.fm/music/Cortex/_/Mary+Et+Jeff)*
 - **Piero Piccioni** - *[Aspetto ancora un giorno](https://www.last.fm/music/Piero+Piccioni/_/Aspetto+ancora+un+giorno)*
-- **高中正義** - *[MALIBU](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/MALIBU)*
 
 # 📀 Top Albums
 
