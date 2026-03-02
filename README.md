@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
+- **Stan Getz** - *[The Girl From Ipanema - Single Version](https://www.last.fm/music/Stan+Getz/_/The+Girl+From+Ipanema+-+Single+Version)*
+- **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
+- **Daniel Lopatin** - *[Hoff's](https://www.last.fm/music/Daniel+Lopatin/_/Hoff%27s)*
 - **Daniel Lopatin** - *[Rockwell Ink](https://www.last.fm/music/Daniel+Lopatin/_/Rockwell+Ink)*
-- **Daniel Lopatin** - *[Fucking Mensch](https://www.last.fm/music/Daniel+Lopatin/_/Fucking+Mensch)*
-- **Daniel Lopatin** - *[Tub Falls](https://www.last.fm/music/Daniel+Lopatin/_/Tub+Falls)*
-- **Daniel Lopatin** - *[The Scape](https://www.last.fm/music/Daniel+Lopatin/_/The+Scape)*
-- **Daniel Lopatin** - *[Motherstone](https://www.last.fm/music/Daniel+Lopatin/_/Motherstone)*
 
 # 📀 Top Albums
 
