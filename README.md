@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Gativideo** - *[Pasarela](https://www.last.fm/music/Gativideo/_/Pasarela)*
-- **Gativideo** - *[Efecto Mandela](https://www.last.fm/music/Gativideo/_/Efecto+Mandela)*
-- **Morrissey** - *[Let Me Kiss You](https://www.last.fm/music/Morrissey/_/Let+Me+Kiss+You)*
-- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
-- **Soda Stereo** - *[Trátame Suavemente - Remasterizado 2007](https://www.last.fm/music/Soda+Stereo/_/Tr%C3%A1tame+Suavemente+-+Remasterizado+2007)*
+- **Daniel Lopatin** - *[Rockwell Ink](https://www.last.fm/music/Daniel+Lopatin/_/Rockwell+Ink)*
+- **Daniel Lopatin** - *[Fucking Mensch](https://www.last.fm/music/Daniel+Lopatin/_/Fucking+Mensch)*
+- **Daniel Lopatin** - *[Tub Falls](https://www.last.fm/music/Daniel+Lopatin/_/Tub+Falls)*
+- **Daniel Lopatin** - *[The Scape](https://www.last.fm/music/Daniel+Lopatin/_/The+Scape)*
+- **Daniel Lopatin** - *[Motherstone](https://www.last.fm/music/Daniel+Lopatin/_/Motherstone)*
 
 # 📀 Top Albums
 
