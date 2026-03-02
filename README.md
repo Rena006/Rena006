@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 The Notorious B.I.G.** - *[Big Poppa - 2005 Remaster](https://www.last.fm/music/The+Notorious+B.I.G./_/Big+Poppa+-+2005+Remaster)* (Now Playing)
+- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
+- **Piper** - *[Gentle Shower](https://www.last.fm/music/Piper/_/Gentle+Shower)*
 - **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Stan Getz** - *[The Girl From Ipanema - Single Version](https://www.last.fm/music/Stan+Getz/_/The+Girl+From+Ipanema+-+Single+Version)*
-- **Daft Punk** - *[Veridis Quo](https://www.last.fm/music/Daft+Punk/_/Veridis+Quo)*
-- **Daniel Lopatin** - *[Hoff's](https://www.last.fm/music/Daniel+Lopatin/_/Hoff%27s)*
-- **Daniel Lopatin** - *[Rockwell Ink](https://www.last.fm/music/Daniel+Lopatin/_/Rockwell+Ink)*
 
 # 📀 Top Albums
 
