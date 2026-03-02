@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Free Nationals** - *[Time](https://www.last.fm/music/Free+Nationals/_/Time)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Cro-Magnon** - *[return to the journey](https://www.last.fm/music/Cro-Magnon/_/return+to+the+journey)*
-- **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
-- **Gorillaz** - *[Plastic Beach (Feat. Mick Jones and Paul Simonon)](https://www.last.fm/music/Gorillaz/_/Plastic+Beach+(Feat.+Mick+Jones+and+Paul+Simonon))*
+- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
+- **Bad Bunny** - *[DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF)*
+- **Bad Bunny** - *[BAILE INoLVIDABLE](https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE)*
+- **Bad Bunny** - *[VOY A LLeVARTE PA PR](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)*
+- **Bad Bunny** - *[NUEVAYoL](https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL)*
 
 # 📀 Top Albums
 
