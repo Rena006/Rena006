@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Gativideo** - *[Pasarela](https://www.last.fm/music/Gativideo/_/Pasarela)*
+- **Gativideo** - *[Efecto Mandela](https://www.last.fm/music/Gativideo/_/Efecto+Mandela)*
+- **Morrissey** - *[Let Me Kiss You](https://www.last.fm/music/Morrissey/_/Let+Me+Kiss+You)*
 - **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
-- **Bad Bunny** - *[DtMF](https://www.last.fm/music/Bad+Bunny/_/DtMF)*
-- **Bad Bunny** - *[BAILE INoLVIDABLE](https://www.last.fm/music/Bad+Bunny/_/BAILE+INoLVIDABLE)*
-- **Bad Bunny** - *[VOY A LLeVARTE PA PR](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)*
-- **Bad Bunny** - *[NUEVAYoL](https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL)*
+- **Soda Stereo** - *[Trátame Suavemente - Remasterizado 2007](https://www.last.fm/music/Soda+Stereo/_/Tr%C3%A1tame+Suavemente+-+Remasterizado+2007)*
 
 # 📀 Top Albums
 
