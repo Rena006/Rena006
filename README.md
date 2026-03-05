@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Pavement** - *[Harness Your Hopes - b-side](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Kendrick Lamar** - *[tv off (feat. Lefty Gunplay)](https://www.last.fm/music/Kendrick+Lamar/_/tv+off+(feat.+Lefty+Gunplay))*
+- **Kendrick Lamar** - *[luther (with SZA)](https://www.last.fm/music/Kendrick+Lamar/_/luther+(with+SZA))*
+- **2Pac** - *[Hit 'Em Up - Single Version](https://www.last.fm/music/2Pac/_/Hit+%27Em+Up+-+Single+Version)*
+- **Jay Rock** - *[King's Dead (with Kendrick Lamar, Future & James Blake)](https://www.last.fm/music/Jay+Rock/_/King%27s+Dead+(with+Kendrick+Lamar,+Future+&+James+Blake))*
+- **Metronomy** - *[Everything Goes My Way](https://www.last.fm/music/Metronomy/_/Everything+Goes+My+Way)*
 
 # 📀 Top Albums
 
