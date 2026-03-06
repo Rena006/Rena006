@@ -7,12 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Pavement** - *[Transport Is Arranged](https://www.last.fm/music/Pavement/_/Transport+Is+Arranged)* (Now Playing)
-- **Pavement** - *[Blue Hawaiian](https://www.last.fm/music/Pavement/_/Blue+Hawaiian)*
-- **Pavement** - *[Shady Lane](https://www.last.fm/music/Pavement/_/Shady+Lane)*
-- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
-- **Pavement** - *[Cut Your Hair](https://www.last.fm/music/Pavement/_/Cut+Your+Hair)*
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **🎵 Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)* (Now Playing)
+- **Isaiah Rashad** - *[Wat's Wrong (feat. Zacari & Kendrick Lamar)](https://www.last.fm/music/Isaiah+Rashad/_/Wat%27s+Wrong+(feat.+Zacari+&+Kendrick+Lamar))*
+- **Panchiko** - *[Ginkgo](https://www.last.fm/music/Panchiko/_/Ginkgo)*
+- **Breakbot** - *[Baby I'm Yours](https://www.last.fm/music/Breakbot/_/Baby+I%27m+Yours)*
+- **L'Impératrice** - *[Sonate Pacifique](https://www.last.fm/music/L%27Imp%C3%A9ratrice/_/Sonate+Pacifique)*
+- **Gorillaz** - *[Every Planet We Reach Is Dead](https://www.last.fm/music/Gorillaz/_/Every+Planet+We+Reach+Is+Dead)*
 
 # 📀 Top Albums
 
