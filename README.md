@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
-- **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **🎵 Pavement** - *[Transport Is Arranged](https://www.last.fm/music/Pavement/_/Transport+Is+Arranged)* (Now Playing)
+- **Pavement** - *[Blue Hawaiian](https://www.last.fm/music/Pavement/_/Blue+Hawaiian)*
+- **Pavement** - *[Shady Lane](https://www.last.fm/music/Pavement/_/Shady+Lane)*
+- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
+- **Pavement** - *[Cut Your Hair](https://www.last.fm/music/Pavement/_/Cut+Your+Hair)*
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
 
 # 📀 Top Albums
 
