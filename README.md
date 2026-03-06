@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Daniel Lopatin** - *[Pure Joy](https://www.last.fm/music/Daniel+Lopatin/_/Pure+Joy)* (Now Playing)
-- **Daniel Lopatin** - *[The Apple](https://www.last.fm/music/Daniel+Lopatin/_/The+Apple)*
-- **Daniel Lopatin** - *[Endo’s Game](https://www.last.fm/music/Daniel+Lopatin/_/Endo%E2%80%99s+Game)*
-- **Daniel Lopatin** - *[Marty’s Dream](https://www.last.fm/music/Daniel+Lopatin/_/Marty%E2%80%99s+Dream)*
-- **Daniel Lopatin** - *[The Call](https://www.last.fm/music/Daniel+Lopatin/_/The+Call)*
-- **Ca7riel & Paco Amoroso** - *[#TETAS](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/%23TETAS)*
+- **Daniel Lopatin** - *[Fucking Mensch](https://www.last.fm/music/Daniel+Lopatin/_/Fucking+Mensch)*
+- **Daniel Lopatin** - *[Tub Falls](https://www.last.fm/music/Daniel+Lopatin/_/Tub+Falls)*
+- **Daniel Lopatin** - *[The Scape](https://www.last.fm/music/Daniel+Lopatin/_/The+Scape)*
+- **Daniel Lopatin** - *[Motherstone](https://www.last.fm/music/Daniel+Lopatin/_/Motherstone)*
+- **Daniel Lopatin** - *[The Humbling](https://www.last.fm/music/Daniel+Lopatin/_/The+Humbling)*
 
 # 📀 Top Albums
 
