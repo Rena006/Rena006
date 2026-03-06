@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)* (Now Playing)
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
 - **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
 - **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 - **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
 - **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
-- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
 
 # 📀 Top Albums
 
