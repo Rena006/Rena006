@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Daniel Lopatin** - *[Fucking Mensch](https://www.last.fm/music/Daniel+Lopatin/_/Fucking+Mensch)*
-- **Daniel Lopatin** - *[Tub Falls](https://www.last.fm/music/Daniel+Lopatin/_/Tub+Falls)*
-- **Daniel Lopatin** - *[The Scape](https://www.last.fm/music/Daniel+Lopatin/_/The+Scape)*
-- **Daniel Lopatin** - *[Motherstone](https://www.last.fm/music/Daniel+Lopatin/_/Motherstone)*
-- **Daniel Lopatin** - *[The Humbling](https://www.last.fm/music/Daniel+Lopatin/_/The+Humbling)*
+- **🎵 Drake** - *[Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)* (Now Playing)
+- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
+- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
+- **Trippie Redd** - *[Miss The Rage](https://www.last.fm/music/Trippie+Redd/_/Miss+The+Rage)*
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
+- **Kanye West** - *[All Falls Down](https://www.last.fm/music/Kanye+West/_/All+Falls+Down)*
 
 # 📀 Top Albums
 
