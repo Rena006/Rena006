@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
 - **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
 - **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
 - **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
 - **Kanye West** - *[Heard 'Em Say](https://www.last.fm/music/Kanye+West/_/Heard+%27Em+Say)*
-- **Jaÿ-Z** - *[Ni**as In Paris](https://www.last.fm/music/Ja%C3%BF-Z/_/Ni**as+In+Paris)*
 
 # 📀 Top Albums
 
