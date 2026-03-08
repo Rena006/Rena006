@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
+- **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
+- **Kanye West** - *[Heard 'Em Say](https://www.last.fm/music/Kanye+West/_/Heard+%27Em+Say)*
 - **Jaÿ-Z** - *[Ni**as In Paris](https://www.last.fm/music/Ja%C3%BF-Z/_/Ni**as+In+Paris)*
-- **Kanye West** - *[Dark Fantasy](https://www.last.fm/music/Kanye+West/_/Dark+Fantasy)*
-- **Lil Uzi Vert** - *[XO TOUR Llif3](https://www.last.fm/music/Lil+Uzi+Vert/_/XO+TOUR+Llif3)*
-- **OutKast** - *[Hey Ya!](https://www.last.fm/music/OutKast/_/Hey+Ya!)*
-- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
 
 # 📀 Top Albums
 
