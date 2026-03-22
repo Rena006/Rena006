@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
-- **Aphex Twin** - *[Green Calx](https://www.last.fm/music/Aphex+Twin/_/Green+Calx)*
-- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
-- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
+- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
+- **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
+- **Kendrick Lamar** - *[tv off (feat. Lefty Gunplay)](https://www.last.fm/music/Kendrick+Lamar/_/tv+off+(feat.+Lefty+Gunplay))*
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
 
 # 📀 Top Albums
 
