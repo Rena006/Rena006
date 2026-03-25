@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)* (Now Playing)
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **Blur** - *[Coffee & TV](https://www.last.fm/music/Blur/_/Coffee+&+TV)*
+- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
 - **Pavement** - *[Harness Your Hopes - b-side](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side)*
 - **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
-- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
-- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
-- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
 
 # 📀 Top Albums
 
