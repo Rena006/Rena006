@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Kendrick Lamar** - *[Die Hard](https://www.last.fm/music/Kendrick+Lamar/_/Die+Hard)* (Now Playing)
-- **Geese** - *[Taxes](https://www.last.fm/music/Geese/_/Taxes)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
+- **Pedropiedra** - *[Vacaciones en el más allá](https://www.last.fm/music/Pedropiedra/_/Vacaciones+en+el+m%C3%A1s+all%C3%A1)*
+- **Blur** - *[Beetlebum - 2012 Remaster](https://www.last.fm/music/Blur/_/Beetlebum+-+2012+Remaster)*
+- **Wilco** - *[Jesus, Etc. - 2022 Remaster](https://www.last.fm/music/Wilco/_/Jesus,+Etc.+-+2022+Remaster)*
 - **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
-- **Blur** - *[Coffee & TV](https://www.last.fm/music/Blur/_/Coffee+&+TV)*
+- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
 
 # 📀 Top Albums
 
