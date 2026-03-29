@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)* (Now Playing)
+- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
+- **Soda Stereo** - *[Trátame Suavemente - Remasterizado 2007](https://www.last.fm/music/Soda+Stereo/_/Tr%C3%A1tame+Suavemente+-+Remasterizado+2007)*
+- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **Kanye West** - *[THIS A MUST](https://www.last.fm/music/Kanye+West/_/THIS+A+MUST)*
 - **Kanye West** - *[KING](https://www.last.fm/music/Kanye+West/_/KING)*
-- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
-- **Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)*
-- **Kendrick Lamar** - *[tv off (feat. Lefty Gunplay)](https://www.last.fm/music/Kendrick+Lamar/_/tv+off+(feat.+Lefty+Gunplay))*
-- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
 
 # 📀 Top Albums
 
