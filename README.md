@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
-- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
-- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
-- **Pedropiedra** - *[Vacaciones en el más allá](https://www.last.fm/music/Pedropiedra/_/Vacaciones+en+el+m%C3%A1s+all%C3%A1)*
+- **Kanye West** - *[KING](https://www.last.fm/music/Kanye+West/_/KING)*
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
+- **Lil Uzi Vert** - *[20 Min](https://www.last.fm/music/Lil+Uzi+Vert/_/20+Min)*
+- **Kendrick Lamar** - *[tv off (feat. Lefty Gunplay)](https://www.last.fm/music/Kendrick+Lamar/_/tv+off+(feat.+Lefty+Gunplay))*
+- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
 
 # 📀 Top Albums
 
