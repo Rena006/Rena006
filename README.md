@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Geese** - *[Husbands](https://www.last.fm/music/Geese/_/Husbands)* (Now Playing)
-- **Geese** - *[Cobra](https://www.last.fm/music/Geese/_/Cobra)*
-- **Geese** - *[Trinidad](https://www.last.fm/music/Geese/_/Trinidad)*
-- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
+- **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
+- **Geese** - *[Half Real](https://www.last.fm/music/Geese/_/Half+Real)*
+- **Geese** - *[100 Horses](https://www.last.fm/music/Geese/_/100+Horses)*
+- **Geese** - *[Islands of Men](https://www.last.fm/music/Geese/_/Islands+of+Men)*
+- **Geese** - *[Getting Killed](https://www.last.fm/music/Geese/_/Getting+Killed)*
 
 # 📀 Top Albums
 
