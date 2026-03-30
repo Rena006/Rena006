@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Geese** - *[Husbands](https://www.last.fm/music/Geese/_/Husbands)* (Now Playing)
+- **Geese** - *[Cobra](https://www.last.fm/music/Geese/_/Cobra)*
+- **Geese** - *[Trinidad](https://www.last.fm/music/Geese/_/Trinidad)*
 - **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
 - **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
 - **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
-- **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
-- **Javiera Mena** - *[Luz de Piedra de Luna](https://www.last.fm/music/Javiera+Mena/_/Luz+de+Piedra+de+Luna)*
 
 # 📀 Top Albums
 
