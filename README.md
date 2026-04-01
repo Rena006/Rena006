@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
-- **Geese** - *[Half Real](https://www.last.fm/music/Geese/_/Half+Real)*
-- **Geese** - *[100 Horses](https://www.last.fm/music/Geese/_/100+Horses)*
-- **Geese** - *[Islands of Men](https://www.last.fm/music/Geese/_/Islands+of+Men)*
-- **Geese** - *[Getting Killed](https://www.last.fm/music/Geese/_/Getting+Killed)*
+- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
+- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
+- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
+- **Pavement** - *[Stereo](https://www.last.fm/music/Pavement/_/Stereo)*
+- **Mac DeMarco** - *[Ode to Viceroy](https://www.last.fm/music/Mac+DeMarco/_/Ode+to+Viceroy)*
 
 # 📀 Top Albums
 
