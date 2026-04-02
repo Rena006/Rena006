@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
-- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
-- **Pavement** - *[Stereo](https://www.last.fm/music/Pavement/_/Stereo)*
-- **Mac DeMarco** - *[Ode to Viceroy](https://www.last.fm/music/Mac+DeMarco/_/Ode+to+Viceroy)*
+- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
+- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
+- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
+- **Bad Bunny** - *[Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)*
+- **Tyler, The Creator** - *[Sugar On My Tongue](https://www.last.fm/music/Tyler,+The+Creator/_/Sugar+On+My+Tongue)*
 
 # 📀 Top Albums
 
