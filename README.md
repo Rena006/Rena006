@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Homecoming](https://www.last.fm/music/Kanye+West/_/Homecoming)*
-- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
-- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
-- **Bad Bunny** - *[Neverita](https://www.last.fm/music/Bad+Bunny/_/Neverita)*
-- **Tyler, The Creator** - *[Sugar On My Tongue](https://www.last.fm/music/Tyler,+The+Creator/_/Sugar+On+My+Tongue)*
+- **Kanye West** - *[KING](https://www.last.fm/music/Kanye+West/_/KING)*
+- **Trippie Redd** - *[Miss The Rage](https://www.last.fm/music/Trippie+Redd/_/Miss+The+Rage)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
 
 # 📀 Top Albums
 
