@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Ice Cube** - *[It Was A Good Day](https://www.last.fm/music/Ice+Cube/_/It+Was+A+Good+Day)*
 - **Kanye West** - *[Champion](https://www.last.fm/music/Kanye+West/_/Champion)*
 - **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
-- **Kanye West** - *[WHITE LINES (feat. Andre Troutman)](https://www.last.fm/music/Kanye+West/_/WHITE+LINES+(feat.+Andre+Troutman))*
-- **Kanye West** - *[BULLY (feat. Ceelo Green)](https://www.last.fm/music/Kanye+West/_/BULLY+(feat.+Ceelo+Green))*
-- **Kanye West** - *[All The Love (feat. Andre Troutman)](https://www.last.fm/music/Kanye+West/_/All+The+Love+(feat.+Andre+Troutman))*
 
 # 📀 Top Albums
 
