@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)* (Now Playing)
+- **Kanye West** - *[Touch the Sky](https://www.last.fm/music/Kanye+West/_/Touch+the+Sky)*
+- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
+- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
+- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
 - **Peggy Gou** - *[(It Goes Like) Nanana - Edit](https://www.last.fm/music/Peggy+Gou/_/(It+Goes+Like)+Nanana+-+Edit)*
-- **Ca7riel & Paco Amoroso** - *[BABY GANGSTA](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/BABY+GANGSTA)*
-- **Tame Impala** - *[Feels Like We Only Go Backwards](https://www.last.fm/music/Tame+Impala/_/Feels+Like+We+Only+Go+Backwards)*
-- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
 
 # 📀 Top Albums
 
