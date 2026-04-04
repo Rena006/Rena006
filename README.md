@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Touch the Sky](https://www.last.fm/music/Kanye+West/_/Touch+the+Sky)*
-- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
-- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
-- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
-- **Peggy Gou** - *[(It Goes Like) Nanana - Edit](https://www.last.fm/music/Peggy+Gou/_/(It+Goes+Like)+Nanana+-+Edit)*
+- **Kanye West** - *[WHITE LINES (feat. Andre Troutman)](https://www.last.fm/music/Kanye+West/_/WHITE+LINES+(feat.+Andre+Troutman))*
+- **Kanye West** - *[I CAN’T WAIT](https://www.last.fm/music/Kanye+West/_/I+CAN%E2%80%99T+WAIT)*
+- **Kanye West** - *[Highs and Lows](https://www.last.fm/music/Kanye+West/_/Highs+and+Lows)*
+- **Kanye West** - *[BULLY (feat. Ceelo Green)](https://www.last.fm/music/Kanye+West/_/BULLY+(feat.+Ceelo+Green))*
+- **Kanye West** - *[Sisters and Brothers](https://www.last.fm/music/Kanye+West/_/Sisters+and+Brothers)*
 
 # 📀 Top Albums
 
