@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[WHITE LINES (feat. Andre Troutman)](https://www.last.fm/music/Kanye+West/_/WHITE+LINES+(feat.+Andre+Troutman))*
-- **Kanye West** - *[I CAN’T WAIT](https://www.last.fm/music/Kanye+West/_/I+CAN%E2%80%99T+WAIT)*
-- **Kanye West** - *[Highs and Lows](https://www.last.fm/music/Kanye+West/_/Highs+and+Lows)*
-- **Kanye West** - *[BULLY (feat. Ceelo Green)](https://www.last.fm/music/Kanye+West/_/BULLY+(feat.+Ceelo+Green))*
-- **Kanye West** - *[Sisters and Brothers](https://www.last.fm/music/Kanye+West/_/Sisters+and+Brothers)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **Kendrick Lamar** - *[Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)*
+- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
+- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
+- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
 
 # 📀 Top Albums
 
