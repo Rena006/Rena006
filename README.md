@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
-- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **Teleradio Donoso** - *[Eras mi persona favorita](https://www.last.fm/music/Teleradio+Donoso/_/Eras+mi+persona+favorita)*
+- **Javiera Mena** - *[Yo no te pido la luna](https://www.last.fm/music/Javiera+Mena/_/Yo+no+te+pido+la+luna)*
+- **Pedropiedra** - *[Inteligencia Dormida](https://www.last.fm/music/Pedropiedra/_/Inteligencia+Dormida)*
+- **Teleradio Donoso** - *[Amar en el campo](https://www.last.fm/music/Teleradio+Donoso/_/Amar+en+el+campo)*
+- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
 
 # 📀 Top Albums
 
