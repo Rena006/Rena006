@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Teleradio Donoso** - *[Eras mi persona favorita](https://www.last.fm/music/Teleradio+Donoso/_/Eras+mi+persona+favorita)*
-- **Javiera Mena** - *[Yo no te pido la luna](https://www.last.fm/music/Javiera+Mena/_/Yo+no+te+pido+la+luna)*
-- **Pedropiedra** - *[Inteligencia Dormida](https://www.last.fm/music/Pedropiedra/_/Inteligencia+Dormida)*
-- **Teleradio Donoso** - *[Amar en el campo](https://www.last.fm/music/Teleradio+Donoso/_/Amar+en+el+campo)*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
+- **Teleradio Donoso** - *[éramos todos felices](https://www.last.fm/music/Teleradio+Donoso/_/%C3%A9ramos+todos+felices)*
+- **Javiera Mena** - *[Luz de Piedra de Luna](https://www.last.fm/music/Javiera+Mena/_/Luz+de+Piedra+de+Luna)*
+- **Pedropiedra** - *[Vacaciones en el más allá](https://www.last.fm/music/Pedropiedra/_/Vacaciones+en+el+m%C3%A1s+all%C3%A1)*
+- **Pedropiedra** - *[Vacaciones en el más allá](https://www.last.fm/music/Pedropiedra/_/Vacaciones+en+el+m%C3%A1s+all%C3%A1)*
 
 # 📀 Top Albums
 
