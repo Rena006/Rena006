@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Strokes** - *[Soma](https://www.last.fm/music/The+Strokes/_/Soma)* (Now Playing)
+- **The Strokes** - *[Soma](https://www.last.fm/music/The+Strokes/_/Soma)*
 - **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 - **Blur** - *[The Universal - 2012 Remaster](https://www.last.fm/music/Blur/_/The+Universal+-+2012+Remaster)*
 - **The Smiths** - *[Heaven Knows I'm Miserable Now - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Heaven+Knows+I%27m+Miserable+Now+-+2011+Remaster)*
 - **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
 
 # 📀 Top Albums
 
