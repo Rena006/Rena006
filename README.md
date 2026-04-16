@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
-- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
-- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
-- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
-- **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
+- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
+- **高中正義** - *[伊豆甘夏納豆売り](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/%E4%BC%8A%E8%B1%86%E7%94%98%E5%A4%8F%E7%B4%8D%E8%B1%86%E5%A3%B2%E3%82%8A)*
+- **高中正義** - *[FUNKY HOLO HOLO BIRD](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/FUNKY+HOLO+HOLO+BIRD)*
+- **Masayoshi Takanaka** - *[DISCO “B”](https://www.last.fm/music/Masayoshi+Takanaka/_/DISCO+%E2%80%9CB%E2%80%9D)*
+- **高中正義** - *[I REMEMBER CLIFFORD](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/I+REMEMBER+CLIFFORD)*
 
 # 📀 Top Albums
 
