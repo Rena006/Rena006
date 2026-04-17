@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)* (Now Playing)
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 - **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
 - **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
 - **Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)*
-- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
-- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
 
 # 📀 Top Albums
 
