@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Massive Attack** - *[Blue Lines](https://www.last.fm/music/Massive+Attack/_/Blue+Lines)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Geese** - *[Cobra](https://www.last.fm/music/Geese/_/Cobra)*
-- **The Flaming Lips** - *[Do You Realize??](https://www.last.fm/music/The+Flaming+Lips/_/Do+You+Realize%3F%3F)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Ariel Pink** - *[Another Weekend](https://www.last.fm/music/Ariel+Pink/_/Another+Weekend)*
+- **Billy Idol** - *[Eyes Without a Face](https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face)*
+- **Ca7riel & Paco Amoroso** - *[EL DÍA DEL AMIGO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+D%C3%8DA+DEL+AMIGO)*
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
+- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
 
 # 📀 Top Albums
 
