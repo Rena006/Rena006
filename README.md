@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Gativideo** - *[Efecto Mandela](https://www.last.fm/music/Gativideo/_/Efecto+Mandela)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Kanye West** - *[Touch the Sky](https://www.last.fm/music/Kanye+West/_/Touch+the+Sky)*
-- **Geese** - *[Trinidad](https://www.last.fm/music/Geese/_/Trinidad)*
+- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
+- **Los Tres** - *[Un Amor Violento](https://www.last.fm/music/Los+Tres/_/Un+Amor+Violento)*
+- **Los Tres** - *[He Barrido el Sol](https://www.last.fm/music/Los+Tres/_/He+Barrido+el+Sol)*
+- **Teleradio Donoso** - *[Amar en el campo](https://www.last.fm/music/Teleradio+Donoso/_/Amar+en+el+campo)*
+- **Michael Jackson** - *[Off the Wall](https://www.last.fm/music/Michael+Jackson/_/Off+the+Wall)*
 
 # 📀 Top Albums
 
