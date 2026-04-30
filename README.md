@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Ariel Pink** - *[Another Weekend](https://www.last.fm/music/Ariel+Pink/_/Another+Weekend)*
-- **Billy Idol** - *[Eyes Without a Face](https://www.last.fm/music/Billy+Idol/_/Eyes+Without+a+Face)*
-- **Ca7riel & Paco Amoroso** - *[EL DÍA DEL AMIGO](https://www.last.fm/music/Ca7riel+&+Paco+Amoroso/_/EL+D%C3%8DA+DEL+AMIGO)*
-- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
-- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
+- **Geese** - *[Trinidad](https://www.last.fm/music/Geese/_/Trinidad)*
+- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
+- **Kanye West** - *[Can't Tell Me Nothing](https://www.last.fm/music/Kanye+West/_/Can%27t+Tell+Me+Nothing)*
+- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
+- **Kendrick Lamar** - *[Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)*
 
 # 📀 Top Albums
 
