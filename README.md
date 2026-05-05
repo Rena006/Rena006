@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
-- **Los Tres** - *[Un Amor Violento](https://www.last.fm/music/Los+Tres/_/Un+Amor+Violento)*
-- **Los Tres** - *[He Barrido el Sol](https://www.last.fm/music/Los+Tres/_/He+Barrido+el+Sol)*
-- **Teleradio Donoso** - *[Amar en el campo](https://www.last.fm/music/Teleradio+Donoso/_/Amar+en+el+campo)*
-- **Michael Jackson** - *[Off the Wall](https://www.last.fm/music/Michael+Jackson/_/Off+the+Wall)*
+- **Armand Hammer** - *[Falling Out the Sky](https://www.last.fm/music/Armand+Hammer/_/Falling+Out+the+Sky)*
+- **Metro Boomin** - *[Too Many Nights (feat. Don Toliver & with Future)](https://www.last.fm/music/Metro+Boomin/_/Too+Many+Nights+(feat.+Don+Toliver+&+with+Future))*
+- **Panchiko** - *[Ginkgo](https://www.last.fm/music/Panchiko/_/Ginkgo)*
+- **Black Country, New Road** - *[Intro](https://www.last.fm/music/Black+Country,+New+Road/_/Intro)*
+- **Bad Bunny** - *[NUEVAYoL](https://www.last.fm/music/Bad+Bunny/_/NUEVAYoL)*
 
 # 📀 Top Albums
 
