@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)* (Now Playing)
-- **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
-- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
-- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
-- **Kendrick Lamar** - *[tv off (feat. Lefty Gunplay)](https://www.last.fm/music/Kendrick+Lamar/_/tv+off+(feat.+Lefty+Gunplay))*
-- **Tyler, The Creator** - *[Sugar On My Tongue](https://www.last.fm/music/Tyler,+The+Creator/_/Sugar+On+My+Tongue)*
+- **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
+- **高中正義** - *[Oh! Tengo Suerte](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Oh!+Tengo+Suerte)*
+- **Geese** - *[Taxes](https://www.last.fm/music/Geese/_/Taxes)*
+- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
+- **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
 
 # 📀 Top Albums
 
