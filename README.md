@@ -7,6 +7,7 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Aphex Twin** - *[Xtal](https://www.last.fm/music/Aphex+Twin/_/Xtal)* (Now Playing)
 - **Tyler, The Creator** - *[ARE WE STILL FRIENDS?](https://www.last.fm/music/Tyler,+The+Creator/_/ARE+WE+STILL+FRIENDS%3F)*
 - **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
 - **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
