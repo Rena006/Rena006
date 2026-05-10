@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Teleradio Donoso** - *[Amar en el campo](https://www.last.fm/music/Teleradio+Donoso/_/Amar+en+el+campo)* (Now Playing)
+- **Teleradio Donoso** - *[Eras mi persona favorita](https://www.last.fm/music/Teleradio+Donoso/_/Eras+mi+persona+favorita)*
+- **Javiera Mena** - *[El Amanecer](https://www.last.fm/music/Javiera+Mena/_/El+Amanecer)*
+- **Teleradio Donoso** - *[Amar en el campo](https://www.last.fm/music/Teleradio+Donoso/_/Amar+en+el+campo)*
 - **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
 - **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
-- **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
-- **Black Country, New Road** - *[Intro](https://www.last.fm/music/Black+Country,+New+Road/_/Intro)*
-- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
 
 # 📀 Top Albums
 
