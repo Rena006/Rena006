@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Fleetwood Mac** - *[Dreams - 2004 Remaster](https://www.last.fm/music/Fleetwood+Mac/_/Dreams+-+2004+Remaster)*
-- **高中正義** - *[Oh! Tengo Suerte](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/Oh!+Tengo+Suerte)*
-- **Geese** - *[Taxes](https://www.last.fm/music/Geese/_/Taxes)*
-- **Ariel Pink** - *[Lipstick](https://www.last.fm/music/Ariel+Pink/_/Lipstick)*
-- **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
+- **🎵 Teleradio Donoso** - *[Amar en el campo](https://www.last.fm/music/Teleradio+Donoso/_/Amar+en+el+campo)* (Now Playing)
+- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
+- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Kendrick Lamar** - *[N95](https://www.last.fm/music/Kendrick+Lamar/_/N95)*
+- **Black Country, New Road** - *[Intro](https://www.last.fm/music/Black+Country,+New+Road/_/Intro)*
+- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
 
 # 📀 Top Albums
 
