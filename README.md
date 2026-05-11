@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Teleradio Donoso** - *[Eras mi persona favorita](https://www.last.fm/music/Teleradio+Donoso/_/Eras+mi+persona+favorita)*
-- **Javiera Mena** - *[El Amanecer](https://www.last.fm/music/Javiera+Mena/_/El+Amanecer)*
-- **Teleradio Donoso** - *[Amar en el campo](https://www.last.fm/music/Teleradio+Donoso/_/Amar+en+el+campo)*
-- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
-- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Playboi Carti** - *[ILoveUIHateU](https://www.last.fm/music/Playboi+Carti/_/ILoveUIHateU)*
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **Kendrick Lamar** - *[Alright](https://www.last.fm/music/Kendrick+Lamar/_/Alright)*
+- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
+- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
 
 # 📀 Top Albums
 
