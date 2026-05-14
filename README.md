@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
-- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
-- **Soda Stereo** - *[Trátame Suavemente - Remasterizado 2007](https://www.last.fm/music/Soda+Stereo/_/Tr%C3%A1tame+Suavemente+-+Remasterizado+2007)*
-- **Stan Getz** - *[The Girl From Ipanema](https://www.last.fm/music/Stan+Getz/_/The+Girl+From+Ipanema)*
-- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
+- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
+- **The Flaming Lips** - *[Do You Realize??](https://www.last.fm/music/The+Flaming+Lips/_/Do+You+Realize%3F%3F)*
+- **Tyler, The Creator** - *[GONE, GONE / THANK YOU](https://www.last.fm/music/Tyler,+The+Creator/_/GONE,+GONE+%2F+THANK+YOU)*
+- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
+- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
 
 # 📀 Top Albums
 
