@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
-- **The Flaming Lips** - *[Do You Realize??](https://www.last.fm/music/The+Flaming+Lips/_/Do+You+Realize%3F%3F)*
-- **Tyler, The Creator** - *[GONE, GONE / THANK YOU](https://www.last.fm/music/Tyler,+The+Creator/_/GONE,+GONE+%2F+THANK+YOU)*
-- **Tyler, The Creator** - *[WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign)](https://www.last.fm/music/Tyler,+The+Creator/_/WUSYANAME+(feat.+Youngboy+Never+Broke+Again+&+Ty+Dolla+$ign))*
-- **Pulp** - *[Do You Remember the First Time?](https://www.last.fm/music/Pulp/_/Do+You+Remember+the+First+Time%3F)*
+- **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
+- **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
+- **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
+- **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
+- **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
 
 # 📀 Top Albums
 
