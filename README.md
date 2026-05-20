@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)* (Now Playing)
+- **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
 - **Aphex Twin** - *[i](https://www.last.fm/music/Aphex+Twin/_/i)*
 - **Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)*
 - **Aphex Twin** - *[Pulsewidth](https://www.last.fm/music/Aphex+Twin/_/Pulsewidth)*
 - **Aphex Twin** - *[Tha](https://www.last.fm/music/Aphex+Twin/_/Tha)*
-- **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
 
 # 📀 Top Albums
 
