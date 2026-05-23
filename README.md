@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)* (Now Playing)
 - **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 - **Tame Impala** - *[Alter Ego](https://www.last.fm/music/Tame+Impala/_/Alter+Ego)*
 - **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
