@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
+- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
 - **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
 - **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
 - **Pavement** - *[Harness Your Hopes - b-side](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side)*
-- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
-- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
 
 # 📀 Top Albums
 
