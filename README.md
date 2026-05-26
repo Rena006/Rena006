@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Mac DeMarco** - *[Heart to Heart](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart)*
+- **JPEGMAFIA** - *[War Over Land](https://www.last.fm/music/JPEGMAFIA/_/War+Over+Land)*
+- **JPEGMAFIA** - *[War Over Land](https://www.last.fm/music/JPEGMAFIA/_/War+Over+Land)*
+- **JPEGMAFIA** - *[Degenerates Prayer](https://www.last.fm/music/JPEGMAFIA/_/Degenerates+Prayer)*
 - **JPEGMAFIA** - *[head](https://www.last.fm/music/JPEGMAFIA/_/head)*
-- **JPEGMAFIA** - *[Meet the Dealers](https://www.last.fm/music/JPEGMAFIA/_/Meet+the+Dealers)*
-- **JPEGMAFIA** - *[Pop This Heat](https://www.last.fm/music/JPEGMAFIA/_/Pop+This+Heat)*
-- **JPEGMAFIA** - *[$ (Money)](https://www.last.fm/music/JPEGMAFIA/_/$+(Money))*
-- **JPEGMAFIA** - *[Burning Hammer](https://www.last.fm/music/JPEGMAFIA/_/Burning+Hammer)*
 
 # 📀 Top Albums
 
