@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)*
-- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
-- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
-- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
-- **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
+- **JPEGMAFIA** - *[head](https://www.last.fm/music/JPEGMAFIA/_/head)*
+- **JPEGMAFIA** - *[Meet the Dealers](https://www.last.fm/music/JPEGMAFIA/_/Meet+the+Dealers)*
+- **JPEGMAFIA** - *[Pop This Heat](https://www.last.fm/music/JPEGMAFIA/_/Pop+This+Heat)*
+- **JPEGMAFIA** - *[$ (Money)](https://www.last.fm/music/JPEGMAFIA/_/$+(Money))*
+- **JPEGMAFIA** - *[Burning Hammer](https://www.last.fm/music/JPEGMAFIA/_/Burning+Hammer)*
 
 # 📀 Top Albums
 
