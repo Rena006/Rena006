@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
-- **Mac DeMarco** - *[Heart to Heart](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart)*
-- **JPEGMAFIA** - *[War Over Land](https://www.last.fm/music/JPEGMAFIA/_/War+Over+Land)*
-- **JPEGMAFIA** - *[War Over Land](https://www.last.fm/music/JPEGMAFIA/_/War+Over+Land)*
-- **JPEGMAFIA** - *[Degenerates Prayer](https://www.last.fm/music/JPEGMAFIA/_/Degenerates+Prayer)*
+- **The Cure** - *[Friday I'm in Love](https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love)*
+- **Blur** - *[The Universal - 2012 Remaster](https://www.last.fm/music/Blur/_/The+Universal+-+2012+Remaster)*
+- **The Smiths** - *[There Is a Light That Never Goes Out - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/There+Is+a+Light+That+Never+Goes+Out+-+2011+Remaster)*
+- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
+- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 
 # 📀 Top Albums
 
