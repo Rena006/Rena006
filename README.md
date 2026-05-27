@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **The Beach Boys** - *[Wouldn't It Be Nice](https://www.last.fm/music/The+Beach+Boys/_/Wouldn%27t+It+Be+Nice)*
+- **TV Girl** - *[Loving Machine](https://www.last.fm/music/TV+Girl/_/Loving+Machine)*
 - **The Cure** - *[Friday I'm in Love](https://www.last.fm/music/The+Cure/_/Friday+I%27m+in+Love)*
 - **Blur** - *[The Universal - 2012 Remaster](https://www.last.fm/music/Blur/_/The+Universal+-+2012+Remaster)*
 - **The Smiths** - *[There Is a Light That Never Goes Out - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/There+Is+a+Light+That+Never+Goes+Out+-+2011+Remaster)*
-- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
-- **Cocteau Twins** - *[Cherry-Coloured Funk](https://www.last.fm/music/Cocteau+Twins/_/Cherry-Coloured+Funk)*
 
 # 📀 Top Albums
 
