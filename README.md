@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Aphex Twin** - *[Ageispolis](https://www.last.fm/music/Aphex+Twin/_/Ageispolis)* (Now Playing)
-- **Daft Punk** - *[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas))*
-- **高中正義** - *[BELEZA PULA](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BELEZA+PULA)*
-- **The Flaming Lips** - *[Do You Realize??](https://www.last.fm/music/The+Flaming+Lips/_/Do+You+Realize%3F%3F)*
-- **Fishmans** - *[BABY BLUE](https://www.last.fm/music/Fishmans/_/BABY+BLUE)*
-- **Gorillaz** - *[Tomorrow Comes Today](https://www.last.fm/music/Gorillaz/_/Tomorrow+Comes+Today)*
+- **高中正義** - *[BRASILIAN SKIES](https://www.last.fm/music/%E9%AB%98%E4%B8%AD%E6%AD%A3%E7%BE%A9/_/BRASILIAN+SKIES)*
+- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
+- **Mac DeMarco** - *[Heart to Heart](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart)*
+- **Kanye West** - *[Devil in a New Dress](https://www.last.fm/music/Kanye+West/_/Devil+in+a+New+Dress)*
+- **Aphex Twin** - *[Heliosphan](https://www.last.fm/music/Aphex+Twin/_/Heliosphan)*
 
 # 📀 Top Albums
 
