@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
-- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
-- **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
+- **🎵 The Strokes** - *[Why Are Sundays So Depressing](https://www.last.fm/music/The+Strokes/_/Why+Are+Sundays+So+Depressing)* (Now Playing)
+- **The Strokes** - *[At the Door](https://www.last.fm/music/The+Strokes/_/At+the+Door)*
+- **The Strokes** - *[Eternal Summer](https://www.last.fm/music/The+Strokes/_/Eternal+Summer)*
+- **The Strokes** - *[Bad Decisions](https://www.last.fm/music/The+Strokes/_/Bad+Decisions)*
+- **The Strokes** - *[Brooklyn Bridge to Chorus](https://www.last.fm/music/The+Strokes/_/Brooklyn+Bridge+to+Chorus)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 
 # 📀 Top Albums
 
