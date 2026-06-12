@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
+- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
 - **Japanese Breakfast** - *[Be Sweet](https://www.last.fm/music/Japanese+Breakfast/_/Be+Sweet)*
-- **Michael Jackson** - *[Off the Wall](https://www.last.fm/music/Michael+Jackson/_/Off+the+Wall)*
-- **MF DOOM** - *[Rapp Snitch Knishes](https://www.last.fm/music/MF+DOOM/_/Rapp+Snitch+Knishes)*
-- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
-- **Drake** - *[Passionfruit](https://www.last.fm/music/Drake/_/Passionfruit)*
 
 # 📀 Top Albums
 
