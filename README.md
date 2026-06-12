@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Strokes** - *[Why Are Sundays So Depressing](https://www.last.fm/music/The+Strokes/_/Why+Are+Sundays+So+Depressing)* (Now Playing)
+- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
+- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
+- **The Strokes** - *[Not the Same Anymore](https://www.last.fm/music/The+Strokes/_/Not+the+Same+Anymore)*
+- **The Strokes** - *[Why Are Sundays So Depressing](https://www.last.fm/music/The+Strokes/_/Why+Are+Sundays+So+Depressing)*
 - **The Strokes** - *[At the Door](https://www.last.fm/music/The+Strokes/_/At+the+Door)*
-- **The Strokes** - *[Eternal Summer](https://www.last.fm/music/The+Strokes/_/Eternal+Summer)*
-- **The Strokes** - *[Bad Decisions](https://www.last.fm/music/The+Strokes/_/Bad+Decisions)*
-- **The Strokes** - *[Brooklyn Bridge to Chorus](https://www.last.fm/music/The+Strokes/_/Brooklyn+Bridge+to+Chorus)*
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
 
 # 📀 Top Albums
 
