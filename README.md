@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
-- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
-- **Pavement** - *[Harness Your Hopes - b-side](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side)*
-- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
-- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
+- **Daniel Lopatin** - *[Marty’s Dream](https://www.last.fm/music/Daniel+Lopatin/_/Marty%E2%80%99s+Dream)*
+- **Kanye West** - *[PUNCH DRUNK](https://www.last.fm/music/Kanye+West/_/PUNCH+DRUNK)*
+- **Black Country, New Road** - *[Intro](https://www.last.fm/music/Black+Country,+New+Road/_/Intro)*
+- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
+- **Tyler, The Creator** - *[HOT WIND BLOWS (feat. Lil Wayne)](https://www.last.fm/music/Tyler,+The+Creator/_/HOT+WIND+BLOWS+(feat.+Lil+Wayne))*
 
 # 📀 Top Albums
 
