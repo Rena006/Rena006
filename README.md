@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
+- **Pavement** - *[Harness Your Hopes - b-side](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side)*
 - **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
 - **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
-- **The Strokes** - *[Not the Same Anymore](https://www.last.fm/music/The+Strokes/_/Not+the+Same+Anymore)*
-- **The Strokes** - *[Why Are Sundays So Depressing](https://www.last.fm/music/The+Strokes/_/Why+Are+Sundays+So+Depressing)*
-- **The Strokes** - *[At the Door](https://www.last.fm/music/The+Strokes/_/At+the+Door)*
 
 # 📀 Top Albums
 
