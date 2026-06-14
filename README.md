@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Daniel Lopatin** - *[Marty’s Dream](https://www.last.fm/music/Daniel+Lopatin/_/Marty%E2%80%99s+Dream)*
-- **Kanye West** - *[PUNCH DRUNK](https://www.last.fm/music/Kanye+West/_/PUNCH+DRUNK)*
-- **Black Country, New Road** - *[Intro](https://www.last.fm/music/Black+Country,+New+Road/_/Intro)*
-- **PinkPantheress** - *[Tonight](https://www.last.fm/music/PinkPantheress/_/Tonight)*
-- **Tyler, The Creator** - *[HOT WIND BLOWS (feat. Lil Wayne)](https://www.last.fm/music/Tyler,+The+Creator/_/HOT+WIND+BLOWS+(feat.+Lil+Wayne))*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Geese** - *[Taxes](https://www.last.fm/music/Geese/_/Taxes)*
+- **Peggy Gou** - *[(It Goes Like) Nanana - Edit](https://www.last.fm/music/Peggy+Gou/_/(It+Goes+Like)+Nanana+-+Edit)*
+- **chelmico** - *[Disco (Bad Dance Doesn't Matter)](https://www.last.fm/music/chelmico/_/Disco+(Bad+Dance+Doesn%27t+Matter))*
+- **Metro Boomin** - *[Too Many Nights (feat. Don Toliver & with Future)](https://www.last.fm/music/Metro+Boomin/_/Too+Many+Nights+(feat.+Don+Toliver+&+with+Future))*
 
 # 📀 Top Albums
 
