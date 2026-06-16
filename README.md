@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)* (Now Playing)
 - **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
 - **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
 - **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
