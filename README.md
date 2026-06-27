@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Blur** - *[Beetlebum - 2012 Remaster](https://www.last.fm/music/Blur/_/Beetlebum+-+2012+Remaster)*
 - **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
 - **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
+- **Oliver Tree** - *[with you](https://www.last.fm/music/Oliver+Tree/_/with+you)*
 - **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
-- **Oliver Tree** - *[Alien Boy](https://www.last.fm/music/Oliver+Tree/_/Alien+Boy)*
-- **Crystal Castles** - *[Not In Love - Radio Version](https://www.last.fm/music/Crystal+Castles/_/Not+In+Love+-+Radio+Version)*
 
 # 📀 Top Albums
 
