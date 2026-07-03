@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **🎵 The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)* (Now Playing)
+- **Oliver Tree** - *[Life Goes On](https://www.last.fm/music/Oliver+Tree/_/Life+Goes+On)*
 - **Blur** - *[Beetlebum - 2012 Remaster](https://www.last.fm/music/Blur/_/Beetlebum+-+2012+Remaster)*
 - **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
 - **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
 - **Oliver Tree** - *[with you](https://www.last.fm/music/Oliver+Tree/_/with+you)*
-- **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
 
 # 📀 Top Albums
 
