@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
+- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
 - **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
 - **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
 - **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
-- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
-- **Pavement** - *[Harness Your Hopes - b-side](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+b-side)*
 
 # 📀 Top Albums
 
