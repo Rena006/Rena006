@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
-- **Kanye West** - *[Stronger](https://www.last.fm/music/Kanye+West/_/Stronger)*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
-- **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
-- **Pixies** - *[Here Comes Your Man](https://www.last.fm/music/Pixies/_/Here+Comes+Your+Man)*
+- **The Smashing Pumpkins** - *[1979 - Remastered 2012](https://www.last.fm/music/The+Smashing+Pumpkins/_/1979+-+Remastered+2012)*
+- **Blur** - *[Girls & Boys](https://www.last.fm/music/Blur/_/Girls+&+Boys)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Mac DeMarco** - *[Heart to Heart](https://www.last.fm/music/Mac+DeMarco/_/Heart+to+Heart)*
+- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
 
 # 📀 Top Albums
 
