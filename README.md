@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
 - **Metronomy** - *[The Look](https://www.last.fm/music/Metronomy/_/The+Look)*
 - **Ariel Pink** - *[Dayzed Inn Daydreams](https://www.last.fm/music/Ariel+Pink/_/Dayzed+Inn+Daydreams)*
 - **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
 - **Turnstile** - *[ALIEN LOVE CALL](https://www.last.fm/music/Turnstile/_/ALIEN+LOVE+CALL)*
-- **The Smashing Pumpkins** - *[1979 - Remastered 2012](https://www.last.fm/music/The+Smashing+Pumpkins/_/1979+-+Remastered+2012)*
 
 # 📀 Top Albums
 
