@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
 - **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
-- **Kanye West** - *[Ghost Town](https://www.last.fm/music/Kanye+West/_/Ghost+Town)*
-- **Beach House** - *[Lazuli](https://www.last.fm/music/Beach+House/_/Lazuli)*
-- **Metronomy** - *[The Look](https://www.last.fm/music/Metronomy/_/The+Look)*
+- **The Smiths** - *[Please, Please, Please, Let Me Get What I Want - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/Please,+Please,+Please,+Let+Me+Get+What+I+Want+-+2011+Remaster)*
+- **Daft Punk** - *[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas))*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
 
 # 📀 Top Albums
 
