@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)* (Now Playing)
 - **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
 - **Tyler, The Creator** - *[Sugar On My Tongue](https://www.last.fm/music/Tyler,+The+Creator/_/Sugar+On+My+Tongue)*
 - **Aphex Twin** - *[Carn Marth](https://www.last.fm/music/Aphex+Twin/_/Carn+Marth)*
