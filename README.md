@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
-- **Tyler, The Creator** - *[Sugar On My Tongue](https://www.last.fm/music/Tyler,+The+Creator/_/Sugar+On+My+Tongue)*
-- **Aphex Twin** - *[Carn Marth](https://www.last.fm/music/Aphex+Twin/_/Carn+Marth)*
+- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
+- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
 - **Aphex Twin** - *[Fingerbib](https://www.last.fm/music/Aphex+Twin/_/Fingerbib)*
-- **Japanese Breakfast** - *[The Woman That Loves You](https://www.last.fm/music/Japanese+Breakfast/_/The+Woman+That+Loves+You)*
+- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
 
 # 📀 Top Albums
 
