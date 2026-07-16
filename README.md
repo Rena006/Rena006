@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Baby Keem** - *[family ties (with Kendrick Lamar)](https://www.last.fm/music/Baby+Keem/_/family+ties+(with+Kendrick+Lamar))*
-- **Kanye West** - *[I Wonder](https://www.last.fm/music/Kanye+West/_/I+Wonder)*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
-- **Aphex Twin** - *[Fingerbib](https://www.last.fm/music/Aphex+Twin/_/Fingerbib)*
-- **Mac DeMarco** - *[Freaking Out the Neighborhood](https://www.last.fm/music/Mac+DeMarco/_/Freaking+Out+the+Neighborhood)*
+- **🎵 The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)* (Now Playing)
+- **The Beach Boys** - *[Caroline, No](https://www.last.fm/music/The+Beach+Boys/_/Caroline,+No)*
+- **The Beach Boys** - *[God Only Knows](https://www.last.fm/music/The+Beach+Boys/_/God+Only+Knows)*
+- **Black Moth Super Rainbow** - *[Smile The Day After Today](https://www.last.fm/music/Black+Moth+Super+Rainbow/_/Smile+The+Day+After+Today)*
+- **The Durutti Column** - *[Sketch for Summer](https://www.last.fm/music/The+Durutti+Column/_/Sketch+for+Summer)*
+- **ESPRIT 空想** - *[Warmpop](https://www.last.fm/music/ESPRIT+%E7%A9%BA%E6%83%B3/_/Warmpop)*
 
 # 📀 Top Albums
 
