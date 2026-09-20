@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Charli xcx** - *[Used to Know Me](https://www.last.fm/music/Charli+xcx/_/Used+to+Know+Me)*
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **Tommy february6** - *[I ONLY WANT TO BE WITH YOU](https://www.last.fm/music/Tommy+february6/_/I+ONLY+WANT+TO+BE+WITH+YOU)*
-- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
-- **The Beach Boys** - *[Caroline, No](https://www.last.fm/music/The+Beach+Boys/_/Caroline,+No)*
+- **🎵 The Drums** - *[Days](https://www.last.fm/music/The+Drums/_/Days)* (Now Playing)
+- **Joy Again** - *[Looking Out For You](https://www.last.fm/music/Joy+Again/_/Looking+Out+For+You)*
+- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
+- **Mac DeMarco** - *[For the First Time](https://www.last.fm/music/Mac+DeMarco/_/For+the+First+Time)*
+- **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
+- **Tame Impala** - *[Why Won't They Talk to Me?](https://www.last.fm/music/Tame+Impala/_/Why+Won%27t+They+Talk+to+Me%3F)*
 
 # 📀 Top Albums
 
