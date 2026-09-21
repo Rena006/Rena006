@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Drums** - *[Days](https://www.last.fm/music/The+Drums/_/Days)* (Now Playing)
+- **The Drums** - *[Days](https://www.last.fm/music/The+Drums/_/Days)*
 - **Joy Again** - *[Looking Out For You](https://www.last.fm/music/Joy+Again/_/Looking+Out+For+You)*
 - **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
 - **Mac DeMarco** - *[For the First Time](https://www.last.fm/music/Mac+DeMarco/_/For+the+First+Time)*
 - **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
-- **Tame Impala** - *[Why Won't They Talk to Me?](https://www.last.fm/music/Tame+Impala/_/Why+Won%27t+They+Talk+to+Me%3F)*
 
 # 📀 Top Albums
 
