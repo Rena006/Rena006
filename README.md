@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Ariel Pink** - *[Feels Like Heaven](https://www.last.fm/music/Ariel+Pink/_/Feels+Like+Heaven)*
-- **The Drums** - *[Days](https://www.last.fm/music/The+Drums/_/Days)*
 - **Joy Again** - *[Looking Out For You](https://www.last.fm/music/Joy+Again/_/Looking+Out+For+You)*
+- **Metronomy** - *[The Look](https://www.last.fm/music/Metronomy/_/The+Look)*
+- **The Drums** - *[Money](https://www.last.fm/music/The+Drums/_/Money)*
+- **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
+- **Geese** - *[Cobra](https://www.last.fm/music/Geese/_/Cobra)*
 
 # 📀 Top Albums
 
