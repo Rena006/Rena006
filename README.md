@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Joy Again** - *[Looking Out For You](https://www.last.fm/music/Joy+Again/_/Looking+Out+For+You)*
-- **Metronomy** - *[The Look](https://www.last.fm/music/Metronomy/_/The+Look)*
-- **The Drums** - *[Money](https://www.last.fm/music/The+Drums/_/Money)*
-- **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
+- **Geese** - *[I See Myself](https://www.last.fm/music/Geese/_/I+See+Myself)*
+- **Geese** - *[Taxes](https://www.last.fm/music/Geese/_/Taxes)*
 - **Geese** - *[Cobra](https://www.last.fm/music/Geese/_/Cobra)*
+- **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
+- **Geese** - *[Taxes](https://www.last.fm/music/Geese/_/Taxes)*
 
 # 📀 Top Albums
 
