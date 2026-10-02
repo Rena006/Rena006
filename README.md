@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Marcos Valle** - *[Samba de Verão](https://www.last.fm/music/Marcos+Valle/_/Samba+de+Ver%C3%A3o)*
-- **Antônio Carlos Jobim** - *[A Felicidade](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/A+Felicidade)*
-- **Stan Getz** - *[Samba Da Minha Terra - Live At Carnegie Hall/1964](https://www.last.fm/music/Stan+Getz/_/Samba+Da+Minha+Terra+-+Live+At+Carnegie+Hall%2F1964)*
-- **João Gilberto** - *[Pra Que Discutir Com Madame? - Live](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Pra+Que+Discutir+Com+Madame%3F+-+Live)*
-- **Frank Sinatra** - *[The Girl From Ipanema - 2008 Remastered](https://www.last.fm/music/Frank+Sinatra/_/The+Girl+From+Ipanema+-+2008+Remastered)*
+- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
+- **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
+- **Daft Punk** - *[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas))*
+- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
+- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
 
 # 📀 Top Albums
 
