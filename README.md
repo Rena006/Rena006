@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Strokes** - *[Selfless](https://www.last.fm/music/The+Strokes/_/Selfless)*
-- **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
-- **Daft Punk** - *[Instant Crush (feat. Julian Casablancas)](https://www.last.fm/music/Daft+Punk/_/Instant+Crush+(feat.+Julian+Casablancas))*
-- **The Smiths** - *[This Charming Man - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/This+Charming+Man+-+2011+Remaster)*
-- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
+- **Daft Punk** - *[Doin' It Right (feat. Panda Bear)](https://www.last.fm/music/Daft+Punk/_/Doin%27+It+Right+(feat.+Panda+Bear))*
+- **Daft Punk** - *[Fragments of Time (feat. Todd Edwards)](https://www.last.fm/music/Daft+Punk/_/Fragments+of+Time+(feat.+Todd+Edwards))*
+- **Daft Punk** - *[Motherboard](https://www.last.fm/music/Daft+Punk/_/Motherboard)*
+- **Daft Punk** - *[Beyond](https://www.last.fm/music/Daft+Punk/_/Beyond)*
+- **Daft Punk** - *[Get Lucky (feat. Pharrell Williams and Nile Rodgers)](https://www.last.fm/music/Daft+Punk/_/Get+Lucky+(feat.+Pharrell+Williams+and+Nile+Rodgers))*
 
 # 📀 Top Albums
 
