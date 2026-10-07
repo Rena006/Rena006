@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Herbie Mann** - *[Amor em Paz (Love In Peace)](https://www.last.fm/music/Herbie+Mann/_/Amor+em+Paz+(Love+In+Peace))* (Now Playing)
-- **Nara Leão** - *[Diz Que Fui Por Ai](https://www.last.fm/music/Nara+Le%C3%A3o/_/Diz+Que+Fui+Por+Ai)*
-- **Antônio Carlos Jobim** - *[Look To The Sky](https://www.last.fm/music/Ant%C3%B4nio+Carlos+Jobim/_/Look+To+The+Sky)*
-- **Stan Getz** - *[Voce E Eu](https://www.last.fm/music/Stan+Getz/_/Voce+E+Eu)*
-- **João Gilberto** - *[Pra Que Discutir Com Madame? - Live](https://www.last.fm/music/Jo%C3%A3o+Gilberto/_/Pra+Que+Discutir+Com+Madame%3F+-+Live)*
-- **Gilberto Gil** - *[Aos Pés da Cruz](https://www.last.fm/music/Gilberto+Gil/_/Aos+P%C3%A9s+da+Cruz)*
+- **Toco** - *[Bom Motivo](https://www.last.fm/music/Toco/_/Bom+Motivo)*
+- **Bill Evans Trio** - *[Emily - Live](https://www.last.fm/music/Bill+Evans+Trio/_/Emily+-+Live)*
+- **John Coltrane Quartet** - *[It's Easy To Remember](https://www.last.fm/music/John+Coltrane+Quartet/_/It%27s+Easy+To+Remember)*
+- **Rubén González** - *[Melodía Del Río](https://www.last.fm/music/Rub%C3%A9n+Gonz%C3%A1lez/_/Melod%C3%ADa+Del+R%C3%ADo)*
+- **Erroll Garner** - *[Misty](https://www.last.fm/music/Erroll+Garner/_/Misty)*
 
 # 📀 Top Albums
 
