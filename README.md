@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Toco** - *[Bom Motivo](https://www.last.fm/music/Toco/_/Bom+Motivo)*
-- **Bill Evans Trio** - *[Emily - Live](https://www.last.fm/music/Bill+Evans+Trio/_/Emily+-+Live)*
-- **John Coltrane Quartet** - *[It's Easy To Remember](https://www.last.fm/music/John+Coltrane+Quartet/_/It%27s+Easy+To+Remember)*
-- **Rubén González** - *[Melodía Del Río](https://www.last.fm/music/Rub%C3%A9n+Gonz%C3%A1lez/_/Melod%C3%ADa+Del+R%C3%ADo)*
-- **Erroll Garner** - *[Misty](https://www.last.fm/music/Erroll+Garner/_/Misty)*
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **Geese** - *[Cobra](https://www.last.fm/music/Geese/_/Cobra)*
+- **Animal Collective** - *[In the Flowers](https://www.last.fm/music/Animal+Collective/_/In+the+Flowers)*
+- **Ariel Pink** - *[Only In My Dreams](https://www.last.fm/music/Ariel+Pink/_/Only+In+My+Dreams)*
+- **MGMT** - *[Congratulations](https://www.last.fm/music/MGMT/_/Congratulations)*
 
 # 📀 Top Albums
 
