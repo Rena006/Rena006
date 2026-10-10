@@ -2,16 +2,16 @@
 
 
 
-Quantum Computing, k8s & AI enthusiast. 
-call me rena. 
+Quantum Computing & AI enthusiast. I code sometimes (╥﹏╥)
+please call me rena. 
 
 # 🎶 Last.fm Scrobbles
 
-- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
-- **Geese** - *[Cobra](https://www.last.fm/music/Geese/_/Cobra)*
+- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
+- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
 - **Animal Collective** - *[In the Flowers](https://www.last.fm/music/Animal+Collective/_/In+the+Flowers)*
-- **Ariel Pink** - *[Only In My Dreams](https://www.last.fm/music/Ariel+Pink/_/Only+In+My+Dreams)*
-- **MGMT** - *[Congratulations](https://www.last.fm/music/MGMT/_/Congratulations)*
+- **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
 
 # 📀 Top Albums
 
