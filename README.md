@@ -7,11 +7,7 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Virus** - *[Pronta Entrega](https://www.last.fm/music/Virus/_/Pronta+Entrega)*
-- **Steve Lacy** - *[Bad Habit](https://www.last.fm/music/Steve+Lacy/_/Bad+Habit)*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
-- **Animal Collective** - *[In the Flowers](https://www.last.fm/music/Animal+Collective/_/In+the+Flowers)*
-- **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
+No scrobbles available.
 
 # 📀 Top Albums
 
