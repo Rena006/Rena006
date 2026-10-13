@@ -7,7 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-No scrobbles available.
+- **Fontaines D.C.** - *[Desire](https://www.last.fm/music/Fontaines+D.C./_/Desire)*
+- **Fontaines D.C.** - *[Here's The Thing](https://www.last.fm/music/Fontaines+D.C./_/Here%27s+The+Thing)*
+- **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
+- **Fontaines D.C.** - *[Romance](https://www.last.fm/music/Fontaines+D.C./_/Romance)*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
 
 # 📀 Top Albums
 
