@@ -2,8 +2,7 @@
 
 
 
-Quantum Computing & AI enthusiast. I code sometimes (╥﹏╥)
-please call me rena. 
+Quantum Computing & AI enthusiast. K8s enjoyer  
 
 # 🎶 Last.fm Scrobbles
 
