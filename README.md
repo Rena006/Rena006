@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Fontaines D.C.** - *[Desire](https://www.last.fm/music/Fontaines+D.C./_/Desire)*
-- **Fontaines D.C.** - *[Here's The Thing](https://www.last.fm/music/Fontaines+D.C./_/Here%27s+The+Thing)*
-- **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
-- **Fontaines D.C.** - *[Romance](https://www.last.fm/music/Fontaines+D.C./_/Romance)*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **🎵 Vegyn** - *[You Make It Easy (feat. Beth Hirsch) - Vegyn Version](https://www.last.fm/music/Vegyn/_/You+Make+It+Easy+(feat.+Beth+Hirsch)+-+Vegyn+Version)* (Now Playing)
+- **Vegyn** - *[Remember - Vegyn Version](https://www.last.fm/music/Vegyn/_/Remember+-+Vegyn+Version)*
+- **Vegyn** - *[La femme d'argent - Vegyn Version](https://www.last.fm/music/Vegyn/_/La+femme+d%27argent+-+Vegyn+Version)*
+- **Vegyn** - *[Ce matin-là - Vegyn Version](https://www.last.fm/music/Vegyn/_/Ce+matin-l%C3%A0+-+Vegyn+Version)*
+- **Vegyn** - *[Kelly Watch the Stars - Vegyn Version](https://www.last.fm/music/Vegyn/_/Kelly+Watch+the+Stars+-+Vegyn+Version)*
+- **Vegyn** - *[All I Need (feat. Beth Hirsch) - Vegyn Version](https://www.last.fm/music/Vegyn/_/All+I+Need+(feat.+Beth+Hirsch)+-+Vegyn+Version)*
 
 # 📀 Top Albums
 
