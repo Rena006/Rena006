@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Headache** - *[That Thing with the Rabbit](https://www.last.fm/music/Headache/_/That+Thing+with+the+Rabbit)*
-- **Air** - *[All I Need (feat. Beth Hirsch)](https://www.last.fm/music/Air/_/All+I+Need+(feat.+Beth+Hirsch))*
-- **Aphex Twin** - *[Fingerbib](https://www.last.fm/music/Aphex+Twin/_/Fingerbib)*
-- **Vegyn** - *[New Star in the Sky - Vegyn Version](https://www.last.fm/music/Vegyn/_/New+Star+in+the+Sky+-+Vegyn+Version)*
-- **Vegyn** - *[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)*
+- **Underworld** - *[Sola Sistim](https://www.last.fm/music/Underworld/_/Sola+Sistim)*
+- **Everything But the Girl** - *[Before Today](https://www.last.fm/music/Everything+But+the+Girl/_/Before+Today)*
+- **Air** - *[You Make It Easy](https://www.last.fm/music/Air/_/You+Make+It+Easy)*
+- **Cocteau Twins** - *[Know Who You Are At Every Age - Remastered 2024](https://www.last.fm/music/Cocteau+Twins/_/Know+Who+You+Are+At+Every+Age+-+Remastered+2024)*
+- **Headache** - *[Truisms 4 Dummies](https://www.last.fm/music/Headache/_/Truisms+4+Dummies)*
 
 # 📀 Top Albums
 
