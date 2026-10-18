@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Underworld** - *[Sola Sistim](https://www.last.fm/music/Underworld/_/Sola+Sistim)*
-- **Everything But the Girl** - *[Before Today](https://www.last.fm/music/Everything+But+the+Girl/_/Before+Today)*
-- **Air** - *[You Make It Easy](https://www.last.fm/music/Air/_/You+Make+It+Easy)*
-- **Cocteau Twins** - *[Know Who You Are At Every Age - Remastered 2024](https://www.last.fm/music/Cocteau+Twins/_/Know+Who+You+Are+At+Every+Age+-+Remastered+2024)*
-- **Headache** - *[Truisms 4 Dummies](https://www.last.fm/music/Headache/_/Truisms+4+Dummies)*
+- **🎵 The Smiths** - *[How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)* (Now Playing)
+- **Aphex Twin** - *[Fingerbib](https://www.last.fm/music/Aphex+Twin/_/Fingerbib)*
+- **Cocteau Twins** - *[Serpentskirt](https://www.last.fm/music/Cocteau+Twins/_/Serpentskirt)*
+- **Cocteau Twins** - *[Frou-Frou Foxes in Midsummer Fires](https://www.last.fm/music/Cocteau+Twins/_/Frou-Frou+Foxes+in+Midsummer+Fires)*
+- **Cocteau Twins** - *[Road, River and Rail](https://www.last.fm/music/Cocteau+Twins/_/Road,+River+and+Rail)*
+- **Cocteau Twins** - *[Wolf in the Breast](https://www.last.fm/music/Cocteau+Twins/_/Wolf+in+the+Breast)*
 
 # 📀 Top Albums
 
