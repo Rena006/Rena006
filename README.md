@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 The Smiths** - *[How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)* (Now Playing)
+- **Air** - *[New Star in the Sky (Chanson pour Solal)](https://www.last.fm/music/Air/_/New+Star+in+the+Sky+(Chanson+pour+Solal))*
+- **The Smiths** - *[How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)*
 - **Aphex Twin** - *[Fingerbib](https://www.last.fm/music/Aphex+Twin/_/Fingerbib)*
 - **Cocteau Twins** - *[Serpentskirt](https://www.last.fm/music/Cocteau+Twins/_/Serpentskirt)*
 - **Cocteau Twins** - *[Frou-Frou Foxes in Midsummer Fires](https://www.last.fm/music/Cocteau+Twins/_/Frou-Frou+Foxes+in+Midsummer+Fires)*
-- **Cocteau Twins** - *[Road, River and Rail](https://www.last.fm/music/Cocteau+Twins/_/Road,+River+and+Rail)*
-- **Cocteau Twins** - *[Wolf in the Breast](https://www.last.fm/music/Cocteau+Twins/_/Wolf+in+the+Breast)*
 
 # 📀 Top Albums
 
