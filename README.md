@@ -7,10 +7,10 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Vegyn** - *[La femme d'argent - Vegyn Version](https://www.last.fm/music/Vegyn/_/La+femme+d%27argent+-+Vegyn+Version)*
-- **Vegyn** - *[Ce matin-là - Vegyn Version](https://www.last.fm/music/Vegyn/_/Ce+matin-l%C3%A0+-+Vegyn+Version)*
-- **Vegyn** - *[Kelly Watch the Stars - Vegyn Version](https://www.last.fm/music/Vegyn/_/Kelly+Watch+the+Stars+-+Vegyn+Version)*
-- **Vegyn** - *[All I Need (feat. Beth Hirsch) - Vegyn Version](https://www.last.fm/music/Vegyn/_/All+I+Need+(feat.+Beth+Hirsch)+-+Vegyn+Version)*
+- **Headache** - *[That Thing with the Rabbit](https://www.last.fm/music/Headache/_/That+Thing+with+the+Rabbit)*
+- **Air** - *[All I Need (feat. Beth Hirsch)](https://www.last.fm/music/Air/_/All+I+Need+(feat.+Beth+Hirsch))*
+- **Aphex Twin** - *[Fingerbib](https://www.last.fm/music/Aphex+Twin/_/Fingerbib)*
+- **Vegyn** - *[New Star in the Sky - Vegyn Version](https://www.last.fm/music/Vegyn/_/New+Star+in+the+Sky+-+Vegyn+Version)*
 - **Vegyn** - *[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)*
 
 # 📀 Top Albums
