@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
+- **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
+- **Vegyn** - *[A Dream Goes On Forever](https://www.last.fm/music/Vegyn/_/A+Dream+Goes+On+Forever)*
+- **The Stone Roses** - *[I Wanna Be Adored - Remastered 2009](https://www.last.fm/music/The+Stone+Roses/_/I+Wanna+Be+Adored+-+Remastered+2009)*
 - **Air** - *[New Star in the Sky (Chanson pour Solal)](https://www.last.fm/music/Air/_/New+Star+in+the+Sky+(Chanson+pour+Solal))*
 - **The Smiths** - *[How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)*
-- **Aphex Twin** - *[Fingerbib](https://www.last.fm/music/Aphex+Twin/_/Fingerbib)*
-- **Cocteau Twins** - *[Serpentskirt](https://www.last.fm/music/Cocteau+Twins/_/Serpentskirt)*
-- **Cocteau Twins** - *[Frou-Frou Foxes in Midsummer Fires](https://www.last.fm/music/Cocteau+Twins/_/Frou-Frou+Foxes+in+Midsummer+Fires)*
 
 # 📀 Top Albums
 
