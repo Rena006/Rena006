@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
-- **Vegyn** - *[A Dream Goes On Forever](https://www.last.fm/music/Vegyn/_/A+Dream+Goes+On+Forever)*
-- **The Stone Roses** - *[I Wanna Be Adored - Remastered 2009](https://www.last.fm/music/The+Stone+Roses/_/I+Wanna+Be+Adored+-+Remastered+2009)*
-- **Air** - *[New Star in the Sky (Chanson pour Solal)](https://www.last.fm/music/Air/_/New+Star+in+the+Sky+(Chanson+pour+Solal))*
-- **The Smiths** - *[How Soon Is Now? - 2011 Remaster](https://www.last.fm/music/The+Smiths/_/How+Soon+Is+Now%3F+-+2011+Remaster)*
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **The Strokes** - *[The Adults Are Talking](https://www.last.fm/music/The+Strokes/_/The+Adults+Are+Talking)*
+- **Fontaines D.C.** - *[Roman Holiday](https://www.last.fm/music/Fontaines+D.C./_/Roman+Holiday)*
+- **The Strokes** - *[Is This It](https://www.last.fm/music/The+Strokes/_/Is+This+It)*
+- **Radiohead** - *[Jigsaw Falling Into Place](https://www.last.fm/music/Radiohead/_/Jigsaw+Falling+Into+Place)*
 
 # 📀 Top Albums
 
