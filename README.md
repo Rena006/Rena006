@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Japanese Breakfast** - *[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)*
-- **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
-- **Vegyn** - *[Ce matin-là - Vegyn Version](https://www.last.fm/music/Vegyn/_/Ce+matin-l%C3%A0+-+Vegyn+Version)*
-- **Vegyn** - *[Kelly Watch the Stars - Vegyn Version](https://www.last.fm/music/Vegyn/_/Kelly+Watch+the+Stars+-+Vegyn+Version)*
+- **Pet Shop Boys** - *[To Face the Truth - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/To+Face+the+Truth+-+2018+Remaster)*
+- **Pet Shop Boys** - *[This Must Be the Place I Waited Years to Leave - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/This+Must+Be+the+Place+I+Waited+Years+to+Leave+-+2018+Remaster)*
+- **Pet Shop Boys** - *[Being Boring - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Being+Boring+-+2018+Remaster)*
 - **Vegyn** - *[All I Need (feat. Beth Hirsch) - Vegyn Version](https://www.last.fm/music/Vegyn/_/All+I+Need+(feat.+Beth+Hirsch)+-+Vegyn+Version)*
+- **Vegyn** - *[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)*
 
 # 📀 Top Albums
 
