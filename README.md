@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Pet Shop Boys** - *[To Face the Truth - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/To+Face+the+Truth+-+2018+Remaster)*
-- **Pet Shop Boys** - *[This Must Be the Place I Waited Years to Leave - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/This+Must+Be+the+Place+I+Waited+Years+to+Leave+-+2018+Remaster)*
-- **Pet Shop Boys** - *[Being Boring - 2018 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Being+Boring+-+2018+Remaster)*
-- **Vegyn** - *[All I Need (feat. Beth Hirsch) - Vegyn Version](https://www.last.fm/music/Vegyn/_/All+I+Need+(feat.+Beth+Hirsch)+-+Vegyn+Version)*
-- **Vegyn** - *[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)*
+- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
+- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
+- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
+- **Japanese Breakfast** - *[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)*
+- **Oliver Tree** - *[Jerk](https://www.last.fm/music/Oliver+Tree/_/Jerk)*
 
 # 📀 Top Albums
 
