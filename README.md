@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Ariel Pink** - *[Put Your Number in My Phone](https://www.last.fm/music/Ariel+Pink/_/Put+Your+Number+in+My+Phone)*
-- **Soko** - *[Lovetrap (feat. Ariel Pink)](https://www.last.fm/music/Soko/_/Lovetrap+(feat.+Ariel+Pink))*
-- **Japanese Breakfast** - *[Paprika](https://www.last.fm/music/Japanese+Breakfast/_/Paprika)*
-- **Japanese Breakfast** - *[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)*
-- **Oliver Tree** - *[Jerk](https://www.last.fm/music/Oliver+Tree/_/Jerk)*
+- **Crystal Castles** - *[Violent Youth](https://www.last.fm/music/Crystal+Castles/_/Violent+Youth)*
+- **Crystal Castles** - *[Transgender](https://www.last.fm/music/Crystal+Castles/_/Transgender)*
+- **Crystal Castles** - *[Insulin](https://www.last.fm/music/Crystal+Castles/_/Insulin)*
+- **Crystal Castles** - *[Sad Eyes](https://www.last.fm/music/Crystal+Castles/_/Sad+Eyes)*
+- **Crystal Castles** - *[Pale Flesh](https://www.last.fm/music/Crystal+Castles/_/Pale+Flesh)*
 
 # 📀 Top Albums
 
