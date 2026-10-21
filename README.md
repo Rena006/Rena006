@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Crystal Castles** - *[Violent Youth](https://www.last.fm/music/Crystal+Castles/_/Violent+Youth)*
-- **Crystal Castles** - *[Transgender](https://www.last.fm/music/Crystal+Castles/_/Transgender)*
-- **Crystal Castles** - *[Insulin](https://www.last.fm/music/Crystal+Castles/_/Insulin)*
-- **Crystal Castles** - *[Sad Eyes](https://www.last.fm/music/Crystal+Castles/_/Sad+Eyes)*
-- **Crystal Castles** - *[Pale Flesh](https://www.last.fm/music/Crystal+Castles/_/Pale+Flesh)*
+- **The Strokes** - *[Under Cover of Darkness](https://www.last.fm/music/The+Strokes/_/Under+Cover+of+Darkness)*
+- **Fontaines D.C.** - *[Tongue](https://www.last.fm/music/Fontaines+D.C./_/Tongue)*
+- **Pavement** - *[Harness Your Hopes - Sped Up](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+Sped+Up)*
+- **Beach House** - *[PPP](https://www.last.fm/music/Beach+House/_/PPP)*
+- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
 
 # 📀 Top Albums
 
