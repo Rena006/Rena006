@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **The Strokes** - *[Under Cover of Darkness](https://www.last.fm/music/The+Strokes/_/Under+Cover+of+Darkness)*
-- **Fontaines D.C.** - *[Tongue](https://www.last.fm/music/Fontaines+D.C./_/Tongue)*
-- **Pavement** - *[Harness Your Hopes - Sped Up](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+Sped+Up)*
-- **Beach House** - *[PPP](https://www.last.fm/music/Beach+House/_/PPP)*
-- **Antolín** - *[Panteras en el parque](https://www.last.fm/music/Antol%C3%ADn/_/Panteras+en+el+parque)*
+- **Vegyn** - *[Remember - Vegyn Version](https://www.last.fm/music/Vegyn/_/Remember+-+Vegyn+Version)*
+- **Vegyn** - *[La femme d'argent - Vegyn Version](https://www.last.fm/music/Vegyn/_/La+femme+d%27argent+-+Vegyn+Version)*
+- **Vegyn** - *[Ce matin-là - Vegyn Version](https://www.last.fm/music/Vegyn/_/Ce+matin-l%C3%A0+-+Vegyn+Version)*
+- **Vegyn** - *[Kelly Watch the Stars - Vegyn Version](https://www.last.fm/music/Vegyn/_/Kelly+Watch+the+Stars+-+Vegyn+Version)*
+- **Vegyn** - *[All I Need (feat. Beth Hirsch) - Vegyn Version](https://www.last.fm/music/Vegyn/_/All+I+Need+(feat.+Beth+Hirsch)+-+Vegyn+Version)*
 
 # 📀 Top Albums
 
