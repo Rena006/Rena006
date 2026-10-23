@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Aphex Twin** - *[Fingerbib](https://www.last.fm/music/Aphex+Twin/_/Fingerbib)*
-- **Vegyn** - *[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)*
-- **Vegyn** - *[You Make It Easy (feat. Beth Hirsch) - Vegyn Version](https://www.last.fm/music/Vegyn/_/You+Make+It+Easy+(feat.+Beth+Hirsch)+-+Vegyn+Version)*
-- **Vegyn** - *[Remember - Vegyn Version](https://www.last.fm/music/Vegyn/_/Remember+-+Vegyn+Version)*
-- **Vegyn** - *[La femme d'argent - Vegyn Version](https://www.last.fm/music/Vegyn/_/La+femme+d%27argent+-+Vegyn+Version)*
+- **Radiohead** - *[Bodysnatchers](https://www.last.fm/music/Radiohead/_/Bodysnatchers)*
+- **Geese** - *[Getting Killed](https://www.last.fm/music/Geese/_/Getting+Killed)*
+- **Pavement** - *[Harness Your Hopes - Sped Up](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+Sped+Up)*
+- **Fontaines D.C.** - *[Bug](https://www.last.fm/music/Fontaines+D.C./_/Bug)*
+- **Pixies** - *[Debaser](https://www.last.fm/music/Pixies/_/Debaser)*
 
 # 📀 Top Albums
 
