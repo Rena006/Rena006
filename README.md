@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Radiohead** - *[Bodysnatchers](https://www.last.fm/music/Radiohead/_/Bodysnatchers)*
-- **Geese** - *[Getting Killed](https://www.last.fm/music/Geese/_/Getting+Killed)*
-- **Pavement** - *[Harness Your Hopes - Sped Up](https://www.last.fm/music/Pavement/_/Harness+Your+Hopes+-+Sped+Up)*
-- **Fontaines D.C.** - *[Bug](https://www.last.fm/music/Fontaines+D.C./_/Bug)*
-- **Pixies** - *[Debaser](https://www.last.fm/music/Pixies/_/Debaser)*
+- **🎵 Daft Punk** - *[Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]](https://www.last.fm/music/Daft+Punk/_/Infinity+Repeating+(2013+Demo)+%5Bfeat.+Julian+Casablancas%252BThe+Voidz%5D)* (Now Playing)
+- **Japanese Breakfast** - *[My Baby (Got Nothing At All) - From "Materialists"](https://www.last.fm/music/Japanese+Breakfast/_/My+Baby+(Got+Nothing+At+All)+-+From+%22Materialists%22)*
+- **Daniel Lopatin** - *[Endo’s Game](https://www.last.fm/music/Daniel+Lopatin/_/Endo%E2%80%99s+Game)*
+- **Frank Sinatra** - *[The Girl From Ipanema - 2008 Remastered](https://www.last.fm/music/Frank+Sinatra/_/The+Girl+From+Ipanema+-+2008+Remastered)*
+- **Panchiko** - *[All They Wanted](https://www.last.fm/music/Panchiko/_/All+They+Wanted)*
+- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
 
 # 📀 Top Albums
 
