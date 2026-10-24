@@ -7,12 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Daft Punk** - *[Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]](https://www.last.fm/music/Daft+Punk/_/Infinity+Repeating+(2013+Demo)+%5Bfeat.+Julian+Casablancas%252BThe+Voidz%5D)* (Now Playing)
-- **Japanese Breakfast** - *[My Baby (Got Nothing At All) - From "Materialists"](https://www.last.fm/music/Japanese+Breakfast/_/My+Baby+(Got+Nothing+At+All)+-+From+%22Materialists%22)*
-- **Daniel Lopatin** - *[Endo’s Game](https://www.last.fm/music/Daniel+Lopatin/_/Endo%E2%80%99s+Game)*
-- **Frank Sinatra** - *[The Girl From Ipanema - 2008 Remastered](https://www.last.fm/music/Frank+Sinatra/_/The+Girl+From+Ipanema+-+2008+Remastered)*
-- **Panchiko** - *[All They Wanted](https://www.last.fm/music/Panchiko/_/All+They+Wanted)*
-- **Fontaines D.C.** - *[In The Modern World](https://www.last.fm/music/Fontaines+D.C./_/In+The+Modern+World)*
+- **Céline Dessberg** - *[l'histoire de ta vie](https://www.last.fm/music/C%C3%A9line+Dessberg/_/l%27histoire+de+ta+vie)*
+- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
+- **The Strokes** - *[Going to Babble On](https://www.last.fm/music/The+Strokes/_/Going+to+Babble+On)*
+- **Slowdive** - *[kisses](https://www.last.fm/music/Slowdive/_/kisses)*
+- **Clairo** - *[Juna](https://www.last.fm/music/Clairo/_/Juna)*
 
 # 📀 Top Albums
 
