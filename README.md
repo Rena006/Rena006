@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Céline Dessberg** - *[l'histoire de ta vie](https://www.last.fm/music/C%C3%A9line+Dessberg/_/l%27histoire+de+ta+vie)*
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
-- **The Strokes** - *[Going to Babble On](https://www.last.fm/music/The+Strokes/_/Going+to+Babble+On)*
-- **Slowdive** - *[kisses](https://www.last.fm/music/Slowdive/_/kisses)*
-- **Clairo** - *[Juna](https://www.last.fm/music/Clairo/_/Juna)*
+- **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
+- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
+- **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
+- **The Fratellis** - *[Chelsea Dagger](https://www.last.fm/music/The+Fratellis/_/Chelsea+Dagger)*
+- **Metronomy** - *[The Bay](https://www.last.fm/music/Metronomy/_/The+Bay)*
 
 # 📀 Top Albums
 
