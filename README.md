@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Oliver Tree** - *[Cowboys Don’t Cry](https://www.last.fm/music/Oliver+Tree/_/Cowboys+Don%E2%80%99t+Cry)*
-- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
-- **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
-- **The Fratellis** - *[Chelsea Dagger](https://www.last.fm/music/The+Fratellis/_/Chelsea+Dagger)*
-- **Metronomy** - *[The Bay](https://www.last.fm/music/Metronomy/_/The+Bay)*
+- **Vegyn** - *[Ce matin-là - Vegyn Version](https://www.last.fm/music/Vegyn/_/Ce+matin-l%C3%A0+-+Vegyn+Version)*
+- **Vegyn** - *[Kelly Watch the Stars - Vegyn Version](https://www.last.fm/music/Vegyn/_/Kelly+Watch+the+Stars+-+Vegyn+Version)*
+- **Vegyn** - *[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)*
+- **Kanye West** - *[Dark Fantasy](https://www.last.fm/music/Kanye+West/_/Dark+Fantasy)*
+- **The Stone Roses** - *[I Wanna Be Adored - Remastered 2009](https://www.last.fm/music/The+Stone+Roses/_/I+Wanna+Be+Adored+-+Remastered+2009)*
 
 # 📀 Top Albums
 
