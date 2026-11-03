@@ -7,7 +7,6 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **🎵 Pet Shop Boys** - *[Domino dancing - 2023 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Domino+dancing+-+2023+Remaster)* (Now Playing)
 - **a-ha** - *[Take on Me](https://www.last.fm/music/a-ha/_/Take+on+Me)*
 - **Talk Talk** - *[It's My Life - 1997 Remaster](https://www.last.fm/music/Talk+Talk/_/It%27s+My+Life+-+1997+Remaster)*
 - **Depeche Mode** - *[Just Can't Get Enough](https://www.last.fm/music/Depeche+Mode/_/Just+Can%27t+Get+Enough)*
