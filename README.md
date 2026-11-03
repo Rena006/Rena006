@@ -7,11 +7,12 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **Turnstile** - *[ALIEN LOVE CALL](https://www.last.fm/music/Turnstile/_/ALIEN+LOVE+CALL)*
-- **Japanese Breakfast** - *[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)*
-- **Japanese Breakfast** - *[Kokomo, IN](https://www.last.fm/music/Japanese+Breakfast/_/Kokomo,+IN)*
-- **Vegyn** - *[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)*
-- **Stan Getz** - *[Corcovado (Quiet Nights Of Quiet Stars)](https://www.last.fm/music/Stan+Getz/_/Corcovado+(Quiet+Nights+Of+Quiet+Stars))*
+- **🎵 Pet Shop Boys** - *[Domino dancing - 2023 Remaster](https://www.last.fm/music/Pet+Shop+Boys/_/Domino+dancing+-+2023+Remaster)* (Now Playing)
+- **a-ha** - *[Take on Me](https://www.last.fm/music/a-ha/_/Take+on+Me)*
+- **Talk Talk** - *[It's My Life - 1997 Remaster](https://www.last.fm/music/Talk+Talk/_/It%27s+My+Life+-+1997+Remaster)*
+- **Depeche Mode** - *[Just Can't Get Enough](https://www.last.fm/music/Depeche+Mode/_/Just+Can%27t+Get+Enough)*
+- **Morrissey** - *[Suedehead - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Suedehead+-+2011+Remaster)*
+- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
 
 # 📀 Top Albums
 
