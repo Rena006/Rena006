@@ -7,11 +7,11 @@ please call me rena.
 
 # 🎶 Last.fm Scrobbles
 
-- **a-ha** - *[Take on Me](https://www.last.fm/music/a-ha/_/Take+on+Me)*
-- **Talk Talk** - *[It's My Life - 1997 Remaster](https://www.last.fm/music/Talk+Talk/_/It%27s+My+Life+-+1997+Remaster)*
-- **Depeche Mode** - *[Just Can't Get Enough](https://www.last.fm/music/Depeche+Mode/_/Just+Can%27t+Get+Enough)*
-- **Morrissey** - *[Suedehead - 2011 Remaster](https://www.last.fm/music/Morrissey/_/Suedehead+-+2011+Remaster)*
-- **New Order** - *[Bizarre Love Triangle - 2024 Digital Master](https://www.last.fm/music/New+Order/_/Bizarre+Love+Triangle+-+2024+Digital+Master)*
+- **Bad Bunny** - *[VOY A LLeVARTE PA PR](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)*
+- **The Fratellis** - *[Chelsea Dagger](https://www.last.fm/music/The+Fratellis/_/Chelsea+Dagger)*
+- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **The Drums** - *[Money](https://www.last.fm/music/The+Drums/_/Money)*
 
 # 📀 Top Albums
 
