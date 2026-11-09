@@ -1,9 +1,6 @@
 # ☺︎ Hi
 
-
-
-Quantum Computing & AI enthusiast. I code sometimes (╥﹏╥)
-please call me rena. 
+Software Engineer - Devops - K8s - Cloud
 
 # 🎶 Last.fm Scrobbles
 
