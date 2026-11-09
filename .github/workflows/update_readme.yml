@@ -2,36 +2,39 @@ name: Update README with Last.fm Scrobbles
 
 on:
   schedule:
-    - cron: '0 * * * *'  
-  workflow_dispatch: 
+    - cron: '17 * * * *'  # hourly, off the top of the hour to avoid queue spikes
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
 
 jobs:
   update-readme:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v3
-        with:
-          python-version: 3.x
-
-      - name: Install Requirements
-        run: pip install requests
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
       - name: Update README
         env:
-          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }} 
-        run: python update_readme.py
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
+        run: python3 update_readme.py
 
-      - name: Commit and Push Changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push if changed
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull origin main || true
+          if git diff --quiet README.md; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update README with Last.fm Scrobbles" || true
+          git commit -m "Update README with Last.fm Scrobbles"
+          git pull --rebase origin main
           git push origin main
