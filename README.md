@@ -5,11 +5,11 @@ Software Engineer - Devops - K8s - Cloud
 <!-- LASTFM:START -->
 # 🎶 Last.fm Scrobbles
 
+- **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
+- **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
+- **José José** - *[Gavilán O Paloma](https://www.last.fm/music/Jos%C3%A9+Jos%C3%A9/_/Gavil%C3%A1n+O+Paloma)*
 - **Bad Bunny** - *[VOY A LLeVARTE PA PR](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)*
 - **The Fratellis** - *[Chelsea Dagger](https://www.last.fm/music/The+Fratellis/_/Chelsea+Dagger)*
-- **Pulp** - *[Common People - Full Length Version](https://www.last.fm/music/Pulp/_/Common+People+-+Full+Length+Version)*
-- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
-- **The Drums** - *[Money](https://www.last.fm/music/The+Drums/_/Money)*
 
 # 📀 Top Albums
 
