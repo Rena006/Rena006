@@ -5,11 +5,11 @@ Software Engineer - Devops - K8s - Cloud
 <!-- LASTFM:START -->
 # 🎶 Last.fm Scrobbles
 
+- **Japanese Breakfast** - *[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)*
 - **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
 - **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
 - **José José** - *[Gavilán O Paloma](https://www.last.fm/music/Jos%C3%A9+Jos%C3%A9/_/Gavil%C3%A1n+O+Paloma)*
 - **Bad Bunny** - *[VOY A LLeVARTE PA PR](https://www.last.fm/music/Bad+Bunny/_/VOY+A+LLeVARTE+PA+PR)*
-- **The Fratellis** - *[Chelsea Dagger](https://www.last.fm/music/The+Fratellis/_/Chelsea+Dagger)*
 
 # 📀 Top Albums
 
