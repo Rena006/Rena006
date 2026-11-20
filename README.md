@@ -5,11 +5,11 @@ Software Engineer - Devops - K8s - Cloud
 <!-- LASTFM:START -->
 # 🎶 Last.fm Scrobbles
 
-- **TV Girl** - *[Summer 2000 Baby](https://www.last.fm/music/TV+Girl/_/Summer+2000+Baby)*
-- **Ivana June** - *[Verano!](https://www.last.fm/music/Ivana+June/_/Verano!)*
-- **Geese** - *[Au Pays du Cocaine](https://www.last.fm/music/Geese/_/Au+Pays+du+Cocaine)*
-- **Fontaines D.C.** - *[Starburster](https://www.last.fm/music/Fontaines+D.C./_/Starburster)*
-- **PinkPantheress** - *[Girl Like Me](https://www.last.fm/music/PinkPantheress/_/Girl+Like+Me)*
+- **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
+- **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
+- **Animal Collective** - *[In the Flowers](https://www.last.fm/music/Animal+Collective/_/In+the+Flowers)*
+- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
+- **The Strokes** - *[Why Are Sundays So Depressing](https://www.last.fm/music/The+Strokes/_/Why+Are+Sundays+So+Depressing)*
 
 # 📀 Top Albums
 
