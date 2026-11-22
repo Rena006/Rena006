@@ -5,11 +5,11 @@ Software Engineer - Devops - K8s - Cloud
 <!-- LASTFM:START -->
 # 🎶 Last.fm Scrobbles
 
-- **The Flaming Lips** - *[Yoshimi Battles The Pink Robots, Pt. 1](https://www.last.fm/music/The+Flaming+Lips/_/Yoshimi+Battles+The+Pink+Robots,+Pt.+1)*
-- **bôa** - *[Duvet](https://www.last.fm/music/b%C3%B4a/_/Duvet)*
-- **Animal Collective** - *[In the Flowers](https://www.last.fm/music/Animal+Collective/_/In+the+Flowers)*
-- **The Cure** - *[Boys Don't Cry](https://www.last.fm/music/The+Cure/_/Boys+Don%27t+Cry)*
-- **The Strokes** - *[Why Are Sundays So Depressing](https://www.last.fm/music/The+Strokes/_/Why+Are+Sundays+So+Depressing)*
+- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
+- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
+- **Japanese Breakfast** - *[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)*
+- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
+- **Crystal Castles** - *[Crimewave](https://www.last.fm/music/Crystal+Castles/_/Crimewave)*
 
 # 📀 Top Albums
 
