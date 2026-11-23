@@ -5,11 +5,11 @@ Software Engineer - Devops - K8s - Cloud
 <!-- LASTFM:START -->
 # 🎶 Last.fm Scrobbles
 
-- **Elliott Smith** - *[Son of Sam](https://www.last.fm/music/Elliott+Smith/_/Son+of+Sam)*
-- **Mac DeMarco** - *[No Other Heart](https://www.last.fm/music/Mac+DeMarco/_/No+Other+Heart)*
-- **Japanese Breakfast** - *[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)*
-- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
-- **Crystal Castles** - *[Crimewave](https://www.last.fm/music/Crystal+Castles/_/Crimewave)*
+- **Bill Evans Trio** - *[My Foolish Heart](https://www.last.fm/music/Bill+Evans+Trio/_/My+Foolish+Heart)*
+- **Boy Harsher** - *[Pain](https://www.last.fm/music/Boy+Harsher/_/Pain)*
+- **Chico Buarque** - *[Até 2a-feira](https://www.last.fm/music/Chico+Buarque/_/At%C3%A9+2a-feira)*
+- **Beach House** - *[Myth](https://www.last.fm/music/Beach+House/_/Myth)*
+- **Mazzy Star** - *[Fade Into You](https://www.last.fm/music/Mazzy+Star/_/Fade+Into+You)*
 
 # 📀 Top Albums
 
