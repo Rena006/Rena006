@@ -5,11 +5,11 @@ Software Engineer - Devops - K8s - Cloud
 <!-- LASTFM:START -->
 # 🎶 Last.fm Scrobbles
 
-- **Jeff Buckley** - *[I Want Someone Badly](https://www.last.fm/music/Jeff+Buckley/_/I+Want+Someone+Badly)*
-- **Jeff Buckley** - *[I Know It's Over](https://www.last.fm/music/Jeff+Buckley/_/I+Know+It%27s+Over)*
-- **Jeff Buckley** - *[Forget Her](https://www.last.fm/music/Jeff+Buckley/_/Forget+Her)*
-- **Jeff Buckley** - *[Lover, You Should've Come Over](https://www.last.fm/music/Jeff+Buckley/_/Lover,+You+Should%27ve+Come+Over)*
-- **Japanese Breakfast** - *[Boyish](https://www.last.fm/music/Japanese+Breakfast/_/Boyish)*
+- **🎵 PinkPantheress** - *[Illegal](https://www.last.fm/music/PinkPantheress/_/Illegal)* (Now Playing)
+- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
+- **Daft Punk** - *[Give Life Back to Music](https://www.last.fm/music/Daft+Punk/_/Give+Life+Back+to+Music)*
+- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
+- **Charli xcx** - *[Girl, so confusing](https://www.last.fm/music/Charli+xcx/_/Girl,+so+confusing)*
 
 # 📀 Top Albums
 
