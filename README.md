@@ -5,11 +5,11 @@ Software Engineer - Devops - K8s - Cloud
 <!-- LASTFM:START -->
 # 🎶 Last.fm Scrobbles
 
-- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
-- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
-- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
-- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
-- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
+- **Vegyn** - *[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)*
+- **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
+- **PinkPantheress** - *[Stateside + Zara Larsson](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)*
+- **Rina Sawayama** - *[Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))*
+- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
 
 # 📀 Top Albums
 
