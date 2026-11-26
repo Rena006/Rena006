@@ -5,11 +5,11 @@ Software Engineer - Devops - K8s - Cloud
 <!-- LASTFM:START -->
 # 🎶 Last.fm Scrobbles
 
-- **🎵 PinkPantheress** - *[Illegal](https://www.last.fm/music/PinkPantheress/_/Illegal)* (Now Playing)
-- **Yaeji** - *[Raingurl](https://www.last.fm/music/Yaeji/_/Raingurl)*
-- **Daft Punk** - *[Give Life Back to Music](https://www.last.fm/music/Daft+Punk/_/Give+Life+Back+to+Music)*
-- **The Strokes** - *[Ode to the Mets](https://www.last.fm/music/The+Strokes/_/Ode+to+the+Mets)*
-- **Charli xcx** - *[Girl, so confusing](https://www.last.fm/music/Charli+xcx/_/Girl,+so+confusing)*
+- **Kanye West** - *[Through the Wire](https://www.last.fm/music/Kanye+West/_/Through+the+Wire)*
+- **Kanye West** - *[Father Stretch My Hands Pt. 1](https://www.last.fm/music/Kanye+West/_/Father+Stretch+My+Hands+Pt.+1)*
+- **Travis Scott** - *[90210 (feat. Kacy Hill)](https://www.last.fm/music/Travis+Scott/_/90210+(feat.+Kacy+Hill))*
+- **Kanye West** - *[Flashing Lights](https://www.last.fm/music/Kanye+West/_/Flashing+Lights)*
+- **Estelle** - *[American Boy](https://www.last.fm/music/Estelle/_/American+Boy)*
 
 # 📀 Top Albums
 
