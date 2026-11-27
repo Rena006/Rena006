@@ -5,11 +5,11 @@ Software Engineer - Devops - K8s - Cloud
 <!-- LASTFM:START -->
 # 🎶 Last.fm Scrobbles
 
+- **Oliver Tree** - *[Jerk](https://www.last.fm/music/Oliver+Tree/_/Jerk)*
+- **Oliver Tree** - *[Miss You - Bonus Track](https://www.last.fm/music/Oliver+Tree/_/Miss+You+-+Bonus+Track)*
 - **Vegyn** - *[Sexy Boy - Vegyn Version](https://www.last.fm/music/Vegyn/_/Sexy+Boy+-+Vegyn+Version)*
 - **Stan Getz** - *[Desafinado](https://www.last.fm/music/Stan+Getz/_/Desafinado)*
 - **PinkPantheress** - *[Stateside + Zara Larsson](https://www.last.fm/music/PinkPantheress/_/Stateside+%252B+Zara+Larsson)*
-- **Rina Sawayama** - *[Comme des Garçons (Like the Boys)](https://www.last.fm/music/Rina+Sawayama/_/Comme+des+Gar%C3%A7ons+(Like+the+Boys))*
-- **100 gecs** - *[mememe](https://www.last.fm/music/100+gecs/_/mememe)*
 
 # 📀 Top Albums
 
